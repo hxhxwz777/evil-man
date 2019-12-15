@@ -156,6 +156,7 @@
 [江西27岁女子拒绝相亲男子后遇害身亡](https://new.qq.com/rain/a/20190505A09B9I)<br>
 [江苏徐州男子冒充“霸道总裁”，先后诈骗3名女性受害人，总计约20余万元财物](https://baijiahao.baidu.com/s?id=1631031386625608150&wfr=spider&for=pc)<br>
 [江苏连云港男子驾车拐弯剐蹭路边女友，随后将其撞倒后驾车碾压](https://www.56.com/u53/v_MTUwNjk1NTU0.html)<br>
+[江苏南京某小区男子装摄像头偷拍防前妻找对象，镜头正对浴室和床](http://n.miaopai.com/media/YL327TCl6fz0FvadggcB1L-IvAl4gBz9)<br>
 [留日女学生江歌被闺蜜刘鑫前男友陈世峰捅刀杀死](https://www.thepaper.cn/newsDetail_forward_1788678)<br>
 
 ### 与学历无关
@@ -367,6 +368,7 @@
 [浙江余姚市张某杀妻抛尸](http://news.cri.cn/gb/42071/2015/11/11/5311s5163164.htm)<br>
 [浙江嘉兴男子邵某杀妻绞肉碎尸抛尸](http://www.sohu.com/a/41574163_110565)<br>
 [浙江丽水市松阳县一男子违反人身安全保护令对妻子再施暴，被司法拘留5天](https://www.thepaper.cn/newsDetail_forward_5228267)<br>
+[浙江温州龙湾区沙城镇郑宅姜瑞明将妻子脸整个撕烂，拿剪刀剪其头发衣服，被逼吃屎](https://weibo.com/1901632945/IkKVf0yPt?type=comment#_rnd1576408077084)<br>
 [广州一女子被前夫暴打致死，生前曾向警方求助](http://baijiahao.baidu.com/s?id=1647711192000576255&wfr=spider&for=pc)<br>
 [广州海珠区康乐村某出租屋张某杀害妻子夏某](https://baijiahao.baidu.com/s?id=1598800778809681340&wfr=spider&for=pc)<br>
 [广东一男子在街头骑摩托撞飞妻子，随后拿出镰刀追砍](http://n.miaopai.com/media/K-1ZkRzRbRhyzY2wMhQBxz~xk1CQrKbq)<br>
