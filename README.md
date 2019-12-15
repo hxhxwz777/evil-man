@@ -1,7 +1,7 @@
 # Evil Man - 中国男性之恶
 ## 简介
 收录性别暴力事件新闻<br>
-`女童保护`、`夺命恋爱`、`高校性侵`、`性骚扰`、`婚女家暴`、`网约车安全`
+`女童保护`、`夺命恋爱`、`高校性侵`、`性骚扰`、`婚女家暴`、`网约车安全`<br>
 持续更新，详情展开全部<br>
 
 ### 0-3岁
@@ -107,14 +107,12 @@
 [福建厦门海湾公园发现一起命案，32岁女子被63岁男子杀人后分尸抛尸](http://www.sohu.com/a/332733950_120065483)<br>
 [福建厦门思明区禾祥东路某小区外发生一起女性被杀案](http://news.hangzhou.com.cn/shxw/content/2019-11/22/content_7308787.htm)<br>
 [福建厦门思明区莲景路磐基中心酒店酷奇店一女子被64岁男子持剪刀捅伤头部、胸部、大腿，经抢救无效死亡](https://fj.qq.com/a/20140301/008808.htm)<br>
-[福建厦门打工妙龄女出租屋遇害 疑前男友下毒手](https://fj.qq.com/a/20150123/010320.htm)<br>
 [福建厦门罗宾森广场男子为抢夺年轻女子的财物，持刀砍人案](https://baike.baidu.com/item/%E5%8E%A6%E9%97%A8%E7%BD%97%E5%AE%BE%E6%A3%AE%E7%A0%8D%E4%BA%BA%E6%A1%88/16401016?fr=aladdin)<br>
 [福建厦门大学环境与生态学院在读研究生荆某被28岁男子砸伤头部后去世，男子系东北某大学毕业生](http://www.mnw.cn/xiamen/news/273758.html)<br>
 [浙江杭州加油站开进一辆车，带血女子跳车后瘫倒：叔叔救我！](https://baijiahao.baidu.com/s?id=1630507913810602428&wfr=spider&for=pc)<br>
 [浙江杭州男子公交站前突然强吻陌生女子，行政拘留10日](https://weibo.com/tv/v/GB852CAeD?fid=1034:4288491962745000)<br>
 [浙江温州快递小哥张勇上门取件性侵女客户](https://new.qq.com/omn/20181206/20181206A09CZV.html)<br>
 [四川成都仨老头疑公交上袭臀女孩 小伙出言喝止反被打成脑震荡](http://n.miaopai.com/media/mLZR19jE9YkpemWvQJLNbW3vEFjoXjxz)<br>
-[四川省资阳市雁江区21岁女护士失联 警方通报：前男友将其杀害](https://baijiahao.baidu.com/s?id=1603110709624502339&wfr=spider&for=pc)<br>
 [江西南昌女子深夜遭陌生男子强吻](https://baijiahao.baidu.com/s?id=1606852535754078216&wfr=spider&for=pc)<br>
 [江西南昌红谷滩伤人案](https://baike.baidu.com/item/5%C2%B724%E5%8D%97%E6%98%8C%E7%BA%A2%E8%B0%B7%E6%BB%A9%E4%BC%A4%E4%BA%BA%E6%A1%88/23520161)<br>
 [广西桂林电子科技大学一男生在校园对两女生持刀行凶24刀](https://mp.weixin.qq.com/s?__biz=MjM5NjAxNTIyMA==&mid=2657442714&idx=1&sn=fb01fa90dda3a4af0b87a722c95f24ad)<br>
@@ -135,7 +133,8 @@
 [福建厦门集美杏林村苑亭路女子全身赤裸出租屋内被同居男子杀害](http://365jia.cn/news/2011-07-06/E0B1E3FF6D7C63F4.html)<br>
 [福建厦门市湖里区塘边社一出租屋两女惨遭杀害，凶手为一名女性的前男友](http://www.mnw.cn/xiamen/news/1158616.html)<br>
 [福建华侨大学回应江歌案：陈世峰是本校毕业生在校曾殴打女友](http://www.sohu.com/a/204320401_313745)<br>
-[江西27岁女子拒绝相亲男子后遇害身亡](https://new.qq.com/rain/a/20190505A09B9I)<br>
+[福建厦门打工妙龄女出租屋遇害 疑前男友下毒手](https://fj.qq.com/a/20150123/010320.htm)<br>
+[四川省资阳市雁江区21岁女护士失联 警方通报：前男友将其杀害](https://baijiahao.baidu.com/s?id=1603110709624502339&wfr=spider&for=pc)<br>
 [四川夹江男子表白遭拒，持酒瓶袭击女子至头破血流](https://baijiahao.baidu.com/s?id=1631871290212535611&wfr=spider&for=pc)<br>
 [四川广安市政协常委、广安市广安区人民政府副区长的黎某被男友林某袭击后死亡](http://opinion.people.com.cn/n1/2018/0914/c1003-30294018.html)<br>
 [辽宁20岁女子被男友用擀面杖打成植物人，男友判三年缓刑五年](http://renjian.163.com/19/1128/10/EV2INC9T000181RV.html)<br>
@@ -154,6 +153,7 @@
 [贵州遵义男子纠缠前女友，砍女子头部5刀，十根手指全被砍断](http://n.miaopai.com/media/SoNZ5K4U47GlI46w1sWzHomnMPvTri8d)<br>
 [陕西男子连捅恋人数刀致其死亡](http://n.miaopai.com/media/xgtgi8raGYswyLj~-KaDDhiIgYsDh6dA)<br>
 [湖北男子兰某将前女友脱裤绑树上持刀威胁复合](http://news.sina.com.cn/o/2019-04-17/doc-ihvhiqax3394606.shtml)<br>
+[江西27岁女子拒绝相亲男子后遇害身亡](https://new.qq.com/rain/a/20190505A09B9I)<br>
 [江苏徐州男子冒充“霸道总裁”，先后诈骗3名女性受害人，总计约20余万元财物](https://baijiahao.baidu.com/s?id=1631031386625608150&wfr=spider&for=pc)<br>
 [江苏连云港男子驾车拐弯剐蹭路边女友，随后将其撞倒后驾车碾压](https://www.56.com/u53/v_MTUwNjk1NTU0.html)<br>
 [留日女学生江歌被闺蜜刘鑫前男友陈世峰捅刀杀死](https://www.thepaper.cn/newsDetail_forward_1788678)<br>
@@ -263,7 +263,7 @@
 [上海财经大学副教授钱逢胜被曝性侵女学生](https://baijiahao.baidu.com/s?id=1652250388367919503&wfr=spider&for=pc)<br>
 [上海交大副院长谢耘耕因涉性骚扰被撤职](https://www.douban.com/group/topic/116318384/)<br>
 [上海海事大学解聘外语学院副院长蒋林性侵女生](http://www.sohu.com/a/74420046_260616)<br>
-上海戏剧学院教务处处长厉震林性骚扰，已无链接
+上海戏剧学院教务处处长厉震林性骚扰，已无链接<br>
 [江苏南京师范大学教授刘军性骚扰女性，并发来对话截图，截图中的文字内容不堪入目](http://www.sohu.com/a/116014719_119038)<br>
 [江苏扬州大学华继钊老师骚扰女学生](http://think.szonline.net/hsbd/20190401/20190447614.html)<br>
 [山东临沂大学文学院教师郑明璋长期骚扰女学生](http://www.sohu.com/a/238587159_111292)<br>
