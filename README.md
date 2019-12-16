@@ -8,11 +8,10 @@
 ![](https://img.shields.io/badge/%E5%A9%9A%E5%A5%B3-%E5%AE%B6%E6%9A%B4-blueviolet)
 ![](https://img.shields.io/badge/%E7%BD%91%E7%BA%A6%E8%BD%A6-%E5%AE%89%E5%85%A8-brightgreen)<br>
 
-****
 |Author|幸存的全体中国女性|
 |---|---
 |E-mail|cn-woman-bot@protonmail.com
-****
+
 <br>投稿格式：`[标题](新闻链接)<br>`
 
 ### 0-3岁
