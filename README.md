@@ -6,13 +6,14 @@
 ![](https://img.shields.io/badge/%E9%AB%98%E6%A0%A1-%E6%80%A7%E4%BE%B5-orange)
 ![](https://img.shields.io/badge/-%E6%80%A7%E9%AA%9A%E6%89%B0-lightgrey)
 ![](https://img.shields.io/badge/%E5%A9%9A%E5%A5%B3-%E5%AE%B6%E6%9A%B4-blueviolet)
-![](https://img.shields.io/badge/%E7%BD%91%E7%BA%A6%E8%BD%A6-%E5%AE%89%E5%85%A8-brightgreen)
+![](https://img.shields.io/badge/%E7%BD%91%E7%BA%A6%E8%BD%A6-%E5%AE%89%E5%85%A8-brightgreen)<br>
+
 ****
 |Author|幸存的全体中国女性|
 |---|---
 |E-mail|cn-woman-bot@protonmail.com
 ****
-投稿格式：`[标题](新闻链接)<br>`
+<br>投稿格式：`[标题](新闻链接)<br>`
 
 ### 0-3岁
 [福建政和半岁女婴被性侵，嫌犯获刑五年](http://mn.sina.com.cn/news/s/2015-05-22/detail-iawzuney5987978.shtml?qq-pf-to=pcqq.c2c)<br>
