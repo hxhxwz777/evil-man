@@ -12,8 +12,10 @@
 |---|---
 |E-mail|cn-woman-bot@protonmail.com
 
-<br>投稿格式：`[标题](新闻链接)<br>`
-
+投稿格式：
+```
+[标题](新闻链接)<br>
+```
 ### 0-3岁
 [福建政和半岁女婴被性侵，嫌犯获刑五年](http://mn.sina.com.cn/news/s/2015-05-22/detail-iawzuney5987978.shtml?qq-pf-to=pcqq.c2c)<br>
 [台湾桃园县一变态男虐死10月大女婴 并多次性侵5岁干女儿](http://news.ifeng.com/c/7fZCCKdN64P)<br>
