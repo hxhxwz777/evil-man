@@ -291,7 +291,7 @@
 [湖北武汉女子公交上遭性骚扰：男子两度将手伸进裙子](http://hb.sina.com.cn/news/sh/2014-04-09/0752158304.html)<br>
 [辽宁大连公交上发生性骚扰，色狼欲打车逃离](https://baijiahao.baidu.com/s?id=1597994186735189047&wfr=spider&for=pc)<br>
 [辽宁沈阳女子遭公交色狼用下体磨蹭 对方被训斥拍照后下车](http://www.chinanews.com/sh/2014/07-30/6439381.shtml)<br>
-[辽宁沈阳一50岁男子在卫生巾上涂番茄酱骚扰女性被拘]([辽宁大连公交上发生性骚扰，色狼欲打车逃离](https://baijiahao.baidu.com/s?id=1597994186735189047&wfr=spider&for=pc)<br>)<br>
+[辽宁沈阳一50岁男子在卫生巾上涂番茄酱骚扰女性被拘](https://baijiahao.baidu.com/s?id=1597994186735189047&wfr=spider&for=pc)<br>
 [浙江杭州一男子公交车上性骚扰女乘客 司机霸气解围](http://baijiahao.baidu.com/s?id=1638562479551505303&wfr=spider&for=pc)<br>
 [江苏徐州49岁大叔男扮女装混进女澡堂 只因两眼放光不洗澡被发现](https://www.sohu.com/a/228786895_260155)<br>
 [江苏苏州游5路公交车现性骚扰](http://sc.sina.com.cn/news/s/2013-10-09/0734131726.html)<br>
