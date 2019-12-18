@@ -80,6 +80,7 @@
 [北京东城一女中学生早晨在天坛东路附近被41岁男子杀害](https://xw.qq.com/amphtml/20191121A0KRI900)<br>
 [台湾台南才女作家林奕含13岁被被禽兽老师陈星(原名陈国星)诱奸，患抑郁多年,26岁选择自杀身亡](https://www.sohu.com/a/230853152_486463)<br>
 [台湾新北市一17岁女生疑遭性侵 校内产女婴](http://tv.cntv.cn/video/C10361/77441E8C61F5477cAE55CA88C97B438D)<br>
+[江苏省扬州市宝应县林某和鲁某某轮奸9岁幼女后分开多次强奸](https://weibo.com/ttarticle/p/show?id=2309404427998303486037)<br>
 [江苏响水两名11岁的小女孩被托管老师性侵10多次](http://baijiahao.baidu.com/s?id=1598603167361764583&wfr=spider&for=pc)<br>
 [江苏连云港一男子持木棍暴打一对亲生儿女](http://n.miaopai.com/media/Hzc-jriyhB9G8o5Ykg-nm-zmm3LR2F-l)<br>
 [江苏省常州市某小区15岁男孩性侵7岁女童 因害怕被发现将其推下25楼](http://jiangsu.sina.com.cn/news/s/2019-05-16/detail-ihvhiews2241114.shtml)<br>
@@ -87,6 +88,10 @@
 [安徽合肥14岁女生被网恋大学生男友捅20余刀死亡](https://zx.sina.cn/2019-11-25/zx-iihnzhfz1461399.d.html?wm=3049_0018)<br>
 [安徽18岁女孩自曝5岁遭表哥王迅性侵，抑郁四年五次自杀](https://www.yidianzixun.com/article/0KT5QAh2?s=mb&miref=newsin_app_push&docid=0KT5QAh2&cp=cn-browser-push&itemtype=news)<br>
 [安徽省宿州市女子自爆被表哥马某性侵猥亵长达六年时间](https://www.guancha.cn/society/2018_11_12_479300.shtml)<br>
+```
+一只手遮住小女孩光明的未来，另一只手过来捂住你的嘴————微博用户 @RunchR-
+```
+[“春蕾计划”被曝用贫困女童骗取捐款，但4成资助对象为男童,有网友扒出其中有19岁玩摄影的的男童](http://baijiahao.baidu.com/s?id=1653234196000634145&wfr=spider&for=pc)<br>
 
 ### 18岁以上
 [广东梅州少女遭老汉当街猥亵路人拍照无人救](http://www.sohu.com/a/221213486_115376)<br>
@@ -186,6 +191,8 @@
 
 ### 与学历无关
 [不寒而栗的爱情：北大女生遭男友精神折磨后自杀](https://www.thepaper.cn/newsDetail_forward_5226837)<br>
+[我是包丽的朋友，真相远比你知道的更可怕](https://chinadigitaltimes.net/chinese/2019/12/%E5%87%B1%E6%97%8B%E5%8D%81%E4%BA%8C-%E6%88%91%E6%98%AF%E5%8C%85%E4%B8%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C%E7%9C%9F%E7%9B%B8%E8%BF%9C%E6%AF%94%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9B%B4/)该链接需要科学上网<br>
+[厦大海洋与海岸带发展研究院在读硕士彭炜敏婚内出轨，并假冒母亲身份欺骗女生](https://mp.weixin.qq.com/s/ovkcBTy56v6IbDj6rgIvYg)<br>
 [大连一研究生出轨后，将妻儿掐死，被判无期](http://news.sina.com.cn/s/2018-10-02/doc-ihkvrhps0680457.shtml)<br>
 [北大吴谢宇弑母案](http://news.chinaxiaokang.com/shehuipindao/fazhi/20191204/854303.html)<br>
 [清华法律硕士男子商场偷拍，行政拘留7日](http://m.sohu.com/a/318182186_355832)<br>
@@ -246,6 +253,13 @@
 [北京龙泉寺学诚法师性侵案](https://www.sohu.com/a/250179476_376226)<br>
 [俞渝爆李国庆有梅毒，行贿，转移财产送多个情人](http://baijiahao.baidu.com/s?id=1648368564395207648&wfr=spider&for=pc)<br>
 [80后女作家春树实名曝光作家张弛、《新周刊》创始人孙冕，称曾遭二人性侵](http://news.163.com/18/0726/02/DNJU8G6R0001875P.html)<br>
+
+### 厌女恶臭言论
+![高晓松“骚得吧确实有点太过了”](https://ww3.sinaimg.cn/bmiddle/006Dcpg6ly1g8wohymk24j30c8103td5.jpg)
+![张敬轩“鸟巢去不了，我还是去卵巢吧”](https://ww4.sinaimg.cn/bmiddle/74259562gy1g9xsmnkdb3j20u00xsgwo.jpg)
+![周鸿祎"管钱这种小事就女人去管吧"](https://tech.sina.com.cn/i/2019-10-27/doc-iicezuev5275842.shtml?cref=cj)<br>
+![雷佳音不顾汤唯感受在采访中说汤唯产后拍戏尿频影响他入戏](https://new.qq.com/omn/20191214/20191214A0O32800.html)<br>
+![厌女歌词 网易云音乐-新学校废物合唱团《bongbong》](https://music.163.com/#/song?id=489754439)<br>
 
 ### 性骚扰 公共场所
 [广西男子公交性骚扰被发现，掏刀恐吓被行拘15日](http://n.miaopai.com/media/LxKJlAiiw6k19G7RwVsuOiTnJ~XVCT-f)<br>
@@ -422,6 +436,7 @@
 [山东省聊城市高唐县人赵某杀妻后跑来青岛旅游，落网](http://baijiahao.baidu.com/s?id=1652448223493839617&wfr=spider&for=pc)<br>
 [山东临沂市费县医生高瑞森长期盗取医院大量药品，多次下毒谋杀妻子](http://baijiahao.baidu.com/s?id=1639287255946657464&wfr=spider&for=pc)<br>
 [海南98岁老人怀疑被毒害持刀杀妻 获刑十五年](http://baijiahao.baidu.com/s?id=1647060881289112483&wfr=spider&for=pc)<br>
+[贵州代女士因身份证丢失“被结婚” 民政局：无法撤销](http://baijiahao.baidu.com/s?id=1653211614341105202&wfr=spider&for=pc)<br>
 [香港大学教师张祺忠杀妻](https://www.thepaper.cn/newsDetail_forward_2993075)<br>
 [香港中文大学教授“毒球”谋杀妻女案](https://baijiahao.baidu.com/s?id=1612121571864831729&wfr=spider&for=pc)<br>
 [中国孕妇泰国坠崖！丈夫被指“亲手将其推下”，杀妻谋财](https://baijiahao.baidu.com/s?id=1636781354320205033&wfr=spider&for=pc)<br>
@@ -551,6 +566,7 @@
 2016年4月，[兰州理工大学男子尾随厕所偷拍，罚款500](https://www.thepaper.cn/newsDetail_forward_1540886)<br>
 2019年11月，[上海女子做完私处美容 却发现正前方就是监控探头](http://n.miaopai.com/media/q7FCtODrj9xvw802UC~mp8DPc~K4ZM9Z)<br>
 2019年12月，[湖北美院偷拍女生裙底还把视频发到了p站]，无语，链接不放了<br>
+2019年12月，[广州地铁一安检人员偷拍女乘客裙底](http://baijiahao.baidu.com/s?id=1653208518644829853&wfr=spider&for=pc)<br>
 
 ## 结语 
 
