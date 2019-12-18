@@ -39,6 +39,7 @@
 [河南男子湛某侵害女孩潜逃35年 为赎罪救了许多落水者](https://zx.sina.cn/2019-11-25/zx-iihnzahi3115086.d.html?wm=3049_0018)<br>
 [河南温县子夏公园四旬男子企图性侵智残女](https://baijiahao.baidu.com/s?id=1637832799059548696&wfr=spider&for=pc)<br>
 [河南许昌禹州7岁女孩眼睛被同学塞几十张纸片 校长:他们没恶意](http://news.sina.com.cn/s/2019-11-12/doc-iihnzhfy8692619.shtml)<br>
+[河南禹州14岁女孩被骗到KTV陪酒，女孩：不敢跑，否则会被打死的](https://new.qq.com/omn/TWF20191/TWF2019121704110500.html)<br>
 [海南纺织工业局副局长李庆普犯贪污、嫖宿幼女、巨额财产来源不明罪被一审判20年，写两抽屉嫖娼日记共95本](http://news.jstv.com/wap/a/20191214/1576266234642.shtml)<br>
 [山东9岁女孩路上被强行塞进轿车拐走，民警25小时成功营救](https://baijiahao.baidu.com/s?id=1630593442835058246&wfr=spider&for=pc)<br>
 [山东初三女孩在家中被父亲杀害，母亲亦被家暴16年](http://n.miaopai.com/media/DAAVgnWNvMJ4J7qOlY7ymNahdbOv2QH~)<br>
@@ -89,9 +90,12 @@
 [安徽18岁女孩自曝5岁遭表哥王迅性侵，抑郁四年五次自杀](https://www.yidianzixun.com/article/0KT5QAh2?s=mb&miref=newsin_app_push&docid=0KT5QAh2&cp=cn-browser-push&itemtype=news)<br>
 [安徽省宿州市女子自爆被表哥马某性侵猥亵长达六年时间](https://www.guancha.cn/society/2018_11_12_479300.shtml)<br>
 ```
-一只手遮住小女孩光明的未来，另一只手过来捂住你的嘴————微博用户 @RunchR-
+一只手遮住小女孩光明的未来
+另一只手过来捂住你的嘴
+————微博用户 @RunchR-
 ```
-[“春蕾计划”被曝用贫困女童骗取捐款，但4成资助对象为男童,有网友扒出其中有19岁玩摄影的的男童](http://baijiahao.baidu.com/s?id=1653234196000634145&wfr=spider&for=pc)<br>
+[女童专项捐助“春蕾计划”被曝用贫困女童骗取捐款，但4成资助对象为男童,有网友扒出其中有19岁玩摄影的的男童](http://baijiahao.baidu.com/s?id=1653234196000634145&wfr=spider&for=pc)<br>
+在中国，男的在成长过程中美滋滋地享用女性捐助的专门给女童的捐款，却还觉得“国家欠我一个媳妇”，哪里有好处可占，哪里就有男性的身影。捐款的姐姐们、独生女们没有弟弟，却在云养弟。而真正需要救助的女童，得不到教育和资源，其今后的人生艰辛可想而知。在榨干女童的一切价值后把她们扔到一边，侵占女人的读书机会和教育资源、提高女性分数线、侵占就业空间、降低婚龄想让女孩早早进入婚姻、增设离婚冷静期为女性脱离奴籍设置关卡，但需要宣传苦难，需要生孩子，需要剥削霸占子宫，需要保姆育儿嫂，需要婚内强奸免费妓女的时候却想起她们了，“女童是未来的母亲”，官方的宣传真是滑天下之大稽，每一个踩着女人尸体、手上沾满女人血的男性，你们晚上真的能睡着吗？<br>
 
 ### 18岁以上
 [广东梅州少女遭老汉当街猥亵路人拍照无人救](http://www.sohu.com/a/221213486_115376)<br>
@@ -114,6 +118,7 @@
 [湖北武汉已婚男子地铁内搭讪女孩被拒 挥拳暴击对方](http://hb.sina.com.cn/news/b/2019-04-21/detail-ihvhiewr7363361.shtml?from=hb_tttj)<br>
 [湖北武汉一花季女大学生被性侵 作案者竟是闺蜜男友](https://hb.qq.com/a/20171122/007253.htm)<br>
 [湖北武汉黄陂抑郁症女孩坠楼身亡，两年前曾报案称遭强暴但证据不足被退回](http://baijiahao.baidu.com/s?id=1649916528052458784&wfr=spider&for=pc)<br>
+[北京一泌尿外科医生张某磊猥亵女患者，获刑7个月](http://news.sina.com.cn/c/2019-12-17/doc-iihnzahi8210202.shtml)<br>
 [云南昆明理工大学大二学生李心草被一男子打耳光，被发现时已溺亡](https://new.qq.com/omn/20191013/20191013A0K26Y00.html)<br>
 [湖南衡阳市衡南县三塘镇星火实验中学周姓女老师被陌生男子殴打](https://m.baidu.com/sf_baijiahao/s?id=1650592154665454766&wfr=spider&for=pc)<br>
 [河南少女失踪6年后被找到，已与一对父子生3孩并精神分裂](https://baijiahao.baidu.com/s?id=1620782852540777374&wfr=spider&for=pc)<br>
@@ -255,11 +260,11 @@
 [80后女作家春树实名曝光作家张弛、《新周刊》创始人孙冕，称曾遭二人性侵](http://news.163.com/18/0726/02/DNJU8G6R0001875P.html)<br>
 
 ### 厌女恶臭言论
-![高晓松“骚得吧确实有点太过了”](https://ww3.sinaimg.cn/bmiddle/006Dcpg6ly1g8wohymk24j30c8103td5.jpg)
-![张敬轩“鸟巢去不了，我还是去卵巢吧”](https://ww4.sinaimg.cn/bmiddle/74259562gy1g9xsmnkdb3j20u00xsgwo.jpg)
-![周鸿祎"管钱这种小事就女人去管吧"](https://tech.sina.com.cn/i/2019-10-27/doc-iicezuev5275842.shtml?cref=cj)<br>
-![雷佳音不顾汤唯感受在采访中说汤唯产后拍戏尿频影响他入戏](https://new.qq.com/omn/20191214/20191214A0O32800.html)<br>
-![厌女歌词 网易云音乐-新学校废物合唱团《bongbong》](https://music.163.com/#/song?id=489754439)<br>
+[高晓松“骚得吧确实有点太过了”](https://ww3.sinaimg.cn/bmiddle/006Dcpg6ly1g8wohymk24j30c8103td5.jpg)
+[张敬轩“鸟巢去不了，我还是去卵巢吧”](https://ww4.sinaimg.cn/bmiddle/74259562gy1g9xsmnkdb3j20u00xsgwo.jpg)
+[周鸿祎"管钱这种小事就女人去管吧"](https://tech.sina.com.cn/i/2019-10-27/doc-iicezuev5275842.shtml?cref=cj)<br>
+[雷佳音不顾汤唯感受在采访中说汤唯产后拍戏尿频影响他入戏](https://new.qq.com/omn/20191214/20191214A0O32800.html)<br>
+[厌女歌词 网易云音乐-新学校废物合唱团《bongbong》](https://music.163.com/#/song?id=489754439)<br>
 
 ### 性骚扰 公共场所
 [广西男子公交性骚扰被发现，掏刀恐吓被行拘15日](http://n.miaopai.com/media/LxKJlAiiw6k19G7RwVsuOiTnJ~XVCT-f)<br>
