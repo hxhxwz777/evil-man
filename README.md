@@ -43,6 +43,7 @@
 [海南纺织工业局副局长李庆普犯贪污、嫖宿幼女、巨额财产来源不明罪被一审判20年，写两抽屉嫖娼日记共95本](http://news.jstv.com/wap/a/20191214/1576266234642.shtml)<br>
 [山东9岁女孩路上被强行塞进轿车拐走，民警25小时成功营救](https://baijiahao.baidu.com/s?id=1630593442835058246&wfr=spider&for=pc)<br>
 [山东初三女孩在家中被父亲杀害，母亲亦被家暴16年](http://n.miaopai.com/media/DAAVgnWNvMJ4J7qOlY7ymNahdbOv2QH~)<br>
+[山东济宁警方男子当街连踹5名女性泄愤，怕被揍不敢挑男性](http://n.miaopai.com/media/r1AdyzASvfhkMLMD7fFBNjfLwRXF1B4-)<br>
 [山东济南济阳区男子暴力胁迫性侵未成年少女](http://news.china.com.cn/2019-12/02/content_75467456.htm)<br>
 [海南临高县10岁女童怀孕8个月！疑被同村61岁老人性侵](http://edu.youth.cn/jyzx/jyxw/201702/t20170213_9110982.htm)<br>
 [辽宁大连10岁女孩遭13岁男孩杀害，不予追究刑事责任](http://baijiahao.baidu.com/s?id=1649737074633361782&wfr=spider&for=pc)<br>
@@ -57,6 +58,7 @@
 [湖南祁东县疑多人强奸11岁女孩 两公职人员涉案](http://www.sohu.com/a/354532305_260616)<br>
 [广西10岁女孩卖百香果回家途中遇害，疑遭嫌犯性侵后藏尸草丛](https://www.yidianzixun.com/article/0KEfR3Xz?s=mb&miref=newsin_app_push)<br>
 [广西一男子多次性侵12岁少女](https://www.sohu.com/a/329950492_120065581)<br>
+[陕西凤翔县柳林镇人大主席李向阳因强奸14岁未成年被逮捕](http://n.miaopai.com/media/64dm0DxGcm5TU93g6YTqrGWM~xQ2l7kL)<br>
 [辽宁葫芦岛男子与12岁幼女发生关系被控强奸，一审、终审均判无罪！](http://www.xcar.com.cn/bbs/viewthread.php?tid=94551197)<br>
 [四川绵阳73路公交上男子猥亵5年级女孩，他却反驳：我俩是好朋友](http://inews.ifeng.com/yidian/60155628/news.shtml?ch=ref_zbs_ydzx_news&yidian_docid=0KWmUcLT&yidian_s=mb&yidian_appid=&miref=newsin_app_push&yidian_cp=cn-yidian-news-v2&yidian_itemtype=news)<br>
 [四川63岁男子强奸14岁残疾少女](https://www.guancha.cn/politics/2019_10_28_523008.shtml)<br>
@@ -391,6 +393,7 @@
 [湖南新化男子涉嫌杀妻](https://baijiahao.baidu.com/s?id=1619788245694646538&wfr=spider&for=pc)<br>
 [湖南常德西洞庭男子陈某持刀杀妻](http://hunan.sina.com.cn/news/2015-08-25/detail-ifxhcvsf1100701.shtml)<br>
 [湖南省宁远县女子自杀，丈夫毁尸制造失踪假象](http://www.sohu.com/a/323309653_120044203)<br>
+[湖南汉寿县一男子网上赌博欠百万，持刀砍全家2死3伤：妻子和3岁女儿身亡](http://3g.163.com/v/video/VMVTOH996.html)<br>
 [四川巴中女教师在电梯被丈夫打掉牙齿后坠亡，警方不予立案](https://static.cdsb.com/micropub/Articles/201911/e66e1fa18690db3957d054ddbf20075f.html)<br>
 [四川男子当街打断老婆14根肋骨，还叫嚣“打老婆犯法吗？"](http://www.sohu.com/a/254430145_712313)<br>
 [四川泸州维多利亚小区男子杀死妻子并肢解](http://www.sohu.com/a/289289823_120046618)<br>
@@ -425,6 +428,7 @@
 [浙江嘉兴男子邵某杀妻绞肉碎尸抛尸](http://www.sohu.com/a/41574163_110565)<br>
 [浙江丽水市松阳县一男子违反人身安全保护令对妻子再施暴，被司法拘留5天](https://www.thepaper.cn/newsDetail_forward_5228267)<br>
 [浙江温州龙湾区沙城镇郑宅姜瑞明将妻子脸整个撕烂，拿剪刀剪其头发衣服，被逼吃屎](https://weibo.com/1901632945/IkKVf0yPt?type=comment#_rnd1576408077084)<br>
+[浙江绍兴袍江一小区男子持刀砍伤前妻及前妻女儿，前妻身中二十多刀](https://mp.weixin.qq.com/s/ZmYc97egHspefEkmX4Fs0Q)<br>
 [广州一女子被前夫暴打致死，生前曾向警方求助](http://baijiahao.baidu.com/s?id=1647711192000576255&wfr=spider&for=pc)<br>
 [广州海珠区康乐村某出租屋张某杀害妻子夏某](https://baijiahao.baidu.com/s?id=1598800778809681340&wfr=spider&for=pc)<br>
 [广东一男子在街头骑摩托撞飞妻子，随后拿出镰刀追砍](http://n.miaopai.com/media/K-1ZkRzRbRhyzY2wMhQBxz~xk1CQrKbq)<br>
