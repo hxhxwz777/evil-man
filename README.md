@@ -155,7 +155,7 @@
 [四川成都仨老头疑公交上袭臀女孩 小伙出言喝止反被打成脑震荡](http://n.miaopai.com/media/mLZR19jE9YkpemWvQJLNbW3vEFjoXjxz)<br>
 [四川南江女子在下班途中遭遇两名陌生男子黄某、钟某用砖头打昏，并用胶带封口](http://n.miaopai.com/media/EqSOKFVNR4zNH0hbLbuceDoqpDPShtSv)<br>
 [江西南昌女子深夜遭陌生男子强吻](https://baijiahao.baidu.com/s?id=1606852535754078216&wfr=spider&for=pc)<br>
-[江西南昌红谷滩伤人案](https://baike.baidu.com/item/5%C2%B724%E5%8D%97%E6%98%8C%E7%BA%A2%E8%B0%B7%E6%BB%A9%E4%BC%A4%E4%BA%BA%E6%A1%88/23520161)<br>
+[江西南昌红谷滩伤人案，男子万某弟砍死无辜路人女子](https://baike.baidu.com/item/5%C2%B724%E5%8D%97%E6%98%8C%E7%BA%A2%E8%B0%B7%E6%BB%A9%E4%BC%A4%E4%BA%BA%E6%A1%88/23520161)<br>
 [广西一男子熊志城欠赌债来杭州自尽想找人陪死，强制猥亵并刺死浙大海归23岁女孩](http://www.sohu.com/a/329529776_398039)<br>
 [广西桂林电子科技大学一男生在校园对两女生持刀行凶24刀](https://mp.weixin.qq.com/s?__biz=MjM5NjAxNTIyMA==&mid=2657442714&idx=1&sn=fb01fa90dda3a4af0b87a722c95f24ad)<br>
 [广西柳州一女孩登山被抢劫杀害遗体遭性侵 凶手被抓时正在嫖娼](http://hb.sina.com.cn/news/2017-06-22/detail-ifyhmtek7641210.shtml)<br>
@@ -165,7 +165,7 @@
 [台湾的富少李宗瑞在夜店下药，将数十名女子迷倒带回家中性侵偷拍,并迷奸继母](http://ent.sina.com.cn/s/m/2012-10-19/15543767684.shtml?from=wap)<br>
 [台湾42岁清洁工猥亵杀害成大女研究生](http://news.ifeng.com/c/7sBRO6JwdRE)<br>
 [黑龙江依安男子至女主播家中砸晕女主播后抢劫](http://www.sohu.com/a/359386567_661528)<br>
-[贵州黎平县德凤街道某商住小区电梯内男子猥琐女子](https://baijiahao.baidu.com/s?id=1612859795737194376&wfr=spider&for=pc)<br>
+[贵州黎平县德凤街道某商住小区电梯内男子猥亵女子](https://baijiahao.baidu.com/s?id=1612859795737194376&wfr=spider&for=pc)<br>
 [海南男子曾令儒持刀杀害女友母亲和姐姐](http://www.hicourt.gov.cn/preview/article?articleId=03111754-9fab-4e43-aa91-4f0f0439c60a)<br>
 [安徽长丰县水湖镇男子水某某抄铁锤杀害妻姐](http://www.chinanews.com/sh/2018/10-24/8657952.shtml)<br>
 [上海超级越野赛女选手山林里遭村民手持刀具猥亵](https://www.sohu.com/a/278900532_100048098)<br>
@@ -384,6 +384,34 @@
 [山西大同一男子霍某某连续杀害姐姐、姐夫](https://baijiahao.baidu.com/s?id=1621244503771324452&wfr=spider&for=pc)<br>
 [山东省烟台市牟平区姜格庄镇东杭格庄村男子丛龙学用菜刀将其亲姐杀死在家中](http://www.langya.cn/lyzt/fdxj/alxb/201711/t20171103_501745.html)<br>
 [山东淄博弟弟挥刀砍杀姐姐](http://news.iqilu.com/shandong/yuanchuang/2014/0704/2051719.shtml)<br>
+
+### 女尸也不放过
+[辽宁沈阳法库县22岁男子侮辱殡仪馆女尸](https://hn.qq.com/a/20161020/037314.htm?qqcom_pgv_from=aio)<br>
+[辽宁沈阳东陵区前进乡文官村男子许某杀人并奸淫尸体](http://www.china.com.cn/chinese/law/679738.htm)<br>
+[吉林大学大四男生李某勒死两卖淫女并辱尸，称和尸体做爱刺激](http://bbs.qinzhou360.com/thread-1366042-1-1.html)<br>
+[吉林东辽县男子刘井仁在河北石家庄藁城、无极等地杀死15人并侮辱女尸](http://news.sina.com.cn/c/2003-04-12/165892243s.shtml)<br>
+[哈尔滨香坊区成高子镇男子贾某杀害两名女子并侮辱女性私处](http://roll.sohu.com/20120209/n334182131.shtml?1328797201)<br>
+[河北张家口东花园镇南水泉村村民赵某伟杀害女友并奸淫尸体](http://www.sohu.com/a/314895988_120064954)<br>
+[台湾男子李忠财杀妻后奸尸](http://www.china.com.cn/news/tw/2011-01/05/content_21677539.htm)<br>
+[台湾台南嘉南药理科技大学大二学生黄仲佑勒死学妹后奸淫尸体](http://dy.163.com/v2/article/detail/EBOJQQTM0514882Q.html)<br>
+[台湾台大宅王”张彦文当街狂砍女友47刀并当众辱尸](http://ny.uschinapress.com/spotlight/2018/03-03/140003.html)<br>
+[内蒙古乌兰察布市商都县男子在乌海奸杀8岁女童并奸淫尸体](http://lawsocial.nmgnews.com.cn/system/2012/08/29/010826702.shtml)<br>
+[江西南昌一男子常看淫秽视频，尾随女学生杀人并奸淫尸体](http://jx.sina.com.cn/news/s/2018-01-12/detail-ifyqqieu6009094.shtml)<br>
+[广西桂林廉江男子约会女网友起色心杀人侮辱尸体](http://news.guilinlife.com/n/2015-08/31/368960.shtml)<br>
+[四川绵阳男子黄某来温州务工，杀死一对母女后辱尸](http://www.chinanews.com/fz/2013/12-03/5574180.shtml)<br>
+[北京两男子杨某和吕某借法律咨询名义劫杀女律师助理后辱尸](http://news.cntv.cn/society/20110110/100944.shtml)<br>
+[陕西咸阳兴平市汤坊镇刘某某将兴平市丰仪镇村妇高某强奸杀害并焚尸](https://society.huanqiu.com/article/9CaKrnJHikz)<br>
+[湖南岳阳男子邓某勒死陌生女学生并对尸体猥亵和奸淫](https://new.qq.com/rain/a/20150822021331)<br>
+[湖南桂阳男子唐灼龙在广州番禺市区打工，杀害女生并猥亵尸体](http://stock.591hx.com/article/2016-04-06/0000964465s.shtml)<br>
+[湖北一男子在桂林阳朔马鞍山后山小道抢劫杀害一女子并奸淫尸体](http://www.sohu.com/a/150870379_650845)<br>
+[湖北省枣阳市熊集镇前营村一男子姜维杀害同村62岁老妇和其7岁孙女，并奸淫孙女尸体](http://www.womenbooks.com.cn/shh/27595.html)<br>
+[湖北省红安县永佳河镇二里河村男子江望兵奸杀3名少女还辱尸](https://www.fun48.com/article-105594-1.html)<br>
+[贵州28岁男子罗正义在福建漳州长泰杀夜跑女子并奸淫尸体](http://www.maxlaw.cn/l/20140924/797595807264.shtml)<br>
+[福建漳州龙海人高某明向大姨子借钱不成 杀人并猥亵尸体](http://fj.sina.com.cn/news/s/2011-09-09/0729110957.html)<br>
+[安徽男子周某潜入雇主家中杀害雇主两个女儿并猥亵尸体](http://www.ahwang.cn/zbah/20140305/1354289.shtml)<br>
+[海南一男子王春翻窗掐死邻居后奸尸](http://www.xilu.com/news/nanziqiasilinjuhourushi.html)<br>
+[河南沁阳两男杀15岁女学生并奸淫尸体索要赎金](http://unn.people.com.cn/GB/14775/21684/11710751.html?1275005081)<br>
+[广东一男子郑某某抢劫、强奸、奸淫尸体坏事做尽，强奸5人孕妇也不放过](http://help.3g.163.com/17/0223/16/CDVKVM6300964LDO.html)<br>
 
 ### 与金钱地位无关 
 [央视主持人朱军被爆性侵女大学生](http://m.kdnet.net/share-12880247.html)<br>
