@@ -248,6 +248,7 @@
 [江苏常州新北区男子杀妻骗保，赌徒丈夫设计车祸等多种杀法](https://js.qq.com/a/20131106/009095.htm)<br>
 [江苏徐州男子为骗保将铁钉插入妻子大脑](http://m.kdnet.net/share-3122182.html)<br>
 [江苏盐城响水红旗北路一男子杀害前妻](https://www.sohu.com/a/218731814_231496)<br>
+[江苏苏州一男子张明将前妻残忍杀害](http://m.sohu.com/a/249679557_351256)<br>
 [内蒙古自治区鄂尔多斯市伊金霍洛旗一男子怀疑妻子不忠将其杀害](https://baijiahao.baidu.com/s?id=1633851432441881138&wfr=spider&for=pc)<br>
 [内蒙古鄂尔多斯市杭锦旗女记者遭丈夫金柱家暴惨死,丈夫被判死缓](http://www.sohu.com/a/129476305_531704)<br>
 [河北唐山市丰南区男子杀妻](http://m.sohu.com/a/207197993_684478)<br>
@@ -338,12 +339,19 @@
 ```
 我又没杀别人 我杀的是我亲妈
 ```
-[湖南12岁少年弑母：我又没杀别人](https://baijiahao.baidu.com/s?id=1619519385281916749&wfr=spider&for=pc)<br>
-[湖南益阳六年级男生不服管教持刀弑母](https://www.douban.com/group/topic/129007441/)<br>
-[广西玉林一男子与母亲发生口角后杀母 被控故意杀人罪](http://www.sohu.com/a/358982750_394144)<br>
-[广东省陆丰市甲西镇一男子残忍杀害生身父母](http://365jia.cn/news/2019-03-21/13665D026344A4A9.html)<br>
+[湖南益阳沅江市泗湖山镇人12岁少年吴某康弑母：我又没杀别人](https://baijiahao.baidu.com/s?id=1619519385281916749&wfr=spider&for=pc)<br>
+[湖南涟源男子在家中持刀杀死母亲杀伤父亲](https://www.thepaper.cn/newsDetail_forward_2228139)<br>
+[安徽省安庆市宿松县男子刘迭文杀母后畏罪逃跑](https://baijiahao.baidu.com/s?id=1626154260937267107&wfr=spider&for=pc)<br>
+[安徽合肥红星路板门巷男子杀害亲生父母](https://baijiahao.baidu.com/s?id=1628970383511970182&wfr=spider&for=pc)<br>
+[河北衡水市安平县马店镇徘徊村一男子付某峰杀害父母](http://mini.eastday.com/a/180522203158110.html)<br>
+[广西玉林一男子张某与母亲发生口角后杀母 被控故意杀人罪](http://www.sohu.com/a/358982750_394144)<br>
+[广西桂林平乐县男子酒后为出气殴打母亲致死](http://news.eastday.com/eastday/13news/auto/news/china/20170810/u7ai7002084.html)<br>
+[广东茂名市电白区一男子曾某家中杀死父母 客厅遍地鲜血](http://finance.people.com.cn/n/2014/0904/c66323-25599784.html?_t=1410057542359)<br>
+[广东省惠州市惠东县白花镇男子将自己父母杀害](https://www.19lou.com/forum-289-thread-6311436515564956-1-1.html)<br>
+[广东省陆丰市甲西镇一男子残忍杀害父母](http://365jia.cn/news/2019-03-21/13665D026344A4A9.html)<br>
 [四川自贡一男子杀母骗保](http://dy.163.com/v2/article/detail/EIMSCV4I0511LN1E.html)<br>
 [黑龙江漠河邵某弑母案](http://baijiahao.baidu.com/s?id=1647442010483236954&wfr=spider&for=pc)<br>
+[辽宁大连男子酒后杀母抛尸野外](http://www.dlxww.com/news/content/2018-12/19/content_2238052.htm)<br>
 [海南省东方市东河镇亚要村男子符李民持棍棒和石头追打母亲致死](http://www.sohu.com/a/362036130_391294)<br>
 [河南安阳男子宋某昌丧心病狂弑杀亲母](https://www.henan100.com/news/2017/683302.shtml)<br>
 ```
