@@ -21,6 +21,8 @@
 [浙江宁波1岁半大女婴被五旬男子性侵](http://m.sohu.com/a/136385366_612707/)<br>
 [广西南宁3岁女童处女膜破裂称被老师打屁股 幼儿园监控缺失](https://app.peopleapp.com/Api/600/DetailApi/shareArticle?type=0&article_id=2274001&from=singlemessage&isappinstalled=0)<br>
 [江苏常州女婴出生3天被其父亲抱出院，以5万元卖出](http://sjycdn.miaopai.com/stream/HngoIYaNBYJB1-3mX-I9aCevRn-PBViQlg7cDQ___32.mp4?ssig=ecb8b76afe973b2683bd272e1d8858cd&time_stamp=1576218120937)<br>
+[湖北黄石一女婴被丢弃在垃圾车内，时间：2019年圣诞节](https://m.thepaper.cn/newsDetail_forward_5335846)<br>
+[安徽芜湖出生40多天女婴遭父亲亲手遗弃](http://n.miaopai.com/media/PnrPQERw~d2tIXw8f~Vr-EDY9YzSMVHG)<br>
 
 ### 4-6岁
 [广东茂名多名幼童遭外派体能老师猥亵](https://weibo.com/tv/v/IgWcP70H5?fid=1034:4440364853986991)<br>
@@ -60,6 +62,7 @@
 [广西10岁女孩卖百香果回家途中遇害，疑遭嫌犯性侵后藏尸草丛](https://www.yidianzixun.com/article/0KEfR3Xz?s=mb&miref=newsin_app_push)<br>
 [广西一男子多次性侵12岁少女](https://www.sohu.com/a/329950492_120065581)<br>
 [陕西凤翔县柳林镇人大主席李向阳因强奸14岁未成年被逮捕](http://n.miaopai.com/media/64dm0DxGcm5TU93g6YTqrGWM~xQ2l7kL)<br>
+[陕西榆林市15岁初三女生失踪多日被找到，遭6名同龄男子肢解掩埋，赔偿3.5万，主犯仅判无期](https://baijiahao.baidu.com/s?id=1652272796413027088&wfr=spider&for=pc)<br>
 [辽宁葫芦岛男子与12岁幼女发生关系被控强奸，一审、终审均判无罪！](http://www.xcar.com.cn/bbs/viewthread.php?tid=94551197)<br>
 [四川绵阳73路公交上男子猥亵5年级女孩，他却反驳：我俩是好朋友](http://inews.ifeng.com/yidian/60155628/news.shtml?ch=ref_zbs_ydzx_news&yidian_docid=0KWmUcLT&yidian_s=mb&yidian_appid=&miref=newsin_app_push&yidian_cp=cn-yidian-news-v2&yidian_itemtype=news)<br>
 [四川63岁男子强奸14岁残疾少女](https://www.guancha.cn/politics/2019_10_28_523008.shtml)<br>
@@ -136,7 +139,6 @@
 [河南洛阳失联20岁女孩狄含笑被男同事李某杀害](https://new.qq.com/rain/a/20191209A08OZI)<br>
 [河南叶县7旬老人杨某恩多次猥亵女子](http://baijiahao.baidu.com/s?id=1651793830375275800&wfr=spider&for=pc)<br>
 [安徽马鞍山男子深夜搭讪被拒，将女孩拖拽出监控范围殴打](http://www.sohu.com/a/332776688_100252823)<br>
-[安徽合肥女子找工作面试遭猥亵](http://ah.anhuinews.com/system/2011/07/26/004282125.shtml)<br>
 [安徽颍上18岁女孩家中遭邻居性侵后被沉尸水塘 凶手被刑拘](http://www.ahyouth.com/news/20131104/1047962.shtml)<br>
 [重庆男子刺死过路陌生女子](http://n.miaopai.com/media/nqBUWiv0sNtG0s-7mchnvM7ORKV2KRoX)<br>
 [甘肃庆阳19岁女孩李奕奕因被老师吴永厚猥亵得了抑郁症，庆阳市西峰区丽晶百货大楼坠楼死亡](http://baijiahao.baidu.com/s?id=1604502112283843989&wfr=spider&for=pc)<br>
@@ -151,8 +153,10 @@
 [浙江杭州加油站开进一辆车，带血女子跳车后瘫倒：叔叔救我！](https://baijiahao.baidu.com/s?id=1630507913810602428&wfr=spider&for=pc)<br>
 [浙江杭州男子公交站前突然强吻陌生女子，行政拘留10日](https://weibo.com/tv/v/GB852CAeD?fid=1034:4288491962745000)<br>
 [浙江杭州西溪男子在陌生女子家门口多次爬窗台、扒门缝偷窥](http://baijiahao.baidu.com/s?id=1650976142619515108&wfr=spider&for=pc)<br>
+[浙江杭州滨江一男子当街抱摔猛踹女孩，还叫嚣：你报警好了](https://weibo.com/tv/v/ImhzIgrOq?fid=1034:4453098022699013)<br>
 [浙江温州快递小哥张勇上门取件性侵女客户](https://new.qq.com/omn/20181206/20181206A09CZV.html)<br>
 [四川成都仨老头疑公交上袭臀女孩 小伙出言喝止反被打成脑震荡](http://n.miaopai.com/media/mLZR19jE9YkpemWvQJLNbW3vEFjoXjxz)<br>
+[四川德阳一假僧人周某某利用封建迷信多次强奸妇女、幼女](http://baijiahao.baidu.com/s?id=1653579207990363933&wfr=spider&for=pc)<br>
 [四川南江女子在下班途中遭遇两名陌生男子黄某、钟某用砖头打昏，并用胶带封口](http://n.miaopai.com/media/EqSOKFVNR4zNH0hbLbuceDoqpDPShtSv)<br>
 [江西南昌女子深夜遭陌生男子强吻](https://baijiahao.baidu.com/s?id=1606852535754078216&wfr=spider&for=pc)<br>
 [江西南昌红谷滩伤人案，男子万某弟砍死无辜路人女子](https://baike.baidu.com/item/5%C2%B724%E5%8D%97%E6%98%8C%E7%BA%A2%E8%B0%B7%E6%BB%A9%E4%BC%A4%E4%BA%BA%E6%A1%88/23520161)<br>
@@ -160,7 +164,6 @@
 [广西桂林电子科技大学一男生在校园对两女生持刀行凶24刀](https://mp.weixin.qq.com/s?__biz=MjM5NjAxNTIyMA==&mid=2657442714&idx=1&sn=fb01fa90dda3a4af0b87a722c95f24ad)<br>
 [广西柳州一女孩登山被抢劫杀害遗体遭性侵 凶手被抓时正在嫖娼](http://hb.sina.com.cn/news/2017-06-22/detail-ifyhmtek7641210.shtml)<br>
 [江苏常州湖塘老街男子杀害一女子](https://www.yidianzixun.com/article/0KGDYdmn?s=mb&miref=newsin_app_push)<br>
-[江苏省东台市女教师爆料：已婚男教师多次夜闯她宿舍](https://baijiahao.baidu.com/s?id=1617743217338293919&wfr=spider&for=pc)<br>
 [江苏省淮安市涟水县胡某车内迷奸百名女性，录下418段不雅视频。获有期徒刑六年]( http://www.sohu.com/a/156307836_372652)<br>
 [台湾的富少李宗瑞在夜店下药，将数十名女子迷倒带回家中性侵偷拍,并迷奸继母](http://ent.sina.com.cn/s/m/2012-10-19/15543767684.shtml?from=wap)<br>
 [台湾42岁清洁工猥亵杀害成大女研究生](http://news.ifeng.com/c/7sBRO6JwdRE)<br>
@@ -169,7 +172,31 @@
 [海南男子曾令儒持刀杀害女友母亲和姐姐](http://www.hicourt.gov.cn/preview/article?articleId=03111754-9fab-4e43-aa91-4f0f0439c60a)<br>
 [安徽长丰县水湖镇男子水某某抄铁锤杀害妻姐](http://www.chinanews.com/sh/2018/10-24/8657952.shtml)<br>
 [上海超级越野赛女选手山林里遭村民手持刀具猥亵](https://www.sohu.com/a/278900532_100048098)<br>
+
+### 你敢当我的同事吗
+[多次求爱不成 90后男子陈某刺死女同事](https://www.cn0556.com/t-804742-1-3.html)<br>
+[大连男子不满被辞职，四次“埋伏”埋伏刺杀女同事](http://3g.163.com/dy/article/EJOLIMGR0514T95G.html)<br>
 [上海男子邓某赌博致妻离子散竟怪罪妻子同事，深夜袭击报复对方](http://n.miaopai.com/media/h5kBx2vyXJaecYxqEIPXRXJfVcatmDjN)<br>
+[江苏省东台市女教师爆料：已婚男教师多次夜闯她宿舍](https://baijiahao.baidu.com/s?id=1617743217338293919&wfr=spider&for=pc)<br>
+[江苏邗江区足浴店男员工刺杀女同事后坠楼身亡](http://hb.sina.com.cn/news/sh/2013-03-18/180060565.html)<br>
+[江苏无锡男子酒后掐死女同事并奸尸](http://www.myzaker.com/article/581866c41bc8e09a74000063/)<br>
+[江苏南京一男子杀死女同事后仍正常上班](http://news.sohu.com/20081215/n261204285.shtml)<br>
+[浙江余姚中国裘皮城内，江西籍男子彭某杀了女同事](http://nb.zjol.com.cn/system/2013/07/31/019504768.shtml)<br>
+[浙江杭州保安刘某14年前杀女同事 逃亡后每年给警方写信挑衅](https://henan.qq.com/a/20131130/005706.htm)<br>
+[安徽合肥女子找工作面试遭猥亵](http://ah.anhuinews.com/system/2011/07/26/004282125.shtml)<br>
+[福建泉州男子张善柏持刀刺杀女同事](http://baijiahao.baidu.com/s?id=1652244698534205152&wfr=spider&for=pc)<br>
+[福建石狮江西籍男子杨某消费后没钱埋单 劫杀女同事](http://www.mnw.cn/shishi/news/1135.html)<br>
+[北京石景山区广宁麻峪柳林庄附近一男子王某奸杀女同事](http://m.sohu.com/a/123257457_161623)<br>
+[北京亦庄线旧宫站保洁员周维军持刀进站杀女同事 死者家属仅获赔208元](http://bj.people.com.cn/n/2014/0324/c82840-20842326.html)<br>
+[上海市闵行区一男子艾某电梯内杀女同事](http://www.sohu.com/a/107985337_161791)<br>
+[上海一男子杀害肢解女同事藏尸十六年](http://society.people.com.cn/GB/42733/9919431.html)<br>
+[广东惠州市裕元华阳精密部件有限公司一男子马某求爱未果杀女同事 为图财又杀死另一女子](http://news.sohu.com/20150306/n409392490.shtml)<br>
+[银川贺兰县一男子岳某杀女同事](http://hebei.ifeng.com/detail_2015_08/21/4260932_0.shtml)<br>
+[湖北武汉一男子醉酒杀害女同事后奸淫](http://hb.sina.com.cn/news/sh/2019-11-10/detail-iicezzrr8441690.shtml)<br>
+[湖北武汉第一医院男医护人员值班室刀杀女同事](http://www.ii23.cn/thread-483621-1-1.html)<br>
+[山东青岛一医院技师唐某杀死女同事](http://news.bandao.cn/news_html/201412/20141229/news_20141229_2488586.shtml?i|273718)<br>
+[江西九江一男子刘某将2名女同事杀害后火烧现场](http://jj.jxnews.com.cn/system/2013/07/31/012543016.shtml)<br>
+[香港粉岭一家再造纸工厂男子王某雄杀女同事后,放入碎纸机碎尸](http://365jia.cn/news/2012-11-02/391BF9D9EF3D626F.html)<br>
 
 ### 甜甜的恋爱轮到你了
 [安徽合肥女钢琴师被相亲对象杀害](http://www.sohu.com/a/304549647_120067027)<br>
@@ -195,6 +222,7 @@
 [广东广州一对情侣马路吵架，男友故意走到马路中间，男子撞击女友导致其被撞死，获刑十个月，缓刑一年](https://weibo.com/tv/v/Ij6Glt0jO?fid=1034:4445539144761358)<br>
 [浙江衢州女子被男友暴打成植物人，男友获刑六年](http://www.sohu.com/a/308623005_726842)<br>
 [浙江杭州下沙某高校内，男子驾保时捷碾压女友](https://baijiahao.baidu.com/s?id=1631855741696199602&wfr=spider&for=pc)<br>
+[浙江杭州河南籍男子开顺风车结识四女性“谈恋爱”，两年骗得两千万后失联](https://weibo.com/ttarticle/p/show?id=2309354438946619719968&u=2189704752&m=4438946601414692&cu=2189704752)<br>
 [浙江慈溪22岁舞蹈老师被前男友杀害](http://news.sina.com.cn/c/2019-05-30/doc-ihvhiews5687510.shtml)<br>
 [浙江绍兴男子因表白被拒，将女孩非法拘禁17个小时](http://n.miaopai.com/media/Kdia8rymfVWhwxWNymyD13x46U9Z1doe)<br>
 [浙江诸暨女子不愿回前男友老家被强行拖上车,警察猛追4小时后获救](http://n.miaopai.com/media/NgzID-8zg9Jys6zCfLpOUPeuDTCi42oH)<br>
@@ -206,6 +234,7 @@
 [陕西男子连捅恋人数刀致其死亡](http://n.miaopai.com/media/xgtgi8raGYswyLj~-KaDDhiIgYsDh6dA)<br>
 [湖北男子兰某将前女友脱裤绑树上持刀威胁复合](http://news.sina.com.cn/o/2019-04-17/doc-ihvhiqax3394606.shtml)<br>
 [江西27岁女子拒绝相亲男子后遇害身亡](https://new.qq.com/rain/a/20190505A09B9I)<br>
+[江西男子徐某杀害订婚仅40天的未婚妻](https://weibo.com/tv/v/IlZIdzl9P?fid=1034:4452413982310406)<br>
 [江苏徐州男子冒充“霸道总裁”，先后诈骗3名女性受害人，总计约20余万元财物](https://baijiahao.baidu.com/s?id=1631031386625608150&wfr=spider&for=pc)<br>
 [江苏连云港男子驾车拐弯剐蹭路边女友，随后将其撞倒后驾车碾压](https://www.56.com/u53/v_MTUwNjk1NTU0.html)<br>
 [江苏南京某小区男子装摄像头偷拍防前妻找对象，镜头正对浴室和床](http://n.miaopai.com/media/YL327TCl6fz0FvadggcB1L-IvAl4gBz9)<br>
@@ -420,6 +449,11 @@
 [海南一男子王春翻窗掐死邻居后奸尸](http://www.xilu.com/news/nanziqiasilinjuhourushi.html)<br>
 [河南沁阳两男杀15岁女学生并奸淫尸体索要赎金](http://unn.people.com.cn/GB/14775/21684/11710751.html?1275005081)<br>
 [广东一男子郑某某抢劫、强奸、奸淫尸体坏事做尽，强奸5人孕妇也不放过](http://help.3g.163.com/17/0223/16/CDVKVM6300964LDO.html)<br>
+
+
+### 被结婚
+[河南驻马店的尚女士，在领结婚证时发现自己被结婚5次，都是陌生人](https://weibo.com/tv/v/IlECak0Lq?fid=1034:4451607149215750)<br>
+[贵州代女士身份证丢失“被结婚”，无法撤销只能打官司](https://www.thepaper.cn/newsDetail_forward_5301690)<br>
 
 ### 与金钱地位无关 
 [央视主持人朱军被爆性侵女大学生](http://m.kdnet.net/share-12880247.html)<br>
