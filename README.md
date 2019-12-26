@@ -375,7 +375,7 @@
 [江苏响水两名11岁的小女孩被托管老师性侵10多次](http://baijiahao.baidu.com/s?id=1598603167361764583&wfr=spider&for=pc)<br>
 [江苏连云港一男子持木棍暴打一对亲生儿女](http://n.miaopai.com/media/Hzc-jriyhB9G8o5Ykg-nm-zmm3LR2F-l)<br>
 [江苏常州市某小区15岁男孩性侵7岁女童 因害怕被发现将其推下25楼](http://jiangsu.sina.com.cn/news/s/2019-05-16/detail-ihvhiews2241114.shtml)<br>
-[江苏女子足球队教练陈广红对多名队员进行强制猥亵(http://jiangsu.sina.com.cn/news/2019-12-26/detail-iihnzhfz8358643.shtml)<br>
+[江苏女子足球队教练陈广红对多名队员进行强制猥亵](http://jiangsu.sina.com.cn/news/2019-12-26/detail-iihnzhfz8358643.shtml)<br>
 [安徽蚌埠9岁女童被53岁老头性侵猥亵](http://365jia.cn/news/2016-04-02/9A7CB995ED9782D2_all.html)<br>
 [安徽合肥14岁女生被20岁网恋男友徐某捅20余刀死亡](https://zx.sina.cn/2019-11-25/zx-iihnzhfz1461399.d.html?wm=3049_0018)<br>
 [安徽18岁女孩自曝5岁遭表哥王迅性侵，抑郁四年五次自杀](https://www.yidianzixun.com/article/0KT5QAh2?s=mb&miref=newsin_app_push&docid=0KT5QAh2&cp=cn-browser-push&itemtype=news)<br>
