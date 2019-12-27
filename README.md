@@ -6,18 +6,18 @@
 ![](https://img.shields.io/badge/-%E6%80%A7%E9%AA%9A%E6%89%B0-lightgrey)
 ![](https://img.shields.io/badge/%E5%A9%9A%E5%A5%B3-%E5%AE%B6%E6%9A%B4-blueviolet)
 ![](https://img.shields.io/badge/%E7%BD%91%E7%BA%A6%E8%BD%A6-%E5%AE%89%E5%85%A8-brightgreen)<br>
-<br>收录性别暴力事件新闻，持续更新，欢迎邮件来稿<br>
-<br>由于案件过多，一个页面已不便放下，故而分类合辑<br>
-<br>自然，你可以闭上眼，也可以装作没看到直接关闭页面<br>
+<br>收录性别暴力事件新闻，由于案件过多，一个页面已不便放下，故分类合辑<br>
+自然，你可以闭上眼，也可以装作没看到直接关闭页面<br>
+持续更新，欢迎邮件来稿。投稿格式：[标题]+(新闻链接)<br>
+
 |Author|幸存的全体中国女性|
 |---|---
 |E-mail|cn-woman-bot@protonmail.com
 
-投稿格式：[标题]+(新闻链接)
 
-[案件合辑：男性杀妻杀母杀女奸女杀姐 ](/evil-man/杀妻杀母杀女杀姐案.md)<br>
+-[x] [案件合辑：男性杀妻杀母杀女奸女杀姐](/evil-man/杀妻杀母杀女杀姐案.md)<br>
 
-[案件合辑：男性性侵0-17岁陌生女孩，杀害未成年女子](/evil-man/性侵女童，杀害未成年女性.md)<br>
+[案件合辑：男性性侵0-17岁陌生女孩，杀害未成年女子](/evil-man/性侵女童，杀害未成年女性.md)
 [案件合辑：屌癌连女尸也不放过 ](/evil-man/女尸也不放过.md)<br>
 
 [案件合辑：男性开网约车 侵害女性](/evil-man/网约车安全.md)<br>
