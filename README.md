@@ -15,7 +15,7 @@
 |E-mail|cn-woman-bot@protonmail.com
 
 
-- [x] 新闻合辑 [男性杀妻杀母杀女奸女杀姐](born to die/杀妻杀母杀女杀姐案.md)<br>
+- [x] 新闻合辑 [男性杀妻杀母杀女奸女杀姐](杀妻杀母杀女杀姐案.md)<br>
 - [x] 新闻合辑 80多条 [男性性侵0-17岁陌生女孩，杀害未成年女子](born to die/性侵女童，杀害未成年女性.md)<br>
 - [x] 新闻合辑 20多条 [屌癌连女尸也不放过 ](evil-man/born to die/女尸也不放过.md)<br>
 - [x] 新闻合辑 20多条 [网约车司机侵害女性](born to die/网约车安全.md)<br>
