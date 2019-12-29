@@ -14,15 +14,16 @@
 |E-mail|cn-woman-bot@protonmail.com
 
 ## 目录
-- [x] 男性[杀妻杀母杀女奸女杀姐案，全家灭门案](#男权心里话)<br>
+- [x] 男性[杀妻杀母杀女奸女杀姐案](#谁的命不是命)<br>
+- [x] 男性[将妻全家灭门案](#将妻全家灭门案)<br>
 - [x] 法律：现行婚姻法，杀妻轻判，不保护女性[判决文书举例](#判决文书举例)<br>
 - [x] 男性[残害无辜女性路人案](#无辜路人)<br>
-- [x] 男性[伤害或杀死女性同事案](#你敢当我的同事吗)<br>
+- [x] 男性[伤害或杀死女同事案](#你敢当我的同事吗)<br>
 - [x] 男性[侵害0-17岁陌生女孩案](#0-3岁)<br>
 - [x] 屌癌[奸淫女尸案件](#女尸也不放过)<br>
-- [x] 男司机[性侵杀害女性](#网约车安全专题)<br>
+- [x] 男司机[性侵杀女案](#网约车安全专题)<br>
 - [x] 和男性恋爱[女性受伤或惨死](#甜甜的恋爱轮到你了)<br>
-- [x] 屌上长脑我没错，[反正都是女人的错](#反正都是女人的错)<br>
+- [x] 我犯罪我没错，[反正都是女人的错](#反正都是女人的错)<br>
 - [x] 高学历男性、高校教师[性侵案、家暴案](#与职业头衔无关-高校教授)<br>
 - [x] 男性[性骚扰新闻](#性骚扰)<br>
 - [x] 男性[名人性侵家暴案](#与金钱地位无关)<br>
@@ -203,43 +204,6 @@
 [澳洲华人男子胡伟杀妻后自杀，8岁儿子在旁目睹全过程](http://www.sohu.com/a/342022932_168600)<br>
 [美国纽约州威彻斯特郡46岁的华裔男子刘传凯杀死妻子和俩孩子后自杀身亡](https://new.qq.com/omn/20191208/20191208A08K2I00.html?pgv_ref=aio2015)<br>
 ```
-找个男人照顾你全家 一家人整整齐齐
-```
-[云南昆明海源寺新村男子李某持刀行凶，致妻子死亡、岳母受重伤](http://www.chinanews.com/fz/2013/10-29/5434623.shtml)<br>
-[云南大理州巍山彝族回族自治县男子杨长江杀死妻子、儿子和妻子娘家的两名成员](http://news.sohu.com/20170205/n479941912.shtml)<br>
-[云南大理男子李某民杀害妻子一家五口](https://new.qq.com/omn/20190825/20190825A0GD3I00.html)<br>
-[云南文山州麻栗坡县男子刘裕德杀岳父全家](http://news.sohu.com/20090602/n264275043.shtml)<br>
-[云南省盐津县盐井镇村民王昌义杀岳父全家](http://news.cctv.com/law/20060802/102342.shtml)<br>
-[四川大竹县男子甘某某在妻子家中床下藏炸药凌晨引爆](https://baijiahao.baidu.com/s?id=1643723717482254860&wfr=spider&for=pc)<br>
-[海南儋州男子陈某拿着把菜刀冲进丈母娘家,砍伤岳父母和9岁侄子](http://www.sohu.com/a/245522422_213922)<br>
-[海南男子曾令儒持刀杀害女友母亲和姐姐](http://www.hicourt.gov.cn/preview/article?articleId=03111754-9fab-4e43-aa91-4f0f0439c60a)<br>
-[河南商洛市一男子持刀捅向妻子家人致一死两伤](http://www.86zhaokao.cn/html/xinwenzaixian/2019/0110/35696.html)<br>
-[河南安阳内黄县高堤乡王俄村男子王某杀害妻子一家五口](http://www.sohu.com/a/338903258_797627)<br>
-[安徽长丰县水湖镇男子水某某抄铁锤杀害妻姐](http://www.chinanews.com/sh/2018/10-24/8657952.shtml)<br>
-[浙江淳安县千岛湖镇曙光新村一男子余某良涉嫌杀害妻子和岳父潜逃](https://h5.newaircloud.com/detailArticle/9936880_34773_hzxw.html?mobile=1&source=1)<br>
-[浙江台州温岭河南籍男子冷某挥刀砍伤妻子家一家三口人](http://zj.sina.com.cn/news/2017-04-13/detail-ifyeimzx6162347.shtml)<br>
-[浙江温州高新区科技园蒲州街道鸿基花苑6幢106室男子周某杀光妻子全家](https://m.91jucai.com/mrjd/2014-08-02/18453.html)<br>
-[浙江瑞安市飞云镇飞云大街男子张某杀害妻子家一家三口人](http://www.jiaodong.net/news/system/2009/09/02/010622149.shtml)<br>
-[北京女婿河北籍男子赵文广杀害岳母](http://news.sina.com.cn/c/2007-05-16/095813000669.shtml)<br>
-[辽宁省喀喇沁左翼蒙古族自治县农民王明龙杀妻子全家](https://news.qq.com/a/20120517/000961.htm)<br>
-[福建龙岩武平县城厢乡尧禄村男子杀妻杀岳母后服毒自杀](http://news.cntv.cn/law/20110730/105598.shtml)<br>
-[福建莆田城厢区男子马某持菜刀砍伤妻子一家人](https://baijiahao.baidu.com/s?id=1650278377744478237&wfr=spider&for=pc)<br>
-[上海闵行华漕镇袁姓男子刺死妻子全家亲属五人](https://site.douban.com/120495/widget/notes/3716375/note/223432566/)<br>
-[江苏南京男子李晓强锤杀准丈母娘](http://www.chinadaily.com.cn/dfpd/shehui/2010-12/21/content_11733516_2.htm)<br>
-[江西湘东区男子谭礼军砍杀岳父全家 造成1死4伤](http://px.jxnews.com.cn/system/2014/09/08/013310121.shtml)<br>
-[甘肃成县纸坊镇枣树村尧坪社男子李某屠杀妻子全家 手段残忍令人惊心](http://www.china.com.cn/chinese/law/710956.htm)<br>
-[甘肃青海大通县多林镇吴仕庄村男子蔡某与妻子不和，杀妻子全家后自杀](http://news.hsw.cn/system/2014/02/10/051855363_02.shtml)<br>
-[内蒙古克什克腾旗芝瑞镇兴华村男子高某杀害妻子和岳母]()<br>
-[山东青岛胶州男子黄某一怒抡菜刀，砍死媳妇丈母娘](http://wb.qdqss.cn/html/qdwb/20130401/qdwb21797.html)<br>
-[山东济南历城区唐冶南村男子贾村坝提亲被拒杀女方全家](http://minsheng.youth.cn/mszxgch/201610/t20161014_8748159.htm)<br>
-[山西省朔州市平鲁区唐某唐某,持匕首、火柱捅刺其妻张某霞、岳母及妻姐三人](http://baijiahao.baidu.com/s?id=1649331101811744056&wfr=spider&for=pc)<br>
-[广西河池环江县男子覃继平将妻子和岳母杀害](https://www.66law.cn/gongyi/info/61496.aspx)<br>
-[河北承德男子武守国杀死岳父家7人后服毒自杀 现场留遗书](http://hebei.sina.com.cn/news/2015-02-21/detail-iawzuney0209183.shtml)<br>
-[湖南省株洲市石峰区九塘村男子罗伟杀害岳父程某一家6口](http://news.e23.cn/content/2014-08-03/2014080300004.html)<br>
-[陕西汉中镇巴县男子程某拿刀狠砍妻子和岳父](http://www.yidianzixun.com/article/0MOWxDHh)<br>
-[陕西咸阳男子张进峰酒后砍杀妻子及其亲属致4死1伤](http://jiangsu.sina.com.cn/news/s/2019-12-04/detail-iihnzahi5137862.shtml?from=jiangsu_ydph)<br>
-
-```
 我又没杀别人 我杀的是我亲妈
 ```
 [湖南益阳沅江市泗湖山镇人12岁少年吴某康弑母：我又没杀别人](https://baijiahao.baidu.com/s?id=1619519385281916749&wfr=spider&for=pc)<br>
@@ -298,11 +262,48 @@
 [山东省烟台市牟平区姜格庄镇东杭格庄村男子丛龙学用菜刀将其亲姐杀死在家中](http://www.langya.cn/lyzt/fdxj/alxb/201711/t20171103_501745.html)<br>
 [山东淄博弟弟挥刀砍杀姐姐](http://news.iqilu.com/shandong/yuanchuang/2014/0704/2051719.shtml)<br>
 
+### 将妻全家灭门案
+```
+找个男人照顾你全家 一家人整整齐齐
+```
+[云南昆明海源寺新村男子李某持刀行凶，致妻子死亡、岳母受重伤](http://www.chinanews.com/fz/2013/10-29/5434623.shtml)<br>
+[云南大理州巍山彝族回族自治县男子杨长江杀死妻子、儿子和妻子娘家的两名成员](http://news.sohu.com/20170205/n479941912.shtml)<br>
+[云南大理男子李某民杀害妻子一家五口](https://new.qq.com/omn/20190825/20190825A0GD3I00.html)<br>
+[云南文山州麻栗坡县男子刘裕德杀岳父全家](http://news.sohu.com/20090602/n264275043.shtml)<br>
+[云南省盐津县盐井镇村民王昌义杀岳父全家](http://news.cctv.com/law/20060802/102342.shtml)<br>
+[四川大竹县男子甘某某在妻子家中床下藏炸药凌晨引爆](https://baijiahao.baidu.com/s?id=1643723717482254860&wfr=spider&for=pc)<br>
+[海南儋州男子陈某拿着把菜刀冲进丈母娘家,砍伤岳父母和9岁侄子](http://www.sohu.com/a/245522422_213922)<br>
+[海南男子曾令儒持刀杀害女友母亲和姐姐](http://www.hicourt.gov.cn/preview/article?articleId=03111754-9fab-4e43-aa91-4f0f0439c60a)<br>
+[河南商洛市一男子持刀捅向妻子家人致一死两伤](http://www.86zhaokao.cn/html/xinwenzaixian/2019/0110/35696.html)<br>
+[河南安阳内黄县高堤乡王俄村男子王某杀害妻子一家五口](http://www.sohu.com/a/338903258_797627)<br>
+[安徽长丰县水湖镇男子水某某抄铁锤杀害妻姐](http://www.chinanews.com/sh/2018/10-24/8657952.shtml)<br>
+[浙江淳安县千岛湖镇曙光新村一男子余某良涉嫌杀害妻子和岳父潜逃](https://h5.newaircloud.com/detailArticle/9936880_34773_hzxw.html?mobile=1&source=1)<br>
+[浙江台州温岭河南籍男子冷某挥刀砍伤妻子家一家三口人](http://zj.sina.com.cn/news/2017-04-13/detail-ifyeimzx6162347.shtml)<br>
+[浙江温州高新区科技园蒲州街道鸿基花苑6幢106室男子周某杀光妻子全家](https://m.91jucai.com/mrjd/2014-08-02/18453.html)<br>
+[浙江瑞安市飞云镇飞云大街男子张某杀害妻子家一家三口人](http://www.jiaodong.net/news/system/2009/09/02/010622149.shtml)<br>
+[北京女婿河北籍男子赵文广杀害岳母](http://news.sina.com.cn/c/2007-05-16/095813000669.shtml)<br>
+[辽宁省喀喇沁左翼蒙古族自治县农民王明龙杀妻子全家](https://news.qq.com/a/20120517/000961.htm)<br>
+[福建龙岩武平县城厢乡尧禄村男子杀妻杀岳母后服毒自杀](http://news.cntv.cn/law/20110730/105598.shtml)<br>
+[福建莆田城厢区男子马某持菜刀砍伤妻子一家人](https://baijiahao.baidu.com/s?id=1650278377744478237&wfr=spider&for=pc)<br>
+[上海闵行华漕镇袁姓男子刺死妻子全家亲属五人](https://site.douban.com/120495/widget/notes/3716375/note/223432566/)<br>
+[江苏南京男子李晓强锤杀准丈母娘](http://www.chinadaily.com.cn/dfpd/shehui/2010-12/21/content_11733516_2.htm)<br>
+[江西湘东区男子谭礼军砍杀岳父全家 造成1死4伤](http://px.jxnews.com.cn/system/2014/09/08/013310121.shtml)<br>
+[甘肃成县纸坊镇枣树村尧坪社男子李某屠杀妻子全家 手段残忍令人惊心](http://www.china.com.cn/chinese/law/710956.htm)<br>
+[甘肃青海大通县多林镇吴仕庄村男子蔡某与妻子不和，杀妻子全家后自杀](http://news.hsw.cn/system/2014/02/10/051855363_02.shtml)<br>
+[内蒙古克什克腾旗芝瑞镇兴华村男子高某杀害妻子和岳母]()<br>
+[山东青岛胶州男子黄某一怒抡菜刀，砍死媳妇丈母娘](http://wb.qdqss.cn/html/qdwb/20130401/qdwb21797.html)<br>
+[山东济南历城区唐冶南村男子贾村坝提亲被拒杀女方全家](http://minsheng.youth.cn/mszxgch/201610/t20161014_8748159.htm)<br>
+[山西省朔州市平鲁区唐某唐某,持匕首、火柱捅刺其妻张某霞、岳母及妻姐三人](http://baijiahao.baidu.com/s?id=1649331101811744056&wfr=spider&for=pc)<br>
+[广西河池环江县男子覃继平将妻子和岳母杀害](https://www.66law.cn/gongyi/info/61496.aspx)<br>
+[河北承德男子武守国杀死岳父家7人后服毒自杀 现场留遗书](http://hebei.sina.com.cn/news/2015-02-21/detail-iawzuney0209183.shtml)<br>
+[湖南省株洲市石峰区九塘村男子罗伟杀害岳父程某一家6口](http://news.e23.cn/content/2014-08-03/2014080300004.html)<br>
+[陕西汉中镇巴县男子程某拿刀狠砍妻子和岳父](http://www.yidianzixun.com/article/0MOWxDHh)<br>
+[陕西咸阳男子张进峰酒后砍杀妻子及其亲属致4死1伤](http://jiangsu.sina.com.cn/news/s/2019-12-04/detail-iihnzahi5137862.shtml?from=jiangsu_ydph)<br>
+
 ##  判决文书举例
 ```
-频繁出现的字眼：
+杀妻不死刑，甚至不无期
 本案系因婚姻纠纷引发
-被害人在xx上也有错
 男子系自首如实供述其犯罪事实
 酌情从轻处罚
 ```
@@ -987,6 +988,7 @@
 [厌女歌词 网易云音乐-新学校废物合唱团《bongbong》](https://music.163.com/#/song?id=489754439)<br>
 
 ### 它们可以做-她们不能说
+### 404是男权的法宝
 2018年07月27日，关于央视主持人朱军性侵女实习生的微博被和谐，微博《[朱军，最后一颗子弹献给你](https://zhuanlan.zhihu.com/p/40622877)》 一文亦被删<br>
 2018年11月2日，网友@徒有琴将自己翻唱的歌《天朝渣男图鉴》视频放到微博，徒有琴童鞋一人分饰六角，饰演6个杀了丈夫的女人。她用上海、北京、广东等地方言讲述了为何杀夫，随后该歌曲被和谐，徒有琴使用了8年的微博亦被封禁。截至目前该歌曲仅在QQ音乐上有，可以试听。
 [《天朝渣男图鉴》](https://y.qq.com/portal/player.html)<br>
