@@ -29,13 +29,15 @@
 - [x] 男性[名人性侵家暴案](#与金钱地位无关)<br>
 - [x] 媒体：[护屌新闻大赏](#护屌新闻大赏)<br>
 - [x] 媒体：[微博厌女话题一览](#微博厌女话题一览)<br>
-- [x] 法律：偷拍女性罚500，关几天[法律不保护女性](#法律不保护女性)<br>
+- [x] 法律：袭胸、偷拍女性罚500，关几天[法律不保护女性](#法律不保护女性)<br>
+- [x] 男权：洗脑女性，控制精神，[女德班死灰复燃](#女德班死灰复燃)<br>
 - [x] 男人：我不听我没有你胡说，[女性闭嘴](#它们可以做-她们不能说)<br>
 - [x] 男人：你说实话就是挑起性别对立，我觉得[中国女性地位够高了](#全球性别平等排名)<br>
 
 ## 最近修改
 ### v1.0.1 (2019/12/29 15:00)
 新增孙文斌恶意割喉杀害女医生的新闻<br>
+新增“女德班死灰复燃”
 
 ### v1.0.0 (2019/12/27 14:00-16:00)
 新增“厌女微博话题一览”<br>
@@ -534,21 +536,22 @@
 ### 7-17岁
 [山西长治市城区某小学8岁女孩遭体育老师杨某性侵](http://edu.cnr.cn/list/20161021/t20161021_523210932.shtml)<br>
 [山西柳林县创新双语学校男教师白某某涉嫌性侵学生](http://www.liulin.gov.cn/zmhd/gqhy/201912/t20191226_1350867.shtml)<br>
+[山东9岁女孩路上被强行塞进轿车拐走，民警25小时成功营救](https://baijiahao.baidu.com/s?id=1630593442835058246&wfr=spider&for=pc)<br>
+[山东初三女孩在家中被父亲杀害，母亲亦被家暴16年](http://n.miaopai.com/media/DAAVgnWNvMJ4J7qOlY7ymNahdbOv2QH~)<br>
+[山东济宁警方男子当街连踹5名女性泄愤，怕被揍不敢挑男性](http://n.miaopai.com/media/r1AdyzASvfhkMLMD7fFBNjfLwRXF1B4-)<br>
+[山东济南济阳区男子暴力胁迫性侵未成年少女](http://news.china.com.cn/2019-12/02/content_75467456.htm)<br>
+[辽宁大连10岁女孩遭13岁男孩杀害，不予追究刑事责任](http://baijiahao.baidu.com/s?id=1649737074633361782&wfr=spider&for=pc)<br>
+[辽宁葫芦岛男子与12岁幼女发生关系被控强奸，一审、终审均判无罪！](http://www.xcar.com.cn/bbs/viewthread.php?tid=94551197)<br>
+[内蒙古自治区满洲里市13岁女孩一个月内被三名男子性侵六次](https://baijiahao.baidu.com/s?id=1616615031597857818&wfr=spider&for=pc)<br>
 [河南一武校教练课堂上强暴9岁女生 让其他男生面朝电视](http://news.sina.com.cn/s/pa/2016-02-26/doc-ifxpvysx1664006.shtml)<br>
 [河南许昌一家长称高三的女儿被一男子当街摸胸猥亵](http://www.sohu.com/a/278085494_352492)<br>
 [河南男子湛某侵害女孩潜逃35年 为赎罪救了许多落水者](https://zx.sina.cn/2019-11-25/zx-iihnzahi3115086.d.html?wm=3049_0018)<br>
 [河南温县子夏公园四旬男子企图性侵智残女](https://baijiahao.baidu.com/s?id=1637832799059548696&wfr=spider&for=pc)<br>
 [河南许昌禹州7岁女孩眼睛被同学塞几十张纸片 校长:他们没恶意](http://news.sina.com.cn/s/2019-11-12/doc-iihnzhfy8692619.shtml)<br>
 [河南禹州14岁女孩被骗到KTV陪酒，女孩：不敢跑，否则会被打死的](https://new.qq.com/omn/TWF20191/TWF2019121704110500.html)<br>
-[海南纺织工业局副局长李庆普犯贪污、嫖宿幼女、巨额财产来源不明罪被一审判20年，写两抽屉嫖娼日记共95本](http://news.jstv.com/wap/a/20191214/1576266234642.shtml)<br>
-[山东9岁女孩路上被强行塞进轿车拐走，民警25小时成功营救](https://baijiahao.baidu.com/s?id=1630593442835058246&wfr=spider&for=pc)<br>
-[山东初三女孩在家中被父亲杀害，母亲亦被家暴16年](http://n.miaopai.com/media/DAAVgnWNvMJ4J7qOlY7ymNahdbOv2QH~)<br>
-[山东济宁警方男子当街连踹5名女性泄愤，怕被揍不敢挑男性](http://n.miaopai.com/media/r1AdyzASvfhkMLMD7fFBNjfLwRXF1B4-)<br>
-[山东济南济阳区男子暴力胁迫性侵未成年少女](http://news.china.com.cn/2019-12/02/content_75467456.htm)<br>
-[海南临高县10岁女童怀孕8个月！疑被同村61岁老人性侵](http://edu.youth.cn/jyzx/jyxw/201702/t20170213_9110982.htm)<br>
-[辽宁大连10岁女孩遭13岁男孩杀害，不予追究刑事责任](http://baijiahao.baidu.com/s?id=1649737074633361782&wfr=spider&for=pc)<br>
-[内蒙古自治区满洲里市13岁女孩一个月内被三名男子性侵六次](https://baijiahao.baidu.com/s?id=1616615031597857818&wfr=spider&for=pc)<br>
 [海南一对姐妹遭邻居性侵 15岁智障姐姐怀孕7个月](https://news.china.com/socialgd/10000169/20161109/23864677_all.html)<br>
+[海南纺织工业局副局长李庆普犯贪污、嫖宿幼女、巨额财产来源不明罪被一审判20年，写两抽屉嫖娼日记共95本](http://news.jstv.com/wap/a/20191214/1576266234642.shtml)<br>
+[海南临高县10岁女童怀孕8个月！疑被同村61岁老人性侵](http://edu.youth.cn/jyzx/jyxw/201702/t20170213_9110982.htm)<br>
 [湖南女孩思思被同村74岁老人性侵并产子](https://www.sohu.com/a/285428423_120078003)<br>
 [湖南祁东留守女孩被控制、威胁、性侵](https://new.qq.com/rain/a/20191125A0MWUF)<br>
 [湖南省安化县13岁女孩被性侵](http://baijiahao.baidu.com/s?id=1601166818222090544&wfr=spider&for=pc)<br>
@@ -556,11 +559,11 @@
 [湖南某卫生院副院长涉嫌多次对13岁女生实施强奸](http://www.sohu.com/a/327928351_260616)<br>
 [湖南16岁少女被50岁单身男囚禁地洞性侵24天](http://m.haiwainet.cn/middle/3541353/2016/0908/content_30305627_1.html)<br>
 [湖南祁东县疑多人强奸11岁女孩 两公职人员涉案](http://www.sohu.com/a/354532305_260616)<br>
+[江西11岁女孩被15岁男孩杀害再遭焚烧](http://www.sohu.com/a/137535382_393127)<br>
 [广西10岁女孩卖百香果回家途中遇害，疑遭嫌犯性侵后藏尸草丛](https://www.yidianzixun.com/article/0KEfR3Xz?s=mb&miref=newsin_app_push)<br>
 [广西一男子多次性侵12岁少女](https://www.sohu.com/a/329950492_120065581)<br>
 [陕西凤翔县柳林镇人大主席李向阳因强奸14岁未成年被逮捕](http://n.miaopai.com/media/64dm0DxGcm5TU93g6YTqrGWM~xQ2l7kL)<br>
-[陕西榆林市15岁初三女生失踪多日被找到，遭6名同龄男子肢解掩埋，赔偿3.5万，主犯仅判无期](https://baijiahao.baidu.com/s?id=1652272796413027088&wfr=spider&for=pc)<br>
-[辽宁葫芦岛男子与12岁幼女发生关系被控强奸，一审、终审均判无罪！](http://www.xcar.com.cn/bbs/viewthread.php?tid=94551197)<br>
+[陕西榆林神木15岁的少女被6名未成年人逼迫卖淫、殴打至死肢解掩埋，赔偿3.5万，主犯仅判无期](https://baijiahao.baidu.com/s?id=1652272796413027088&wfr=spider&for=pc)<br>
 [四川绵阳73路公交上男子猥亵5年级女孩，他却反驳：我俩是好朋友](http://inews.ifeng.com/yidian/60155628/news.shtml?ch=ref_zbs_ydzx_news&yidian_docid=0KWmUcLT&yidian_s=mb&yidian_appid=&miref=newsin_app_push&yidian_cp=cn-yidian-news-v2&yidian_itemtype=news)<br>
 [四川63岁男子强奸14岁残疾少女](https://www.guancha.cn/politics/2019_10_28_523008.shtml)<br>
 [四川省成都市新都区13岁女孩遭多次性侵](https://edu.qq.com/a/20160920/009380.htm?pgv_ref=aio2015&ptlang=2052)<br>
@@ -573,7 +576,6 @@
 [广东深圳15岁少女拒绝男子求爱遭毁容](https://baijiahao.baidu.com/s?id=1632868571879333887&wfr=spider&for=pc)<br>
 [广东广州一男子街上尾行小女孩，突然将其抱走](https://baijiahao.baidu.com/s?id=1650601371835512804&wfr=spider&for=pc&isFailFlag=1)<br>
 [6旬男子常某火车上多次亲15岁女孩 女孩被吓哭](https://www.yidianzixun.com/article/0KYbmjoF?s=mb&miref=newsin_app_push&docid=0KYbmjoF&cp=cn-browser-push&itemtype=news)<br>
-[江西11岁女孩被15岁男孩杀害再遭焚烧](http://www.sohu.com/a/137535382_393127)<br>
 [甘肃天水武山县15岁女孩在校外寄宿，被50岁房东强奸后又被年过5旬的老光棍性侵](http://gansu.gansudaily.com.cn/system/2016/07/02/016195461.shtml)<br>
 [黑龙江省五大连池市兴安乡龙山村14岁女孩被全家性侵案](http://news.cctv.com/2018/07/27/ARTISrIwgEFSHSnBarBb0xo7180727.shtml)<br>
 [福建漳州一女中学生订外卖竟遭送餐员猥亵](http://fj.sina.com.cn/news/s/2018-11-14/detail-ihmutuea9966717.shtml)<br>
@@ -709,6 +711,7 @@
 2019年11月，[上海女子做完私处美容 却发现正前方就是监控探头](http://n.miaopai.com/media/q7FCtODrj9xvw802UC~mp8DPc~K4ZM9Z)<br>
 2019年12月，[湖北美院偷拍女生裙底还把视频发到了p站]，无语，链接不放了<br>
 2019年12月，[广州地铁一安检人员偷拍女乘客裙底](http://baijiahao.baidu.com/s?id=1653208518644829853&wfr=spider&for=pc)<br>
+2019年12月，[广西南宁一男子在餐厅两次袭胸陌生女子，罚款500](https://weibo.com/tv/v/In30FzQWb?fid=1034:4454920485535761)<br>
 2019年6月，[温州永嘉县警方抓获一名男子在网上大量贩卖摄像头，许多哺乳母亲丝毫不知被偷窥](https://zx.sina.cn/2019-12-26/zx-iihnzhfz8377472.d.html?wm=3049_0015)<br>
 
 ### 被结婚
@@ -778,6 +781,8 @@
 [美国伊利诺伊大学厄巴纳-香槟分校华人教授徐钢性侵女学生](http://baijiahao.baidu.com/s?id=1645117586725420990&wfr=spider&for=pc)<br>
 
 ### 与学历无关
+[哈工大男生在网上用污言秽语辱骂师大女生](https://baijiahao.baidu.com/s?id=1654312917536888460&wfr=spider&for=pc)<br>
+[沈阳航空航天大学一男子不停的骚扰前女友并将其逼至跳楼自杀](https://www.douban.com/group/topic/162029174/?dt_dapp=1&dt_platform=weibo)<br>
 [不寒而栗的爱情：北大女生遭男友精神折磨后自杀](https://www.thepaper.cn/newsDetail_forward_5226837)<br>
 [我是包丽的朋友，真相远比你知道的更可怕](https://chinadigitaltimes.net/chinese/2019/12/%E5%87%B1%E6%97%8B%E5%8D%81%E4%BA%8C-%E6%88%91%E6%98%AF%E5%8C%85%E4%B8%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C%E7%9C%9F%E7%9B%B8%E8%BF%9C%E6%AF%94%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9B%B4/)该链接需要科学上网<br>
 [北工大外国语学院男生吴江掐死女友续：凶手被判死缓](http://news.cri.cn/gb/11344/2006/12/13/664@1347839.htm)<br>
@@ -892,6 +897,12 @@
 **男的“打你耳光” 叫“推你的脸”** <br> 
 [陕西安康石泉30岁的男子索爱一女子不成跳江自杀，女子被判决赔偿各项损失七万元]( http://www.sichuanlong.com/a/2018/1224/322701.html)<br> 
 描述男子扇耳光的动作是“情急之下”“推了一下脸”。女子被仅有几面的男子长期跟踪骚扰的恐慌和阴影无人过问，却要为这男子的自杀负责<br>
+
+### 女德班死灰复燃
+[浙江温州传统文化促进会-亲子夏令营](https://baijiahao.baidu.com/s?id=1619738796420841219&wfr=spider&for=pc)<br>
+[江苏徐州市华夏传统文化专修学校](https://baijiahao.baidu.com/s?id=1624040439146068693&wfr=spider&for=pc)<br>
+[辽宁抚顺市传统文化教育学校](https://www.thepaper.cn/newsDetail_forward_1897080)<br>
+["致良知四合院"会场宣传女性应该完全服从男性](http://news.sina.com.cn/s/2019-12-30/doc-iihnzhfz9195841.shtml)<br>
 
 ### 微博厌女话题一览
 ```
