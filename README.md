@@ -78,6 +78,7 @@
 [河北廊坊霸州市一基层政府工作人员杀妻与3岁儿子后跳楼身亡](http://m.sohu.com/a/123025036_123753/)<br>
 [河北沧州男子抡锤砸门家暴妻女 警察调解男子拒道歉](http://news.sina.com.cn/s/2019-11-28/doc-iihnzahi3994982.shtml)<br>
 [河北邢台男子郑某持刀捅伤妻子](https://www.sohu.com/a/56598608_119684)<br>
+[河北鸡泽县男子董某增囚禁一智障女子20多年并生子](https://baijiahao.baidu.com/s?id=1654762889465772234&wfr=spider&for=pc)<br>
 [北京大兴区黄村镇清澄名苑小区男子张武力杀妻灭子](http://news.sohu.com/20091228/n269246295.shtml)<br>
 [北京王光宇虐妻致死罪仅被判六年](https://www.sohu.com/a/256822941_100237370)<br>
 [北京石景山区一男子刘某挥刀疯狂砍妻子20多刀](http://n.miaopai.com/media/XcxHsRZvvDuT3ZpnMu3HzW0wAdpMNbZk)<br>
@@ -435,6 +436,7 @@
 [广东广州地铁三号线上，26岁男子裸露身体猥亵女乘客](http://www.sohu.com/a/352814740_430226)<br>
 [陕西西安长安医院一男子陈某带孩子就诊时殴打护士](https://baijiahao.baidu.com/s?id=1654571012611256063&wfr=spider&for=pc)<br>
 [陕西西安某男子对3名服务员实施猥亵，被行政拘留10日](https://weibo.com/tv/v/HCuNV29qJ?fid=1034:4391748403662459)<br>
+[西安市第66中学一男学生杀害老师](http://n.miaopai.com/media/nMeI28LsUycI4kIyIxvtrcdQ4Socm36R)<br>
 [陕西蓝田怀孕女护士遭劫杀案告破](https://baijiahao.baidu.com/s?id=1589254651213647411&wfr=spider&for=pc)<br>
 [陕西渭南华阴市一男子杨某某在华山多处景点伺机等待单身女性，夺走深圳女子彭某财物，实施残忍暴行抽出鞋带将其勒亡，将遗体抛在石坑](http://baijiahao.baidu.com/s?id=1653071100216605027&wfr=spider&for=pc)<br>
 [陕西铜川一男子陈旭先后杀害两名19岁少女，11年后被执行死刑](https://www.thepaper.cn/newsDetail_forward_5054969)<br>
@@ -443,6 +445,7 @@
 [山东济南历城区唐冶南村一男子贾某用铡刀杀死村民宋某一家四口](http://dy.163.com/v2/article/detail/ELT04M2F0511CPG9.html)<br>
 [江西两名干部乡镇办公楼内强奸女性](https://rmh.pdnews.cn/Pc/ArtInfoApi/article?id=7421098)<br>
 [江西某男子校门口持刀猛刺女子 三人冲上前将其制服](http://www.bjnews.com.cn/wevideo/2018/10/17/511817.html)<br>
+[江西南昌铁路五村智障女子裸身遭铁链囚禁](http://jx.sina.com.cn/news/s/2013-07-10/081937554.html?from=jx_ydph)<br>
 [湖北武汉已婚男子地铁内搭讪女孩被拒 挥拳暴击对方](http://hb.sina.com.cn/news/b/2019-04-21/detail-ihvhiewr7363361.shtml?from=hb_tttj)<br>
 [湖北武汉一花季女大学生被性侵 作案者竟是闺蜜男友](https://hb.qq.com/a/20171122/007253.htm)<br>
 [湖北武汉黄陂抑郁症女孩坠楼身亡，两年前曾报案称遭强暴但证据不足被退回](http://baijiahao.baidu.com/s?id=1649916528052458784&wfr=spider&for=pc)<br>
@@ -486,6 +489,7 @@
 [广西一男子熊志城欠赌债来杭州自尽想找人陪死，强制猥亵并刺死浙大海归23岁女孩](http://www.sohu.com/a/329529776_398039)<br>
 [广西桂林电子科技大学一男生在校园对两女生持刀行凶24刀](https://mp.weixin.qq.com/s?__biz=MjM5NjAxNTIyMA==&mid=2657442714&idx=1&sn=fb01fa90dda3a4af0b87a722c95f24ad)<br>
 [广西柳州一女孩登山被抢劫杀害遗体遭性侵 凶手被抓时正在嫖娼](http://hb.sina.com.cn/news/2017-06-22/detail-ifyhmtek7641210.shtml)<br>
+[广西贺州平桂区黄田镇在灵峰广场殴打女子](http://www.sohu.com/a/364525062_162522)<br>
 [江苏常州湖塘老街男子杀害一女子](https://www.yidianzixun.com/article/0KGDYdmn?s=mb&miref=newsin_app_push)<br>
 [江苏淮安市涟水县胡某车内迷奸百名女性，录下418段不雅视频。获有期徒刑六年]( http://www.sohu.com/a/156307836_372652)<br>
 [江苏南京，几名女孩路边拒绝了一男子提合照的请求，被辱骂长达十多分钟](https://weibo.com/tv/v/ImCjOdAh8?fid=1034:4453557156642822)<br>
@@ -525,6 +529,7 @@
 [台湾桃园县一变态男虐死10月大女婴 并多次性侵5岁干女儿](http://news.ifeng.com/c/7fZCCKdN64P)<br>
 [广州白云区男子性侵1岁女婴致其阴部破裂](http://news.cctv.com/society/20081030/100709.shtml)<br>
 [浙江宁波1岁半大女婴被五旬男子性侵](http://m.sohu.com/a/136385366_612707/)<br>
+[山东临沂男子马某当服务生脱裤子猥亵3岁幼女，手机发现大量下体照片](https://baijiahao.baidu.com/s?id=1654786802929896537&wfr=spider&for=pc)<br>
 [广西南宁3岁女童处女膜破裂称被老师打屁股 幼儿园监控缺失](https://app.peopleapp.com/Api/600/DetailApi/shareArticle?type=0&article_id=2274001&from=singlemessage&isappinstalled=0)<br>
 [江苏常州女婴出生3天被其父亲抱出院，以5万元卖出](http://sjycdn.miaopai.com/stream/HngoIYaNBYJB1-3mX-I9aCevRn-PBViQlg7cDQ___32.mp4?ssig=ecb8b76afe973b2683bd272e1d8858cd&time_stamp=1576218120937)<br>
 [湖北黄石一女婴被丢弃在垃圾车内，时间：2019年圣诞节](https://m.thepaper.cn/newsDetail_forward_5335846)<br>
@@ -813,6 +818,7 @@
 ### 性骚扰
 [广西男子公交性骚扰被发现，掏刀恐吓被行拘15日](http://n.miaopai.com/media/LxKJlAiiw6k19G7RwVsuOiTnJ~XVCT-f)<br>
 [广西南宁男子公交车上性骚扰女生 被抓时举报“同行”](http://legal.people.com.cn/n/2014/0701/c42510-25225088.html)<br>
+[广州甘肃籍男子徐某洋乘地铁强行猥亵女乘客30分钟之久，二审获刑两年半](https://www.thepaper.cn/newsDetail_forward_5429171)<br>
 [广州女子乘公交遭遇中年男子性骚扰](http://news.163.com/18/0414/04/DFB0I3OM0001899N.html)<br>
 [广州三名保安男子多次调戏女收银员言语低俗至极，收银员用剪刀反抗，男子受皮外伤,女收银员被辞退](http://news.sina.com.cn/s/2019-11-26/doc-iihnzhfz1905166.shtml)<br>
 [北京公交安全员性骚扰女乘客](http://baijiahao.baidu.com/s?id=1643634472390860955&wfr=spider&for=pc)<br>
@@ -1014,6 +1020,7 @@
 2018年11月2日，网友@徒有琴将自己翻唱的歌《天朝渣男图鉴》视频放到微博，徒有琴童鞋一人分饰六角，饰演6个杀了丈夫的女人。她用上海、北京、广东等地方言讲述了为何杀夫，随后该歌曲被和谐，徒有琴使用了8年的微博亦被封禁。截至目前该歌曲仅在QQ音乐上有，可以试听。
 [《天朝渣男图鉴》](https://y.qq.com/portal/player.html)<br>
 2017年6月，北京电影学院阿廖莎性侵案+[北电侯亮平事件](https://www.douban.com/note/624737044/)不了了之<br>
+2020年1月，《我告诉你女孩子一生都要害怕些什么》歌曲描写了中国女性一生中可能遇到来自男性的所有性别压迫，歌曲的mv以真实新闻报道的形式展现了今日之中国依旧存在的杀女婴、猥亵女童、来自男性的暴力、对女性的职场歧视等问题，该歌曲在网易云音乐、b站等各大平台均无法顺利发出。原来连害怕都能是具有争议性和不适宜的
 
 **春蕾计划**<br>
 春蕾计划打着专项捐款给女童的旗号诈捐，40%钱款用于男性。其中19岁的“男童”美滋滋地享受着本该给贫困女童的捐款，拿去买单反实现自己的摄影梦。而得不到资源支持的女童们，无法投资自己，无法去看更大的世界，贫穷限制了她们的眼界，便只得早早嫁给别人，生儿育女，从此再也无力参与社会竞争。<br>
