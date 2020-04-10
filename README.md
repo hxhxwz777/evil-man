@@ -33,10 +33,15 @@
 - [x] 农村土地分配，[女性有平等继承权吗？](#女性有平等继承权吗)<br>
 - [x] 法律：袭胸、偷拍女性罚500，关几天[法律不保护女性](#法律不保护女性)<br>
 - [x] 男权：洗脑女性，控制精神，[女德班死灰复燃](#女德班死灰复燃)<br>
+- [x] 男人：我的真心话合集，[招不在新管用就成](#男性真心话合集)<br>
 - [x] 男人：我不听我没有你胡说，[女性闭嘴](#它们可以做-她们不能说)<br>
 - [x] 男人：你说实话就是挑起性别对立，我觉得[中国女性地位够高了](#全球性别平等排名)<br>
 
 ## 最近修改
+### v1.2.0 (2020/04/10 10:33)
+新增高管性侵女儿案<br>
+新增专题“男性真心话合集”<br>
+
 ### v1.1.0 (2020/03/02 00:13)
 新增“疫情”性别歧视合辑<br>
 新增“女性无平等继承权”新闻合辑<br>
@@ -44,10 +49,6 @@
 ### v1.0.1 (2019/12/29 15:00)
 新增孙文斌恶意割喉杀害女医生的新闻<br>
 新增“女德班死灰复燃”
-
-### v1.0.0 (2019/12/27 14:00-16:00)
-新增“厌女微博话题一览”<br>
-新增“护屌新闻大赏”
 
 
 ## 谁的命不是命
@@ -124,6 +125,7 @@
 [四川省宜宾市江安县男子李程杀妻藏尸冰柜](https://baijiahao.baidu.com/s?id=1617182102891439942&wfr=spider&for=pc)<br>
 [四川男子陈安军担心妻子出轨，剁妻子左手，手变三块](https://www.sohu.com/a/46010234_115422)<br>
 [四川南充外籍男子冯桐果持刀将妻子手背砍伤](http://www.sohu.com/a/144868927_201759)<br>
+[四川南充高坪区男子李某刺伤前妻后坠亡](https://baijiahao.baidu.com/s?id=1663152456622769156&wfr=spider&for=pc)<br>
 [四川乐山男子离婚七年仍殴打前妻，前妻欲跳岷江二桥轻生](https://weibo.com/tv/v/IbL10yqQC?fid=1034:4428023311862958)<br>
 [上海闵行男子齐某多次骚扰侮辱前妻，并找锁匠开前妻房门](http://n.miaopai.com/media/wDEVBd-zIvhUyLzLygHEKbp~-FdZUMDT)<br>
 [上海某外籍男子陈某砍断妻子手掌判刑四年](http://www.kankanews.com/a/2016-03-21/0037431540.shtml)<br>
@@ -183,6 +185,7 @@
 [山西晋城兰亭书院案凶手砍妻头部超30刀 被判死刑](https://baijiahao.baidu.com/s?id=1635947033411473401&wfr=spider&for=pc)<br>
 [山西闻喜县男子孙某安索钱还高利贷不成竟杀妻弑子](http://mini.eastday.com/a/181215104226549.html)<br>
 [山西省长治市长子县宋村乡西郭村男子张存修砍掉妻子头颅](https://news.qq.com/a/20170419/047668.htm)<br>
+[山西灵石县女子遭丈夫郗某家暴后坠楼身亡](https://www.thepaper.cn/newsDetail_forward_6475227)<br>
 [江西宜宾男子王某与妻子发生争执，并用菜刀将妻子砍伤](http://m.sohu.com/a/298716706_99962321)<br>
 [江西女子订婚后反悔,男子将其杀害](http://n.miaopai.com/media/v-ou8RQm55gyWyqyXsaFeIZXl9hvZP2X)<br>
 [江西南昌进贤县前坊街汉章大道男子陈国民杀妻骗保](https://www.sohu.com/a/209304170_393071)<br>
@@ -207,6 +210,7 @@
 [浙江丽水市松阳县一男子违反人身安全保护令对妻子再施暴，被司法拘留5天](https://www.thepaper.cn/newsDetail_forward_5228267)<br>
 [浙江温州龙湾区沙城镇郑宅姜瑞明将妻子脸整个撕烂，拿剪刀剪其头发衣服，被逼吃屎](https://weibo.com/1901632945/IkKVf0yPt?type=comment#_rnd1576408077084)<br>
 [浙江温州鹿城区仰义某出租房男子杀妻，在墙上留下"杀人者蔡某"字样](http://zjnews.zjol.com.cn/system/2013/10/22/019661098.shtml)<br>
+[浙江温州市鹿城区水心街道某楼下，男子王洪伟连捅妻子二十多刀，刀刀致命](http://dy.163.com/v2/article/detail/F3NNFTK505149SN2.html)<br>
 [浙江绍兴袍江一小区男子持刀砍伤前妻及前妻女儿，前妻身中二十多刀](https://mp.weixin.qq.com/s/ZmYc97egHspefEkmX4Fs0Q)<br>
 [浙江义乌一男子在床上连砍妻子十几刀](http://zj.sina.com.cn/news/s/2017-03-08/detail-ifychhuq3286204.shtml?from=zj_ydph)<br>
 [贵州铜仁市万山区高楼坪乡男子向某拿刀追砍妻子](http://www.sohu.com/a/240192001_678231)<br>
@@ -249,6 +253,7 @@
 ```
 我又没玩别人 我玩的是我女儿
 ```
+[山东烟台，高管鲍毓明性侵未成年女儿三年，女儿多次报警无人回应](http://news.sina.com.cn/s/2020-04-09/doc-iircuyvh6857974.shtml)
 [山东一男子强奸亲生女儿获刑七年六个月，被撤销监护人资格](https://www.thepaper.cn/newsDetail_forward_2917243)<br>
 [山东滨州阳信县男子杨爱静殴打女儿，并最终在家里将女儿打死](https://weibo.com/ttarticle/p/show?id=2309404386972234867489)<br>
 [浙江绍兴一四川男子性侵养女案](https://baike.baidu.com/item/%E5%85%BB%E7%88%B6%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%84%BF%E6%A1%88/6345246)<br>
@@ -260,6 +265,7 @@
 [四川叙永一男子多次性侵自己13岁的亲生女儿](http://www.sohu.com/a/306399332_796932)<br>
 [四川安岳男子多次性侵14岁亲女儿被判13年](http://baijiahao.baidu.com/s?id=1648002677944648175&wfr=spider&for=pc)<br>
 [辽宁营口男子石某性侵年女儿长达四年](https://baijiahao.baidu.com/s?id=1652530710290526306&wfr=spider&for=pc)<br>
+[吉林舒兰市男子李某富强迫不满14岁女儿发生数百次性关系](https://www.sohu.com/a/383709405_120053745)><br>
 [上海初二女生20天内遭到生父多次性侵 生母竟帮忙捂嘴](http://news.163.com/19/0418/01/ED0QURN00001875P.html)<br>
 [安徽宿州35岁男子张某某强奸14岁女儿，多次以查作业为由](http://www.sohu.com/a/307775605_120066713)<br>
 [陕西扶风县女童3岁被收养 遭养父性侵致2次怀孕：两个女婴共卖5万多元](http://sd.china.com.cn/a/2015/fzzx_1126/431729.html)<br>
@@ -315,6 +321,7 @@
 [福建龙岩武平县城厢乡尧禄村男子杀妻杀岳母后服毒自杀](http://news.cntv.cn/law/20110730/105598.shtml)<br>
 [福建莆田城厢区男子马某持菜刀砍伤妻子一家人](https://baijiahao.baidu.com/s?id=1650278377744478237&wfr=spider&for=pc)<br>
 [上海闵行华漕镇袁姓男子刺死妻子全家亲属五人](https://site.douban.com/120495/widget/notes/3716375/note/223432566/)<br>
+[上海宝山区男子黄某杀害妻子和岳母](http://news.sina.com.cn/c/2020-03-04/doc-iimxyqvz7658407.shtml)<br>
 [江苏南京男子李晓强锤杀准丈母娘](http://www.chinadaily.com.cn/dfpd/shehui/2010-12/21/content_11733516_2.htm)<br>
 [江西湘东区男子谭礼军砍杀岳父全家 造成1死4伤](http://px.jxnews.com.cn/system/2014/09/08/013310121.shtml)<br>
 [甘肃成县纸坊镇枣树村尧坪社男子李某屠杀妻子全家 手段残忍令人惊心](http://www.china.com.cn/chinese/law/710956.htm)<br>
@@ -415,6 +422,7 @@
 [广东深圳龙华新区富联新村一甘肃籍男子田某宁掐死女友后谎称其触电身亡](http://news.youth.cn/jsxw/201412/t20141216_6264962.htm)<br>
 [广东深圳宝安男子刘某凌晨连捅18岁女友数刀 女友闺蜜与烧烤店老板目睹全程](https://baijiahao.baidu.com/s?id=1612834534657741587&wfr=spider&for=pc)<br>
 [广东广州一对情侣马路吵架，男友故意走到马路中间，男子撞击女友导致其被撞死，获刑十个月，缓刑一年](https://weibo.com/tv/v/Ij6Glt0jO?fid=1034:4445539144761358)<br>
+[男子为了困住女友，向广州机场谎报女友确诊新冠](http://news.163.com/20/0229/11/F6I5VQLH00018AOR.html)<br>
 [广西柳州市鱼峰男子周某掐死女友后自首](http://legal.people.com.cn/n/2012/1202/c188502-19762946.html)<br>
 [山东章丘男子韩某在北京掐死女友千里运尸回家 涉故意杀人被判死缓](http://news.sohu.com/20100411/n271433591.shtml)<br>
 [山东德州男子卓泉掐死女友抛尸井底十八年](https://shrb.qlwb.com.cn/shrb/content/20150429/ArticelA13002JQ.htm)<br>
@@ -563,6 +571,7 @@
 [浙江宁波1岁半大女婴被五旬男子性侵](http://m.sohu.com/a/136385366_612707/)<br>
 [山东临沂男子马某当服务生脱裤子猥亵3岁幼女，手机发现大量下体照片](https://baijiahao.baidu.com/s?id=1654786802929896537&wfr=spider&for=pc)<br>
 [广西南宁3岁女童处女膜破裂称被老师打屁股 幼儿园监控缺失](https://app.peopleapp.com/Api/600/DetailApi/shareArticle?type=0&article_id=2274001&from=singlemessage&isappinstalled=0)<br>
+[贵州省贵阳清镇市19岁男子杨某某持刀杀害两岁女童](http://k.sina.com.cn/article_2516546215_95ff72a701900pesb.html?from=society)<br>
 [江苏常州女婴出生3天被其父亲抱出院，以5万元卖出](http://sjycdn.miaopai.com/stream/HngoIYaNBYJB1-3mX-I9aCevRn-PBViQlg7cDQ___32.mp4?ssig=ecb8b76afe973b2683bd272e1d8858cd&time_stamp=1576218120937)<br>
 [湖北黄石一女婴被丢弃在垃圾车内，时间：2019年圣诞节](https://m.thepaper.cn/newsDetail_forward_5335846)<br>
 [安徽芜湖出生40多天女婴遭父亲亲手遗弃](http://n.miaopai.com/media/PnrPQERw~d2tIXw8f~Vr-EDY9YzSMVHG)<br>
@@ -571,6 +580,8 @@
 ### 4-6岁
 [广东茂名多名幼童遭外派体能老师猥亵](https://weibo.com/tv/v/IgWcP70H5?fid=1034:4440364853986991)<br>
 [广东深圳龙岗区龙城街道， 4岁被拐女童一句话提醒司机及时报警](https://weibo.com/tv/v/IktqraMX6?fid=1034:4448795015184388)<br>
+[广西横县云表镇某乡村小学教师邓某性侵一年级女童4年](https://www.sohu.com/a/382783696_120054099)<br>
+[广西南宁六旬男子在电梯内猥亵6岁女童，因高血压未被收押](http://k.sina.com.cn/article_5044281310_12ca99fde02000wz72.html?from=cul)<br>
 [陕西咸阳兴平5岁小女孩儿疑遭13岁男孩性侵，下身粘膜充血水肿](http://news.hsw.cn/system/2016/0811/438722.shtml?rand=urtfvrnp)<br>
 [甘肃6岁女孩遭13岁男孩侵犯，不予立案](http://dy.163.com/v2/article/detail/EBEJ878605490OID.html)<br>
 [浙江杭州6岁女孩被拍不雅照，影楼：不排除小孩想红](https://zx.sina.cn/2019-12-10/zx-iihnzahi6464282.d.html)<br>
@@ -975,6 +986,15 @@
 **男的“打你耳光” 叫“推你的脸”** <br> 
 [陕西安康石泉30岁的男子索爱一女子不成跳江自杀，女子被判决赔偿各项损失七万元]( http://www.sichuanlong.com/a/2018/1224/322701.html)<br> 
 描述男子扇耳光的动作是“情急之下”“推了一下脸”。女子被仅有几面的男子长期跟踪骚扰的恐慌和阴影无人过问，却要为这男子的自杀负责<br>
+
+### 男性真心话合集
+家教严的独生乖乖女最好控制了，只要不要尊严地跪舔，以后她家什么不是我的<br> 
+不被家里爱和重视的女性也最好控制了，只要稍微给她点关注，她就顺从听话像条狗<br> 
+你不懂，我就不戴套，你懂我就避孕套扎洞，未婚先孕吃女人美滋滋<br> 
+你说你不生，那好啊啥都依你。其实证领了杀你都没事，还怕你不生？<br>
+你说你只生一个，行啊生男生女都一样，大不了结了婚以后给你精神压力，人都卖给我了，还想讨价还价？<br>
+你说孩子和你姓？笑话，怎么可能。尽管生育我什么也没付出，但这个我必抢，我路边没捡到钱都算我丢钱<br>
+先骗着恋爱，发动全家开始进行舆论攻势，让她置身于只有我的世界，听到的都是我的好<br> 
 
 ### 女德班死灰复燃
 [浙江温州传统文化促进会-亲子夏令营](https://baijiahao.baidu.com/s?id=1619738796420841219&wfr=spider&for=pc)<br>
