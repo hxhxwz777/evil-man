@@ -253,7 +253,7 @@
 ```
 我又没玩别人 我玩的是我女儿
 ```
-[山东烟台，高管鲍毓明性侵未成年女儿三年，女儿多次报警无人回应](http://news.sina.com.cn/s/2020-04-09/doc-iircuyvh6857974.shtml)
+[山东烟台，高管鲍毓明性侵未成年女儿三年，女儿多次报警无人回应](http://news.sina.com.cn/s/2020-04-09/doc-iircuyvh6857974.shtml)<br>
 [山东一男子强奸亲生女儿获刑七年六个月，被撤销监护人资格](https://www.thepaper.cn/newsDetail_forward_2917243)<br>
 [山东滨州阳信县男子杨爱静殴打女儿，并最终在家里将女儿打死](https://weibo.com/ttarticle/p/show?id=2309404386972234867489)<br>
 [浙江绍兴一四川男子性侵养女案](https://baike.baidu.com/item/%E5%85%BB%E7%88%B6%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%84%BF%E6%A1%88/6345246)<br>
@@ -588,8 +588,17 @@
 [福建福州一家影院的公厕内三名女子接连被猥亵，最小的只有6岁](http://n.miaopai.com/media/w85Ja4JqwSPWC0BqrJudoElPmXtMFibS)<br>
 [山东青岛“红黄蓝幼儿园教师猥亵女童案”](http://news.qingdaonews.com/qingdao/2019-12/06/content_20967026.htm)<br>
 [重庆綦江一女童被父亲砍多刀: 已接受紧急联合大手术, 父亲被羁押](http://s4.uczzd.cn/webapp/webview/article/news.html?app=uc-iflow&aid=53014256559862686&cid=100&zzd_from=uc-iflow&uc_param_str=dndseiwifrvesvntgipf&recoid=&rd_type=share&pagetype=share&btifl=100&uc_share_depth=1)<br>
+[重庆原公安局副局长文强供认强奸少女玩弄明星](http://npc.people.com.cn/GB/14840/10220354.html)<br>
 [云南一男子闯进幼儿园喷腐蚀性液体！51名娃娃3名老师紧急送医 ](http://baijiahao.baidu.com/s?id=1649955710279760187&wfr=spider&for=pc)<br>
+[原云南省大关县编制办主任郭玉驰未满4岁的幼女抱至家中实施奸淫](https://news.qq.com/a/20131009/017063.htm?pgv_ref=aio2012&ptlang=2052)<br>
 [海南屯昌一幼儿园男老师让30余名学生自己抽打自己嘴巴](https://weibo.com/tv/v/ImzxXCun4?fid=1034:4453798345900040)<br>
+[湖南常宁市宜阳镇一幼女夜遭强奸,三次110唤不来警察]http://news.sina.com.cn/s/2004-05-26/12022633619s.shtml?from=wap
+[湖南永州男子周军辉强奸11岁女童并强迫其卖淫100余次](http://news.ifeng.com/gundong/detail_2012_06/28/15620883_0.shtml?_from_ralated)<br>
+[四川省宜宾县国税局白花分局局长卢玉敏以6000元价格“买处”](http://opinion.people.com.cn/GB/1036/9770299.html)<br>
+河南郑州市公安局民警王成礼强奸4岁幼女，已无链接，此处为论坛讨论(http://blog.sina.cn/dpool/blog/s/blog_a8ddf1ae01014ujl.html?vt=4)<br>
+[辽宁辽阳市公安局原副局长富龙奸淫多名处女并致怀孕](https://m.sohu.com/n/224239855/)<br>
+[辽宁辽阳市辽阳县刘二堡某银行信贷员刘某车上强奸猥亵幼女，作案29起，受害幼女中最小的只有6岁](https://m.sohu.com/n/242341605/?page=2)<br>
+
 
 ### 7-17岁
 [山西长治市城区某小学8岁女孩遭体育老师杨某性侵](http://edu.cnr.cn/list/20161021/t20161021_523210932.shtml)<br>
@@ -620,6 +629,7 @@
 [江西11岁女孩被15岁男孩杀害再遭焚烧](http://www.sohu.com/a/137535382_393127)<br>
 [广西10岁女孩卖百香果回家途中遇害，疑遭嫌犯性侵后藏尸草丛](https://www.yidianzixun.com/article/0KEfR3Xz?s=mb&miref=newsin_app_push)<br>
 [广西一男子多次性侵12岁少女](https://www.sohu.com/a/329950492_120065581)<br>
+[广西桂林市全州县东山乡派出所所长吕某强迫13岁女性发生性关系](http://epaper.taihainet.com/html/20130324/hxdb436095.html)<br>
 [陕西凤翔县柳林镇人大主席李向阳因强奸14岁未成年被逮捕](http://n.miaopai.com/media/64dm0DxGcm5TU93g6YTqrGWM~xQ2l7kL)<br>
 [陕西榆林神木15岁的少女被6名未成年人逼迫卖淫、殴打至死肢解掩埋，赔偿3.5万，主犯仅判无期](https://baijiahao.baidu.com/s?id=1652272796413027088&wfr=spider&for=pc)<br>
 [四川绵阳73路公交上男子猥亵5年级女孩，他却反驳：我俩是好朋友](http://inews.ifeng.com/yidian/60155628/news.shtml?ch=ref_zbs_ydzx_news&yidian_docid=0KWmUcLT&yidian_s=mb&yidian_appid=&miref=newsin_app_push&yidian_cp=cn-yidian-news-v2&yidian_itemtype=news)<br>
@@ -645,6 +655,7 @@
 [北京东城一女中学生早晨在天坛东路附近被41岁男子杀害](https://xw.qq.com/amphtml/20191121A0KRI900)<br>
 [台湾台南才女作家林奕含13岁被被禽兽老师陈星(原名陈国星)诱奸，患抑郁多年,26岁选择自杀身亡](https://www.sohu.com/a/230853152_486463)<br>
 [台湾新北市一17岁女生疑遭性侵 校内产女婴](http://tv.cntv.cn/video/C10361/77441E8C61F5477cAE55CA88C97B438D)<br>
+[江苏无锡梁溪区83岁钢琴男教师徐某在家多次性侵2位9岁幼女，仅被判刑五年六个月](http://news.sina.com.cn/o/2017-12-15/doc-ifyptfcn0686504.shtml)<br>
 [江苏省扬州市宝应县林某和鲁某某轮奸9岁幼女后分开多次强奸](https://weibo.com/ttarticle/p/show?id=2309404427998303486037)<br>
 [江苏响水两名11岁的小女孩被托管老师性侵10多次](http://baijiahao.baidu.com/s?id=1598603167361764583&wfr=spider&for=pc)<br>
 [江苏连云港一男子持木棍暴打一对亲生儿女](http://n.miaopai.com/media/Hzc-jriyhB9G8o5Ykg-nm-zmm3LR2F-l)<br>
