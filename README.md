@@ -174,6 +174,7 @@
 [广西桂林男子苏某某用菜刀乱砍妻子 满地的血怵目惊心](http://gx.sina.com.cn/news/gx/2018-10-11/detail-ihmhafiq9569147.shtml)<br>
 [广西桂林荔浦荔城镇沙街村男子黄某杀妻后逃逸](http://m.sohu.com/a/156742961_753521/)<br>
 [山东聊城市高唐县人赵某杀妻后跑来青岛旅游，落网](http://baijiahao.baidu.com/s?id=1652448223493839617&wfr=spider&for=pc)<br>
+[山东聊城临清市魏湾镇男子朱某某杀妻，妻子为副镇长](https://baijiahao.baidu.com/s?id=1663668946025630507&wfr=spider&for=pc)<br>
 [山东临沂市费县医生高瑞森长期盗取医院大量药品，多次下毒谋杀妻子](http://baijiahao.baidu.com/s?id=1639287255946657464&wfr=spider&for=pc)<br>
 [山东青岛即墨男子周磊酒后砍妻子20多刀，被判13年](http://news.bandao.cn/news_html/201605/20160523/news_20160523_2634946.shtml)<br>
 [山东济南济阳回河街道桑皮赵村一男子郑某杀妻后自杀，6岁女儿目睹全程](https://baijiahao.baidu.com/s?id=1605242047812105081&wfr=spider&for=pc)<br>
@@ -190,6 +191,7 @@
 [江西南昌市沙井小区男子熊某深夜杀妻剁下头颅](http://news.ifeng.com/gundong/detail_2013_10/23/30576123_0.shtml)<br>
 [吉林长春男子刘某投毒杀妻案](https://baijiahao.baidu.com/s?id=1604276054750828827&wfr=spider&for=pc)<br>
 [吉林白城洮北区男子战某持刀砍伤妻子获刑四年](https://new.qq.com/omn/20190718/20190718A0G42900.html)<br>
+[内蒙古某精神卫生中心医生景某反对妻子考上协和医院博士，追至北京将其割喉](http://news.sina.com.cn/c/2012-08-16/000024977512.shtml)<br>
 [黑龙江哈尔滨南岗区男子杀妻及小姨](http://news.cntv.cn/society/20110707/106893.shtml)<br>
 [辽宁葫芦岛市绥中县男子黄某多次家暴，妻子报警无法立案，男子用斧头杀死妻子后，将头颅从高层扔到楼下](https://news.china.com/socialgd/10000169/20170322/30349665_all.html)<br>
 [福建泉州安溪县凤城镇男子林某当街连砍妻子10多刀 百人袖手围观](http://news.66wz.com/system/2008/09/17/100758988.shtml)<br>
