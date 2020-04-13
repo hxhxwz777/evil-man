@@ -42,7 +42,7 @@
 近期陆续有许多心系女性的微博博主自发宣传它，我在此表示感谢。<br>
 
 ## 最近修改
-### v1.2.1 (2020/04/12 15:00)
+### v1.2.2 (2020/04/13 20:00)
 新增近期新闻投稿,更新女童受侵害案件<br>
 
 ### v1.2.0 (2020/04/10 10:33)
@@ -401,6 +401,7 @@
 [云南曲靖沾益区女孩被男友拖拽上楼后坠楼全身多处骨折，肝脏破裂，检方:不予立案](http://www.sohu.com/a/348818172_100093573)<br>
 [云南曲靖陆良县活水乡一男子孙某掐死女友，自杀未遂一审被判死缓](https://www.chuxiong.com/thread-28739-1-1.html)<br>
 [福建三明明溪男子余某翔在厦门杀女友，砍杀岳母](http://news.cnwest.com/tianxia/a/2020/01/13/18368179.html)<br>
+[福建龙岩籍男子张顺镇在广州市天河区东莞庄南街65号402房掐死女友并碎尸](http://news.ifeng.com/society/1/detail_2012_02/24/12755606_0.shtml)<br>
 [福建厦门男子张某勒死女友后,用女友尸体申网贷](https://news.china.com/social/1007/20190820/36861189.html)<br>
 [福建厦门思明区禾祥东路某小区外发生一起感情纠纷女性被杀案](http://news.hangzhou.com.cn/shxw/content/2019-11/22/content_7308787.htm)<br>
 [福建女孩自杀前遭前男友郑某裸照威胁](http://baijiahao.baidu.com/s?id=1650510315701448134&wfr=spider&for=pc)<br>
@@ -509,6 +510,7 @@
 [安徽阜阳男子醉酒后竟跑到女浴室掀开门帘张望，被阻止后还称被诬陷](https://www.sohu.com/a/228759374_391431)<br>
 [重庆男子刺死过路陌生女子](http://n.miaopai.com/media/nqBUWiv0sNtG0s-7mchnvM7ORKV2KRoX)<br>
 [甘肃庆阳19岁女孩李奕奕因被老师吴永厚猥亵得了抑郁症，庆阳市西峰区丽晶百货大楼坠楼死亡](http://baijiahao.baidu.com/s?id=1604502112283843989&wfr=spider&for=pc)<br>
+[福建龙岩武平男子钟某鸣将女子诱骗至其厦门暂住处，用其手机申请网络贷款并将其杀害](https://www.sohu.com/a/386771626_120523232)<br>
 [福建莆田市电视台女主播在家中被公公林丽照用菜刀砍了数十刀，抢救无效身亡](http://ent.sina.com.cn/v/m/2015-10-10/doc-ifxirmpy1446755.shtml)<br>
 [福建泉州石狮男子邱某杀害一彩票店女店主](http://m.sohu.com/a/283714398_349396)<br>
 [福建泉州安溪县长坑乡长南路一菜市场男摊主苏某持刀猛砍隔壁女摊主20多刀](https://baijiahao.baidu.com/s?id=1652987320024504434&wfr=spider&for=pc)<br>
@@ -554,6 +556,7 @@
 [浙江余姚中国裘皮城内，江西籍男子彭某杀了女同事](http://nb.zjol.com.cn/system/2013/07/31/019504768.shtml)<br>
 [浙江杭州保安刘某14年前杀女同事 逃亡后每年给警方写信挑衅](https://henan.qq.com/a/20131130/005706.htm)<br>
 [安徽合肥女子找工作面试遭猥亵](http://ah.anhuinews.com/system/2011/07/26/004282125.shtml)<br>
+[安徽合肥蜀山区某宾馆男员工捆绑殴打猥亵女同事](https://baijiahao.baidu.com/s?id=1663823466122663308&wfr=spider&for=pc)<br>
 [福建泉州男子张善柏持刀刺杀女同事](http://baijiahao.baidu.com/s?id=1652244698534205152&wfr=spider&for=pc)<br>
 [福建石狮江西籍男子杨某消费后没钱埋单 劫杀女同事](http://www.mnw.cn/shishi/news/1135.html)<br>
 [北京石景山区广宁麻峪柳林庄附近一男子王某奸杀女同事](http://m.sohu.com/a/123257457_161623)<br>
