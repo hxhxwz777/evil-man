@@ -42,8 +42,8 @@
 近期陆续有许多心系女性的微博博主自发宣传它，我在此表示感谢。<br>
 
 ## 最近修改
-### v1.2.2 (2020/04/13 20:00)
-新增近期新闻投稿,更新女童受侵害案件<br>
+### v1.2.2 (2020/04/14 15:40)
+新增近期新闻投稿,更新女童受侵害及部分高校案件<br>
 
 ### v1.2.0 (2020/04/10 10:33)
 新增高管性侵女儿案<br>
@@ -129,6 +129,7 @@
 [四川南充外籍男子冯桐果持刀将妻子手背砍伤](http://www.sohu.com/a/144868927_201759)<br>
 [四川南充高坪区男子李某刺伤前妻后坠亡](https://baijiahao.baidu.com/s?id=1663152456622769156&wfr=spider&for=pc)<br>
 [四川乐山男子离婚七年仍殴打前妻，前妻欲跳岷江二桥轻生](https://weibo.com/tv/v/IbL10yqQC?fid=1034:4428023311862958)<br>
+[四川广元男子罗某详家暴妻子16年，私下转移夫妻公共财产，仅被拘留7天](https://www.sohu.com/a/385368119_100023190)<br>
 [上海闵行男子齐某多次骚扰侮辱前妻，并找锁匠开前妻房门](http://n.miaopai.com/media/wDEVBd-zIvhUyLzLygHEKbp~-FdZUMDT)<br>
 [上海某外籍男子陈某砍断妻子手掌判刑四年](http://www.kankanews.com/a/2016-03-21/0037431540.shtml)<br>
 [上海丈夫俞峒将妻子徐冰推下楼后冷眼旁观 威胁路人别多管闲事](https://www.yidianzixun.com/article/0KEmKnys?s=mb&miref=newsin_app_push)<br>
@@ -445,6 +446,7 @@
 [浙江温州籍中国留学生李某在美国故意杀害女友并藏尸](http://help.3g.163.com/16/0622/16/BQ683Q5C00964LG7.html#from=relevant)<br>
 [29岁男子欲强行和女友发生关系，女友拒绝并报警，男子获刑14个月](http://baijiahao.baidu.com/s?id=1653147927491251132&wfr=spider&for=pc)<br>
 [湖南男子欲和前女友复合遭拒，在女友门口点燃三个煤气罐](https://new.qq.com/omn/20190321/20190321A0G3AI.html)<br>
+[河南信阳平桥区男子周堃隐瞒已婚事实，对未婚女性骗色索物](https://weibo.com/u/7130574901?is_all=1)<br>
 [重庆网红主播“宇芽”遭家暴 前男友被行拘20天](http://www.sohu.com/a/356966322_260616)<br>
 [贵州遵义男子纠缠前女友，砍女子头部5刀，十根手指全被砍断](http://n.miaopai.com/media/SoNZ5K4U47GlI46w1sWzHomnMPvTri8d)<br>
 [甘肃兰州陇南男子掐死提出分手女友 一审被判死缓](http://news.cri.cn/gb/42071/2015/10/12/8371s5129182.htm)<br>
@@ -476,6 +478,7 @@
 [广东广州从化两名派出所男辅警，组织失足妇女卖淫，合计约两千次](http://baijiahao.baidu.com/s?id=1652617213223186319&wfr=spider&for=pc)<br>
 [广东广州地铁三号线上，26岁男子裸露身体猥亵女乘客](http://www.sohu.com/a/352814740_430226)<br>
 [广东深圳罗湖区龙园山庄女子投诉快递员遭登门暴打:没有法律的话打死你](https://zx.sina.cn/sh/2020-01-09/zx-iihnzhha1259416.d.html?wm=3049_0018)<br>
+[广东广州南航基建职员高嘉鑫发布6年前读高中时偷拍的女同学照片，配有低俗评论](https://baijiahao.baidu.com/s?id=1663476755386348091&wfr=spider&for=pc)<br>
 [陕西西安长安医院一男子陈某带孩子就诊时殴打护士](https://baijiahao.baidu.com/s?id=1654571012611256063&wfr=spider&for=pc)<br>
 [陕西西安某男子对3名服务员实施猥亵，被行政拘留10日](https://weibo.com/tv/v/HCuNV29qJ?fid=1034:4391748403662459)<br>
 [西安市第66中学一男学生杀害老师](http://n.miaopai.com/media/nMeI28LsUycI4kIyIxvtrcdQ4Socm36R)<br>
@@ -495,6 +498,7 @@
 [北京一泌尿外科医生张某磊猥亵女患者，获刑7个月](http://news.sina.com.cn/c/2019-12-17/doc-iihnzahi8210202.shtml)<br>
 [北京一快递员杨召朋假借收取快递包裹，入户抢劫殴打女子王某，刺切要害致死亡。女子为清华大学教师之妻](http://baijiahao.baidu.com/s?id=1653428350674431582&wfr=spider&for=pc)<br>
 [北京一男子高某某持刀在三里屯将一陌生女性捅死](https://www.sohu.com/a/29430110_121315)<br>
+[北京朝阳区国贸地铁站一男子恩某涛强行搂抱进站女子](https://www.sohu.com/a/387879336_162522)<br>
 [云南昆明理工大学大二学生李心草被一男子打耳光，被发现时已溺亡](https://new.qq.com/omn/20191013/20191013A0K26Y00.html)<br>
 [湖南衡阳市衡南县三塘镇星火实验中学周姓女老师被陌生男子殴打](https://m.baidu.com/sf_baijiahao/s?id=1650592154665454766&wfr=spider&for=pc)<br>
 [湖南衡阳乡村女医生提醒村民汪某孝检查身体，汪某孝拿起椅子、砖头将女医生砸死](http://baijiahao.baidu.com/s?id=1653419100422713932&wfr=spider&for=pc)<br>
@@ -503,13 +507,11 @@
 [河南“女大学生遭性侵毁尸案”](http://www.bjnews.com.cn/news/2019/08/23/618720.html)<br>
 [河南洛阳女孩深夜约饭险遭性侵微信发出“95”求救 警方7分钟救出](https://henan.qq.com/a/20190221/004749.htm)<br>
 [河南洛阳洛龙某工程安装公司职员男子柳某役利用暖气检修的机会，登门入室猥亵女子](http://www.sohu.com/a/364179766_114988)<br>
-[河南洛阳失联20岁女孩狄含笑被男同事李某杀害](https://new.qq.com/rain/a/20191209A08OZI)<br>
 [河南叶县7旬老人杨某恩多次猥亵女子](http://baijiahao.baidu.com/s?id=1651793830375275800&wfr=spider&for=pc)<br>
 [安徽马鞍山男子深夜搭讪被拒，将女孩拖拽出监控范围殴打](http://www.sohu.com/a/332776688_100252823)<br>
 [安徽颍上18岁女孩家中遭邻居性侵后被沉尸水塘 凶手被刑拘](http://www.ahyouth.com/news/20131104/1047962.shtml)<br>
 [安徽阜阳男子醉酒后竟跑到女浴室掀开门帘张望，被阻止后还称被诬陷](https://www.sohu.com/a/228759374_391431)<br>
 [重庆男子刺死过路陌生女子](http://n.miaopai.com/media/nqBUWiv0sNtG0s-7mchnvM7ORKV2KRoX)<br>
-[甘肃庆阳19岁女孩李奕奕因被老师吴永厚猥亵得了抑郁症，庆阳市西峰区丽晶百货大楼坠楼死亡](http://baijiahao.baidu.com/s?id=1604502112283843989&wfr=spider&for=pc)<br>
 [福建龙岩武平男子钟某鸣将女子诱骗至其厦门暂住处，用其手机申请网络贷款并将其杀害](https://www.sohu.com/a/386771626_120523232)<br>
 [福建莆田市电视台女主播在家中被公公林丽照用菜刀砍了数十刀，抢救无效身亡](http://ent.sina.com.cn/v/m/2015-10-10/doc-ifxirmpy1446755.shtml)<br>
 [福建泉州石狮男子邱某杀害一彩票店女店主](http://m.sohu.com/a/283714398_349396)<br>
@@ -570,6 +572,7 @@
 [山东青岛一医院技师唐某杀死女同事](http://news.bandao.cn/news_html/201412/20141229/news_20141229_2488586.shtml?i|273718)<br>
 [江西九江一男子刘某将2名女同事杀害后火烧现场](http://jj.jxnews.com.cn/system/2013/07/31/012543016.shtml)<br>
 [香港粉岭一家再造纸工厂男子王某雄杀女同事后,放入碎纸机碎尸](http://365jia.cn/news/2012-11-02/391BF9D9EF3D626F.html)<br>
+[河南洛阳失联20岁女孩狄含笑被男同事李某杀害](https://new.qq.com/rain/a/20191209A08OZI)<br>
 
 ### 0-3岁
 [福建政和半岁女婴被性侵，嫌犯获刑五年](http://mn.sina.com.cn/news/s/2015-05-22/detail-iawzuney5987978.shtml?qq-pf-to=pcqq.c2c)<br>
@@ -585,6 +588,7 @@
 [广东梅州梅江区一名女婴被挂在某公厕门把手上，家人消失不露面](http://news.163.com/20/0104/23/F237F3B50001875P.html)<br>
 
 ### 4-6岁
+[上海青浦区某幼儿园男教师猥亵女童被捕](https://baijiahao.baidu.com/s?id=1663102648832468939&wfr=spider&for=pc)<br>
 [广东茂名多名幼童遭外派体能老师猥亵](https://weibo.com/tv/v/IgWcP70H5?fid=1034:4440364853986991)<br>
 [广东深圳龙岗区龙城街道， 4岁被拐女童一句话提醒司机及时报警](https://weibo.com/tv/v/IktqraMX6?fid=1034:4448795015184388)<br>
 [广西横县云表镇某乡村小学教师邓某性侵一年级女童4年](https://www.sohu.com/a/382783696_120054099)<br>
@@ -605,7 +609,7 @@
 [河南郑州市公安局民警王成礼强奸4岁幼女，已无链接，此处为论坛讨论](http://blog.sina.cn/dpool/blog/s/blog_a8ddf1ae01014ujl.html?vt=4)<br>
 [辽宁辽阳市公安局原副局长富龙奸淫多名处女并致怀孕](https://m.sohu.com/n/224239855/)<br>
 [辽宁辽阳市辽阳县刘二堡某银行信贷员刘某车上强奸猥亵幼女，作案29起，受害幼女中最小的只有6岁](https://m.sohu.com/n/242341605/?page=2)<br>
-
+[辽宁葫芦岛高台镇水口小学校长涉嫌性侵多名小学女生被刑拘](http://www.mnw.cn/edu/news/2174844.html)<br>
 
 ### 7-17岁
 [山西长治市城区某小学8岁女孩遭体育老师杨某性侵](http://edu.cnr.cn/list/20161021/t20161021_523210932.shtml)<br>
@@ -653,6 +657,7 @@
 [广东广州一男子街上尾行小女孩，突然将其抱走](https://baijiahao.baidu.com/s?id=1650601371835512804&wfr=spider&for=pc&isFailFlag=1)<br>
 [6旬男子常某火车上多次亲15岁女孩 女孩被吓哭](https://www.yidianzixun.com/article/0KYbmjoF?s=mb&miref=newsin_app_push&docid=0KYbmjoF&cp=cn-browser-push&itemtype=news)<br>
 [甘肃天水武山县15岁女孩在校外寄宿，被50岁房东强奸后又被年过5旬的老光棍性侵](http://gansu.gansudaily.com.cn/system/2016/07/02/016195461.shtml)<br>
+[甘肃庆阳19岁女孩因被老师吴永厚猥亵得了抑郁症，庆阳市西峰区丽晶百货大楼坠楼死亡](http://baijiahao.baidu.com/s?id=1604502112283843989&wfr=spider&for=pc)<br>
 [黑龙江省五大连池市兴安乡龙山村14岁女孩被全家性侵案](http://news.cctv.com/2018/07/27/ARTISrIwgEFSHSnBarBb0xo7180727.shtml)<br>
 [福建漳州一女中学生订外卖竟遭送餐员猥亵](http://fj.sina.com.cn/news/s/2018-11-14/detail-ihmutuea9966717.shtml)<br>
 [福建龙岩连城14岁智障少女疑遭多人性侵 生女婴不知父亲是谁](http://news.sina.com.cn/s/wh/2017-05-13/doc-ifyfeivp5661161.shtml)<br>
@@ -663,7 +668,8 @@
 [台湾台南才女作家林奕含13岁被被禽兽老师陈星(原名陈国星)诱奸，患抑郁多年,26岁选择自杀身亡](https://www.sohu.com/a/230853152_486463)<br>
 [台湾新北市一17岁女生疑遭性侵 校内产女婴](http://tv.cntv.cn/video/C10361/77441E8C61F5477cAE55CA88C97B438D)<br>
 [江苏无锡梁溪区83岁钢琴男教师徐某在家多次性侵2位9岁幼女，仅被判刑五年六个月](http://news.sina.com.cn/o/2017-12-15/doc-ifyptfcn0686504.shtml)<br>
-[江苏省扬州市宝应县林某和鲁某某轮奸9岁幼女后分开多次强奸](https://weibo.com/ttarticle/p/show?id=2309404427998303486037)<br>
+[江苏扬州市宝应县林某和鲁某某轮奸9岁幼女后分开多次强奸](https://weibo.com/ttarticle/p/show?id=2309404427998303486037)<br>
+[江苏扬州市江都区仙城中学男子徐子康将二十名女同学的姓名照片放到网站上，并配有侮辱性言论和p的裸照](https://www.douban.com/group/topic/169138431/?start=0)<br>
 [江苏响水两名11岁的小女孩被托管老师性侵10多次](http://baijiahao.baidu.com/s?id=1598603167361764583&wfr=spider&for=pc)<br>
 [江苏连云港一男子持木棍暴打一对亲生儿女](http://n.miaopai.com/media/Hzc-jriyhB9G8o5Ykg-nm-zmm3LR2F-l)<br>
 [江苏常州市某小区15岁男孩性侵7岁女童 因害怕被发现将其推下25楼](http://jiangsu.sina.com.cn/news/s/2019-05-16/detail-ihvhiews2241114.shtml)<br>
@@ -814,6 +820,7 @@
 [北京华北电力大学可再生能源学院院长戴松元，被曝性侵女教师](https://baijiahao.baidu.com/s?id=1629291004248010943&wfr=spider&for=pc)<br>
 [北京师范大学博导施雪华性侵女生](https://www.douban.com/group/topic/111985676/)<br>
 [北京师范大学长江学者刑法泰斗赵秉志因作风问题不再任院长](https://www.douban.com/group/topic/120908707/)<br>
+[北京外国语大学副校长、博导何其莘事件](http://news.sohu.com/20060602/n243525434.shtml)<br>
 [北京电影学院某班主任的父亲性侵班内女生,宋靖、吴毅为首的教授们多次潜规则女大学生，常年贪污受贿](https://baijiahao.baidu.com/s?id=1569714741570738&wfr=spider&for=pc)<br>
 原北京中央民族大学文学院与新闻传播学院刘立刚性骚扰，无链接，可参考[知乎问题](https://www.zhihu.com/question/265012333/answer/388045378)<br>
 “央美设计学院院长宋协伟被指控性骚扰、猥亵女学生”，此为微博用户@正版额外 2018年8月7日协助受害女生发微博，该事件其余报道均已被删除
@@ -845,6 +852,7 @@
 上海戏剧学院教务处处长厉震林性骚扰，已无链接<br>
 [江苏南京师范大学教授刘军性骚扰女性，并发来对话截图，截图中的文字内容不堪入目](http://www.sohu.com/a/116014719_119038)<br>
 [江苏扬州大学华继钊老师骚扰女学生](http://think.szonline.net/hsbd/20190401/20190447614.html)<br>
+江苏师大法学院讲师孙首灿在荷兰药奸女学生，用裸照威胁不能报警，未立案，已无链接<br>
 [山东临沂大学文学院教师郑明璋长期骚扰女学生](http://www.sohu.com/a/238587159_111292)<br>
 [山东中医药大学研究生导师梁栋被爆性侵](https://baijiahao.baidu.com/s?id=1608574411048159526&wfr=spider&for=pc)<br>
 [山东建筑大学副教授赵全斌出轨该校女毕业生并诱导该女生与其发生关系](http://think.szonline.net/rjgc/20190116/20190137935.html)<br>
@@ -861,6 +869,8 @@
 [湖南中南大学教师陈明性骚扰多名女生 ](http://www.sohu.com/a/221516491_713446)<br>
 [湖南大学经贸学院熊伟副教授性骚扰女生](http://www.sohu.com/a/250046169_390667)<br>
 [辽宁吉林农业科技学院王东来老师灌酒摸胸性骚扰女生](http://www.sohu.com/a/270228793_420849)<br>
+[辽宁吉林大学汽车学院副教授刘宇黑恶势力逼人堕胎](https://weibo.com/u/7313967147?profile_ftype=1&is_all=1#_0)<br>
+新疆喀什大学文学院援疆博士王明科，性骚扰人文学院女生，现依旧就职文学院，无链接。<br>
 [美国伊利诺伊大学厄巴纳-香槟分校华人教授徐钢性侵女学生](http://baijiahao.baidu.com/s?id=1645117586725420990&wfr=spider&for=pc)<br>
 
 ### 与学历无关
@@ -868,20 +878,22 @@
 [沈阳航空航天大学一男子不停的骚扰前女友并将其逼至跳楼自杀](https://www.douban.com/group/topic/162029174/?dt_dapp=1&dt_platform=weibo)<br>
 [不寒而栗的爱情：北大女生遭男友精神折磨后自杀](https://www.thepaper.cn/newsDetail_forward_5226837)<br>
 [我是包丽的朋友，真相远比你知道的更可怕](https://chinadigitaltimes.net/chinese/2019/12/%E5%87%B1%E6%97%8B%E5%8D%81%E4%BA%8C-%E6%88%91%E6%98%AF%E5%8C%85%E4%B8%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C%E7%9C%9F%E7%9B%B8%E8%BF%9C%E6%AF%94%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9B%B4/)该链接需要科学上网<br>
+[北大吴谢宇弑母案](http://news.chinaxiaokang.com/shehuipindao/fazhi/20191204/854303.html)<br>
+[前海富产业投资基金，北大金融男朱政:PUA骗炮 骗女方流产玩失踪](https://money.163.com/20/0308/17/F77AR8U100258105.html)<br>
 [北工大外国语学院男生吴江掐死女友续：凶手被判死缓](http://news.cri.cn/gb/11344/2006/12/13/664@1347839.htm)<br>
 [厦大海洋与海岸带发展研究院在读硕士彭炜敏婚内出轨，并假冒母亲身份欺骗女生](https://mp.weixin.qq.com/s/ovkcBTy56v6IbDj6rgIvYg)<br>
 [大连一研究生出轨后，将妻儿掐死，被判无期](http://news.sina.com.cn/s/2018-10-02/doc-ihkvrhps0680457.shtml)<br>
-[北大吴谢宇弑母案](http://news.chinaxiaokang.com/shehuipindao/fazhi/20191204/854303.html)<br>
 [清华法律硕士男子商场偷拍，行政拘留7日](http://m.sohu.com/a/318182186_355832)<br>
+[清华水利系毕业生谷某性骚扰]( https://zhuanlan.zhihu.com/p/91186436)<br>
 [宁夏博物馆研究员杀妻分尸](https://baijiahao.baidu.com/s?id=1622347467847141868&wfr=spider&for=pc)<br>
+[武汉大学经管学院王敏学被爆约炮40余人](https://www.guancha.cn/society/2016_06_26_365427_2.shtml)<br>
 [山西太原某校校长出轨，杀害怀胎4月的妻子并烧车焚尸](https://new.qq.com/omn/20181216/20181216A0JAZR.html?pc)<br>
 [贵州贵阳中加新世界国际学校（民办）教师刘某某因奸污幼女被判7年，出狱后再任教师再犯案](https://baijiahao.baidu.com/s?id=1637380022588238564&wfr=spider&for=pc)<br>
-[辽宁葫芦岛高台镇水口小学校长涉嫌性侵多名小学女生被刑拘](http://www.mnw.cn/edu/news/2174844.html)<br>
 [安徽省六安市轻工中学（民办）从教人员袁某涉嫌猥亵儿童罪被依法刑事拘留](http://bbs.luanren.com/thread-6213171-1-2.html?_dsign=ad143140)<br>
 [广东东莞理工大学命案一名女学生在女厕遇害，凶手为大四学生](http://gaokao.gaofen.com/article/148878.htm)<br>
 [河南省副省长、留美博士吕德彬雇佣杀手杀妻陈俊红](https://baijiahao.baidu.com/s?id=1635401928319573961&wfr=spider&for=pc)<br>
-[清华水利系毕业生谷某性骚扰]( https://zhuanlan.zhihu.com/p/91186436)<br>
 [江苏南京某知名高校医学院研究生柳某持刀对着女友的脸、脖子乱捅致其当场死亡](http://www.sohu.com/a/363269137_100010826)<br>
+[上海师范大学信息与机电工程学院2014级汽车服务工程专业本科1班学生胡晨龙，在学校东门公交站偷拍女性，已被开除学籍](https://tieba.baidu.com/p/5672333776?red_tag=3333559299&traceid=)<br>
 
 ### 性骚扰
 [广西男子公交性骚扰被发现，掏刀恐吓被行拘15日](http://n.miaopai.com/media/LxKJlAiiw6k19G7RwVsuOiTnJ~XVCT-f)<br>
@@ -981,6 +993,8 @@
 [复旦大学附属妇产科医院为女医护准备黄体酮推迟月经。院方:自愿使用](https://www.sohu.com/a/375268878_693031)<br>
 [女医护人员剃光头“是否自愿”遭质疑，网友：唯一男医生是平头](https://www.sohu.com/a/373981142_120185926)<br>
 [武汉商学院临时防疫男性安保员入住女寝，乱翻乱拍](https://baijiahao.baidu.com/s?id=1658410565241667493&wfr=spider&for=pc)<br>
+[疫情期间，某市女法官在法院办公室遭到保安性侵未遂](https://xw.qq.com/cmsid/20200323A0UEOM00)<br>
+[疫情期间的“性别抢功”](https://m.weibo.cn/1306934677/4465065355287048)<br>
 
 ### 护屌新闻大赏
 **女性是我的资源，我有所有权** <br> 
