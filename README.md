@@ -846,6 +846,7 @@
 [四川美术学院副教授王小箭餐厅强抱吻女生被处分](http://hn.ifeng.com/jiaoyu/jiaoyuyaowen/detail_2014_10/13/3006084_0.shtml)<br>
 [四川师范熊清泉性骚扰学生](https://www.sohu.com/a/313212834_99975948)<br>
 [四川成都理工大学致公党副主委刘建同志性骚扰女生](https://www.douban.com/group/topic/109693494/)<br>
+[四川成都，电子科技大学通信学院张翼德老师对多名女学生性骚扰](http://tieba.baidu.com/p/5204813523)<br>
 [上海财经大学副教授钱逢胜被曝性侵女学生](https://baijiahao.baidu.com/s?id=1652250388367919503&wfr=spider&for=pc)<br>
 [上海交大副院长谢耘耕因涉性骚扰被撤职](https://www.douban.com/group/topic/116318384/)<br>
 [上海海事大学解聘外语学院副院长蒋林性侵女生](http://www.sohu.com/a/74420046_260616)<br>
@@ -857,7 +858,6 @@
 [山东中医药大学研究生导师梁栋被爆性侵](https://baijiahao.baidu.com/s?id=1608574411048159526&wfr=spider&for=pc)<br>
 [山东建筑大学副教授赵全斌出轨该校女毕业生并诱导该女生与其发生关系](http://think.szonline.net/rjgc/20190116/20190137935.html)<br>
 [陕西西安思源学院副教授黄某性侵](http://www.sohu.com/a/226439434_105096)<br>
-[陕西西安电子科技大学通信学院张翼德老师对多名女学生性骚扰](http://tieba.baidu.com/p/5204813523)<br>
 [陕西西北大学新闻传播学院讲师张晓性骚扰女生](https://www.sohu.com/a/244054118_100233994)<br>
 甘肃兰州大学大气科学学院副院长张文煜被曝性侵，链接已被删除，可参考[知乎问题](https://www.zhihu.com/question/281138634)<br>
 云南云南大学文学院副教授蔡英杰性骚扰留学生被公开处分，现任福建师范大学教授。已无链接[知乎问题](https://www.zhihu.com/question/51505574)<br>
