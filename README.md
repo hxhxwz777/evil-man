@@ -353,30 +353,29 @@
 李某某犯故意伤害罪，**有期徒刑九年**<br>
 [判决日期20150422](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=af45ff2e07d24ccf86fb829570ce1684)<br>
 
-福建省泉州市鲤城区男子蒋灿煌持水果刀朝妻子胸部猛刺一刀，致大血管破裂大量失血致循环功能衰竭而死亡<br>
-蒋灿煌犯故意伤害罪，**有期徒刑五年**<br>
-[判决日期20160523](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=edd0b986bfe04ec699ddec334143d380)<br>
+辽宁省开原市男子于占江持尖刀照猛刺妻子胸部数刀，致其当场死亡<br>
+于占江犯故意杀人罪，**有期徒刑十年**<br>
+[判决日期20191209](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=9e56c0c102434c169744ab23002595a5)<br>
+
+深圳市龙华区某村某房中，男子汪伟双手掐其妻脖子致其窒息死亡<br>
+汪伟犯故意杀人罪，**有期徒刑十年**<br>
+[判决日期20190927](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=f3b0a2380a9040bf8986aafd010b5f6f)<br>
 
 宁夏回族自治区西吉县男子张朋德朝妻子左腿大腿处戳了一刀，致左侧股动脉断裂,大出血死亡<br>
 张朋德犯故意伤害罪，**有期徒刑十三年**<br>
 [判决日期20191018](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=52413f9cf2134bdc9d92ab0b009f4e2b)<br>
 
-甘肃省定西市常某持木棒持续殴打妻子腿、胳膊、背部、腰部，致大面积软组织损伤致创伤性休克死亡。常某犯故意伤害罪，**有期徒刑十五年**<br>
+甘肃省定西市常某持木棒持续殴打妻子腿、胳膊、背部、腰部，致大面积软组织损伤致创伤性休克死亡。<br>
+常某犯故意伤害罪，**有期徒刑十五年**<br>
 [判决日期20191011](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=2c282bbbe7c542ceadc1ab0b0180a017) <br>
 
-### 关键词 `重伤一级` `婚姻`
+### 关键词 `重伤一级` `婚恋`
+河北省石家庄市桥西区男子李西川用尖刀扎伤同居女友，至右颈总动脉破裂，体表多处创口，右下唇贯通创、右侧气胸，经鉴定，伤情属*重伤一级*。<br>
+李西川犯故意杀人罪，判处**有期徒刑五年**<br>
+[判决日期20170425](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=5b7789f691d449a1a6a1a7ac0011b6f3)<br>
 
-湖北省武汉市硚口区甘某甲用刀刺伤妻子颈部，致颈部损伤，右颈总动脉破残裂，右颈总动脉血栓形成，开放性腹壁损伤，其损伤程度为*重伤一级*。男子经鉴定，被诊断为无精神病症状的抑郁症，系限制刑事责任能力人。甘某甲犯故意伤害罪，判处**有期徒刑三年**<br>
-[判决日期20150326](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=4f7610c0f07a4d0a8c6fba1a5f1c9b6f)<br>
-
-天津市西青区李海东持刀将被害人妻子多处捅伤至下肢截瘫，鉴定为*重伤一级*；左肺下叶破裂，手术修补，鉴定为重伤二级；左侧血气胸鉴定为轻伤二级。李海东故意伤害罪，判处**有期徒刑五年**<br>
-[判决日期20160527](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=1846bc1db4ca40958ec04cdca5707a5d) <br>
-
-湖北省沙洋县罗某将妻子头部及手部连砍数刀，妻子失血性休克为重伤二级；右手损伤功能丧失为重伤二级；头皮刀砍伤损伤程度为*重伤一级*；颅骨粉碎性骨折损伤程度为轻伤一级；右手刀砍伤损伤程度为轻伤二级；腕骨及掌骨骨折损伤程度为轻伤二级<br>
-罗某犯故意伤害罪，判处**有期徒刑三年，缓刑五年**<br>
-[判决日期20141210](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=0858f7f6fc814f6eacfd967025bd2bd1) <br>
-
-河南省遂平县李某某用手暴力将妻眼睛扣伤，被迫手术摘除双眼球，被鉴定为*重伤一级，二级伤残*，李某某犯故意伤害罪，判处**有期徒刑六年零六个月**<br>
+河南省遂平县李某某用手暴力将妻眼睛扣伤，妻子被迫手术摘除双眼球，被鉴定为*重伤一级，二级伤残*。<br>
+李某某犯故意伤害罪，判处**有期徒刑六年零六个月**<br>
 [判决日期20170627](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=ba0f03b88c3f4904b371a82b011a087f)<br>
 
 ### 关键词 `违背妇女意志`
@@ -389,6 +388,11 @@
 [判决日期20191128](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=16e9b469881b40168ee1ab1b00eb495f)<br>
 广东省珠海市香洲区谢斌违背妇女意志，以暴力、胁迫手段强行与**未成年妇女**发生性关系，其行为构成强奸罪，判处**有期徒刑六年**<br>
 [判决日期20160531](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=85ae5bbf3a864280b1b714607aaa4b94)<br>
+
+### 关键词 `主观故意` `女童保护`
+河南省鲁山县男子王晓阳为逼迫妻子回家，给三岁女儿灌下农药。<br>
+王晓阳犯故意杀人罪，判处**有期徒刑三年，缓刑四年**<br>
+[判决日期20200122](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=9b015419b435439d991dab8300b64687)<br>
 
 ### 甜甜的恋爱轮到你了
 [安徽合肥女钢琴师被相亲对象杀害](http://www.sohu.com/a/304549647_120067027)<br>
