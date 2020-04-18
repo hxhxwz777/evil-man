@@ -400,6 +400,7 @@
 [安徽一女子被情人碎尸藏冰箱 嫌疑人在内蒙古从事牛羊分割工作](https://tv.sohu.com/v/dXMvMjcyOTk5MTA3LzE2MjU2MTgxNy5zaHRtbA==.html)<br>
 [安徽涡阳男子小张抢走相亲对象车钥匙，酒驾强行送其回家，出车祸导致女方截肢，男方：嫁我就垫付医药费](https://weibo.com/tv/v/InjxpA2vI?fid=1034:4455566173732872)<br>
 [安徽淮北相山情侣相约殉情，男子掐死女友后投案自首](http://www.0561life.com/news-id-15059.html)<br>
+[安徽省芜湖市滨江世茂商业街广场男子王某烧死前女友](http://www.mnw.cn/news/shehui/2001023.html)<br>
 [黑龙江大庆男子当街施暴，朝前女友头部狠踢三脚](http://n.miaopai.com/media/TXh4jk1CzKVmvEmerAZi56xipvCs9F7N)<br>
 [黑龙江齐齐哈尔铁峰71岁男子掐死女友后抛尸](http://news.e23.cn/shehui/2016-12-30/2016C3000576.html)<br>
 [黑龙江哈尔滨安徽籍男子张某殉情不成掐死女友报案谎称女友服毒](https://heilongjiang.dbw.cn/system/2004/11/04/017690553.shtml)<br>
@@ -539,6 +540,7 @@
 [四川乐山人杨勇因婚姻家庭矛盾欲谋杀妻姐未果，驾车行至一公交站台时，加速冲撞候车群众，致7死3伤](https://baijiahao.baidu.com/s?id=1654432760244223907&wfr=spider&for=pc)<br>
 [江西南昌女子深夜遭陌生男子强吻](https://baijiahao.baidu.com/s?id=1606852535754078216&wfr=spider&for=pc)<br>
 [江西南昌红谷滩伤人案，男子万某弟砍死无辜路人女子](https://baike.baidu.com/item/5%C2%B724%E5%8D%97%E6%98%8C%E7%BA%A2%E8%B0%B7%E6%BB%A9%E4%BC%A4%E4%BA%BA%E6%A1%88/23520161)<br>
+[广西柳州市融安县4名男子持刀胁迫2名女子卖淫并带往酒店实施性侵](https://news.sina.com.cn/s/2020-04-16/doc-iircuyvh8120524.shtml)<br>
 [广西一男子熊志城欠赌债来杭州自尽想找人陪死，强制猥亵并刺死浙大海归23岁女孩](http://www.sohu.com/a/329529776_398039)<br>
 [广西桂林电子科技大学一男生在校园对两女生持刀行凶24刀](https://mp.weixin.qq.com/s?__biz=MjM5NjAxNTIyMA==&mid=2657442714&idx=1&sn=fb01fa90dda3a4af0b87a722c95f24ad)<br>
 [广西柳州一女孩登山被抢劫杀害遗体遭性侵 凶手被抓时正在嫖娼](http://hb.sina.com.cn/news/2017-06-22/detail-ifyhmtek7641210.shtml)<br>
@@ -638,6 +640,7 @@
 [湖南女孩思思被同村74岁老人性侵并产子](https://www.sohu.com/a/285428423_120078003)<br>
 [湖南祁东留守女孩被控制、威胁、性侵](https://new.qq.com/rain/a/20191125A0MWUF)<br>
 [湖南省安化县13岁女孩被性侵](http://baijiahao.baidu.com/s?id=1601166818222090544&wfr=spider&for=pc)<br>
+[湖南岳阳市君山区男子李某强奸猥亵邻居未满14岁女童](http://www.chinanews.com/sh/2020/04-16/9158681.shtml)<br>
 [湖南某校班主任猥亵4名小学女生1年，被调离原单位到其他小学任工友](http://n.miaopai.com/media/qqEiZko6k~BEjpP0vIvf0oYW9SBiNhI3)<br>
 [湖南某卫生院副院长涉嫌多次对13岁女生实施强奸](http://www.sohu.com/a/327928351_260616)<br>
 [湖南16岁少女被50岁单身男囚禁地洞性侵24天](http://m.haiwainet.cn/middle/3541353/2016/0908/content_30305627_1.html)<br>
@@ -646,6 +649,7 @@
 [广西10岁女孩卖百香果回家途中遇害，疑遭嫌犯性侵后藏尸草丛](https://www.yidianzixun.com/article/0KEfR3Xz?s=mb&miref=newsin_app_push)<br>
 [广西一男子多次性侵12岁少女](https://www.sohu.com/a/329950492_120065581)<br>
 [广西桂林市全州县东山乡派出所所长吕某强迫13岁女性发生性关系](http://epaper.taihainet.com/html/20130324/hxdb436095.html)<br>
+[陕西安康男子徐某长期猥亵13岁侄女](https://news.sina.com.cn/s/2020-04-16/doc-iirczymi6720737.shtml)<br>
 [陕西凤翔县柳林镇人大主席李向阳因强奸14岁未成年被逮捕](http://n.miaopai.com/media/64dm0DxGcm5TU93g6YTqrGWM~xQ2l7kL)<br>
 [陕西榆林神木15岁的少女被6名未成年人逼迫卖淫、殴打至死肢解掩埋，赔偿3.5万，主犯仅判无期](https://baijiahao.baidu.com/s?id=1652272796413027088&wfr=spider&for=pc)<br>
 [四川绵阳73路公交上男子猥亵5年级女孩，他却反驳：我俩是好朋友](http://inews.ifeng.com/yidian/60155628/news.shtml?ch=ref_zbs_ydzx_news&yidian_docid=0KWmUcLT&yidian_s=mb&yidian_appid=&miref=newsin_app_push&yidian_cp=cn-yidian-news-v2&yidian_itemtype=news)<br>
@@ -680,6 +684,7 @@
 [江苏常州市某小区15岁男孩性侵7岁女童 因害怕被发现将其推下25楼](http://jiangsu.sina.com.cn/news/s/2019-05-16/detail-ihvhiews2241114.shtml)<br>
 [江苏女子足球队教练陈广红对多名队员进行强制猥亵](http://jiangsu.sina.com.cn/news/2019-12-26/detail-iihnzhfz8358643.shtml)<br>
 [安徽蚌埠9岁女童被53岁老头性侵猥亵](http://365jia.cn/news/2016-04-02/9A7CB995ED9782D2_all.html)<br>
+[安徽宣城郎溪县10岁女童被奸杀](http://legal.people.com.cn/n1/2020/0418/c42510-31678911.html)<br>
 [安徽合肥14岁女生被20岁网恋男友徐某捅20余刀死亡](https://zx.sina.cn/2019-11-25/zx-iihnzhfz1461399.d.html?wm=3049_0018)<br>
 [安徽18岁女孩自曝5岁遭表哥王迅性侵，抑郁四年五次自杀](https://www.yidianzixun.com/article/0KT5QAh2?s=mb&miref=newsin_app_push&docid=0KT5QAh2&cp=cn-browser-push&itemtype=news)<br>
 [安徽省宿州市女子自爆被表哥马某性侵猥亵长达六年时间](https://www.guancha.cn/society/2018_11_12_479300.shtml)<br>
@@ -844,6 +849,7 @@
 [中山大学人类学系教授张鹏性侵](https://baijiahao.baidu.com/s?id=1605865685944551050&wfr=spider&for=pc)<br>
 [浙江宁波大学副教授性骚扰女生](http://news.sina.com.cn/o/2019-12-12/doc-iihnzahi7088469.shtml)<br>
 [安徽合肥巢湖学院学生处处长赵尚松，用毕业证威胁女学生](http://www.jjrmyy.com/dangjiangongzuo/270478.html)<br>
+[安徽工程大学教师郭某牛持锐器刺戳女学生，至其全身多处致左颈总静脉破裂，肺、肝、肾等多脏器破裂引起大出血死亡](https://m.sohu.com/a/389017950_116237/?pvid=000115_3w_a&dt_dapp=1)<br>
 [广西财经学院教师容治教室索抱女学生](https://www.tianyancha.com/lawsuit/e34069971cbb11e6b554008cfae40dc0)<br>
 [河南大学文学院教授肖开愚性侵、性骚扰学生](https://www.sohu.com/a/230490354_100117601)<br>
 [福建华侨大学副教授瞿辉性侵女大学生：骗妻子说女生是小三](https://baijiahao.baidu.com/s?id=1614098400690832940&wfr=spider&for=pc)<br>
