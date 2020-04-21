@@ -42,8 +42,8 @@
 近期陆续有许多心系女性的微博博主自发宣传它，我在此表示感谢。<br>
 
 ## 最近修改
-### v1.2.3 (2020/04/18 21:40)
-新增约200条新闻投稿<br>
+### v1.2.3 (2020/04/21 18:40)
+新增约200条新闻投稿，新增女童亲属犯案<br>
 
 ### v1.2.3 (2020/04/18 21:40)
 新增近期新闻投稿<br>
@@ -82,6 +82,7 @@
 [江苏苏州一男子张明将前妻残忍杀害](http://m.sohu.com/a/249679557_351256)<br>
 [江苏苏州太仓一男子离婚后担心前妻再找对象 在前妻屋里装上针孔摄像头](http://www.subaonet.com/2019/1214/2606622.shtml)<br>
 [河北保定一男子刘某拿菜刀猛砍熟睡的妻儿，砍掉妻子6颗牙齿](http://www.sohu.com/a/285275718_361554)<br>
+[河北保定安国市一男子刘某某杀妻后自杀](https://baijiahao.baidu.com/s?id=1664546617767704331&wfr=spider&for=pc)<br>
 [河北唐山市丰南区男子杀妻](http://m.sohu.com/a/207197993_684478)<br>
 [河北怀来县辽宁男子代陶在水库杀妻骗保](https://www.sohu.com/a/119234677_420076)<br>
 [河北廊坊霸州市一基层政府工作人员杀妻与3岁儿子后跳楼身亡](http://m.sohu.com/a/123025036_123753/)<br>
@@ -334,6 +335,7 @@
 [云南省盐津县盐井镇村民王昌义杀岳父全家](http://news.cctv.com/law/20060802/102342.shtml)<br>
 [四川大竹县男子甘某某在妻子家中床下藏炸药凌晨引爆](https://baijiahao.baidu.com/s?id=1643723717482254860&wfr=spider&for=pc)<br>
 [四川成都成华区男子何某杀妻砍女](http://mini.eastday.com/a/180710143536497.html)<br>
+[四川自贡市沿滩区仙市镇男子彭某某纵火并持刀砍伤5亲属](https://m.sohu.com/a/389053937_116237)<br>
 [海南儋州男子陈某拿着把菜刀冲进丈母娘家,砍伤岳父母和9岁侄子](http://www.sohu.com/a/245522422_213922)<br>
 [海南男子曾令儒持刀杀害女友母亲和姐姐](http://www.hicourt.gov.cn/preview/article?articleId=03111754-9fab-4e43-aa91-4f0f0439c60a)<br>
 [河南商洛市一男子持刀捅向妻子家人致一死两伤](http://www.86zhaokao.cn/html/xinwenzaixian/2019/0110/35696.html)<br>
@@ -629,6 +631,7 @@
 
 ### 0-3岁
 [福建政和半岁女婴被性侵，嫌犯获刑五年](http://mn.sina.com.cn/news/s/2015-05-22/detail-iawzuney5987978.shtml?qq-pf-to=pcqq.c2c)<br>
+[在福建莆田打工的男子卢某卖掉3岁亲生女儿 用于打赏主播](https://baijiahao.baidu.com/s?id=1664402941633780676&wfr=spider&for=pc)<br>
 [台湾桃园县一变态男虐死10月大女婴 并多次性侵5岁干女儿](http://news.ifeng.com/c/7fZCCKdN64P)<br>
 [广州白云区男子性侵1岁女婴致其阴部破裂](http://news.cctv.com/society/20081030/100709.shtml)<br>
 [浙江宁波1岁半大女婴被五旬男子性侵](http://m.sohu.com/a/136385366_612707/)<br>
@@ -706,10 +709,12 @@
 [广西10岁女孩卖百香果回家途中遇害，疑遭嫌犯性侵后藏尸草丛](https://www.yidianzixun.com/article/0KEfR3Xz?s=mb&miref=newsin_app_push)<br>
 [广西一男子多次性侵12岁少女](https://www.sohu.com/a/329950492_120065581)<br>
 [广西桂林市全州县东山乡派出所所长吕某强迫13岁女性发生性关系](http://epaper.taihainet.com/html/20130324/hxdb436095.html)<br>
+[广西柳州一副校长被指猥亵女生](https://baijiahao.baidu.com/s?id=1664194229581703979&wfr=spider&for=pc)<br>
 [陕西安康男子徐某长期猥亵13岁侄女](https://news.sina.com.cn/s/2020-04-16/doc-iirczymi6720737.shtml)<br>
 [陕西凤翔县柳林镇人大主席李向阳因强奸14岁未成年被逮捕](http://n.miaopai.com/media/64dm0DxGcm5TU93g6YTqrGWM~xQ2l7kL)<br>
 [陕西榆林神木15岁的少女被6名未成年人逼迫卖淫、殴打至死肢解掩埋，赔偿3.5万，主犯仅判无期](https://baijiahao.baidu.com/s?id=1652272796413027088&wfr=spider&for=pc)<br>
 [四川绵阳73路公交上男子猥亵5年级女孩，他却反驳：我俩是好朋友](http://inews.ifeng.com/yidian/60155628/news.shtml?ch=ref_zbs_ydzx_news&yidian_docid=0KWmUcLT&yidian_s=mb&yidian_appid=&miref=newsin_app_push&yidian_cp=cn-yidian-news-v2&yidian_itemtype=news)<br>
+四川广汉中学党支部书记2017级6班班主任陈家秋性骚扰女学生。原爆料博主及家人受到巨大压力,被迫删博
 [四川63岁男子强奸14岁残疾少女](https://www.guancha.cn/politics/2019_10_28_523008.shtml)<br>
 [四川省成都市新都区13岁女孩遭多次性侵](https://edu.qq.com/a/20160920/009380.htm?pgv_ref=aio2015&ptlang=2052)<br>
 [重庆未成年少女隐私照竟被当成广告展示，影楼：不会赔偿，想告就告](http://baijiahao.baidu.com/s?id=1653070132074335866&wfr=spider&for=pc)<br>
@@ -767,7 +772,7 @@
 [宁夏12名幼女被幼儿园老师性侵 11人是留守儿童](http://epaper.bjnews.com.cn/html/2015-07/13/content_587142.htm?div=0)<br>
 [宁夏教师性侵12名女童 多名家长上访2名家长被拘留8天](http://auto.ifeng.com/hudong/20140914/1023245.shtml)<br>
 [云南宣威小学教师涉性侵8名女生被拘，全校仅13名女生](http://m.thepaper.cn/newsDetail_forward_1255750)<br>
-[云南彝良县一小学教师涉嫌课堂上猥亵7名幼女 与其几乎都是亲戚](http://3g.365jia.cn/news/2015-12-20/8EAA7F9066DF2EA4.html
+[云南彝良县一小学教师涉嫌课堂上猥亵7名幼女 与其几乎都是亲戚](http://3g.365jia.cn/news/2015-12-20/8EAA7F9066DF2EA4.html)<br>
 [云南嵩明县一小学教师课堂猥亵多名女生：老婆系校长](https://learning.sohu.com/20140225/n395615427.shtml)<br>
 
 ```
@@ -826,6 +831,7 @@
 [重庆市公安局沙坪坝区男子饮酒后开车，主动自首称：做生意失败，用酒驾受处罚试探妻子感情](https://society.huanqiu.com/article/9CaKrnKoF6F)<br>
 [重庆一男子多次偷窥夫妻私生活被抓：女主人太美](https://xw.qq.com/cmsid/2016032503831300?f=dfz)<br>
 [四川遂宁男子李某和妻子吵架徒手拆电梯](https://tv.sohu.com/v/dXMvMzI5NDg1MjkxLzEzNDQzMDU0Mi5zaHRtbA==.html)<br>
+[四川阿坝一男子因妻子离家出走暴打孩子:地上强行拖行数米](https://3g.163.com/news/article/FAELR9CC0001899O.html)<br>
 [辽宁葫芦岛市建昌县第二小学门前一男子韩某华因夫妻矛盾，驾车冲撞过路人5名未成年人死亡、19人受伤](http://www.sohu.com/a/277497974_99956656)<br>
 [辽宁大连甘井子区男子王某因和女友吵架，为泄愤强制猥亵并暴打女路人](https://baijiahao.baidu.com/s?id=1637383115584532609&wfr=spider&for=pc)<br>
 [辽宁沈阳一名男子王某凌晨抢劫，被抓获后辩称抢钱是为了给前女友](http://n.miaopai.com/media/DW286kej1jhTZHVajJG9MnvPVeaeQYyV)<br>
@@ -868,9 +874,9 @@
 [北京22岁女孩小桑凌晨搭乘出租车，被司机电棍威胁并双手反铐后奸杀，并将尸体肢解掩埋](http://news.ifeng.com/society/1/detail_2013_12/26/32498516_0.shtml)<br>
 [北京海淀滴滴快车司机何基石性侵案](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=4b21006da1d34f3589cbab74000c409b)<br>
 [重庆永川司机周航用风筝线和红布将一位30岁女乘客勒死](http://www.sohu.com/a/250605323_114760)<br>
-[重庆一网约车驾驶员强奸醉酒女乘客获刑(http://news.ifeng.com/a/20160714/49355939_0.shtml)<br>
+[重庆一网约车驾驶员强奸醉酒女乘客获刑](http://news.ifeng.com/a/20160714/49355939_0.shtml)<br>
 [沈阳女乘客遭顺风车司机侮辱骚扰，对方放话：把你衣服都扒光](https://tech.qq.com/a/20180923/006695.htm)<br>
-[沈阳长春出租车内的哥伸“咸猪手” 猥亵女乘客称开玩笑(http://news.ifeng.com/society/1/200904/0423_343_1121236.shtml)<br>
+[沈阳长春出租车内的哥猥亵女乘客,称开玩笑](http://news.ifeng.com/society/1/200904/0423_343_1121236.shtml)<br>
 [吉林四平双辽出租车司机于某暴力强奸女乘客](http://www.jl.chinanews.com/shms/2016-06-15/2066.html)<br>
 [黑龙江哈尔滨一女乘客遭强奸打车追嫌犯](http://3g.365jia.cn/news/2012-08-17/1946CC9FB243F3B0.html)<br>
 [黑龙江七台河出租车司机用低价车费诱18岁少女上车将其强暴](http://3g.365jia.cn/news/2012-03-07/B93BCD2C14DB3B14.html)<br>
@@ -886,7 +892,7 @@
 [江苏镇江出租车司机肖某猥亵乘客](https://m.baidu.com/sf_baijiahao/s?id=1615646451913351174&wfr=spider&for=pc&sa=vs_ob_realtime)<br>
 [江苏常州一女大学生乘黑车险被司机强奸 记下车牌成功脱险](https://js.qq.com/a/20161112/006971.htm)<br>
 [江苏苏州女子坐网约车遭抢劫，给家人发定位求救](http://n.miaopai.com/media/Omghlh3UOi0HCbPmtY8xWJWniQvOLahr)<br>
-[江苏苏州一滴滴司机抢劫猥亵女乘客 自称杀过人坐过牢(https://news.sina.cn/2018-08-09/detail-ihhkusku2544534.d.html)<br>
+[江苏苏州一滴滴司机抢劫猥亵女乘客 自称杀过人坐过牢](https://news.sina.cn/2018-08-09/detail-ihhkusku2544534.d.html)<br>
 [江苏苏州滴滴司机王悦强奸案](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=feab9defdda94df99e1eaa1f00b805af)<br>
 [江苏盐城滴滴司机钱凤华性侵案](http://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=b2185af54d774aa8b744a7de00a16aa1)<br>
 [天津一女孩使用拼车软件遭司机猥亵](http://tj.sina.cn/news/2015-08-12/detail-ifxftkpv7066807.d.html?from=wap)<br>
@@ -895,9 +901,9 @@
 [大连女子深夜搭“顺风车”，遭两男子强奸抢劫！](https://m.sohu.com/a/32704235_129155)<br>
 [大连一未满14岁少女误把私家车当出租车 遭车主猥亵](https://m.sohu.com/a/231525054_450302)<br>
 [大连45岁的哥猥亵16岁高二女孩 被拘10日罚200元](https://m.sohu.com/a/145013261_450302)<br>
-[云南一滴滴司机中途停车猥亵19岁女大学生，被批捕(https://m.baidu.com/sf_baijiahao/s?id=1600757223181377430&wfr=spider&for=pc&sa=vs_ob_realtime)<br>
+[云南一滴滴司机中途停车猥亵19岁女大学生，被批捕](https://m.baidu.com/sf_baijiahao/s?id=1600757223181377430&wfr=spider&for=pc&sa=vs_ob_realtime)<br>
 [云南祥鹏航空公司21岁空姐深夜遭滴滴司机杀害](https://www.sohu.com/a/231232259_426551)<br>
-[贵州惠水一滴滴司机猥亵女乘客(https://m.baidu.com/sf_baijiahao/s?id=1650885842483391301&wfr=spider&for=pc&sa=vs_ob_realtime)<br>
+[贵州惠水一滴滴司机猥亵女乘客](https://m.baidu.com/sf_baijiahao/s?id=1650885842483391301&wfr=spider&for=pc&sa=vs_ob_realtime)<br>
 [贵州贵阳出租车男司机为拼客把7岁女孩抛路边](http://n.miaopai.com/media/TSooI2BhnVEAOeX9fucphNS7MT-ejwKd)<br>
 [湖南长沙星沙金海岸滴滴司机锁住车门骚扰女乘客：500块钱摸一摸](http://baijiahao.baidu.com/s?id=1601059699831288258&wfr=spider&for=pc)<br>
 [四川乐山出租车司机猥亵女乘客，被行拘10日](https://k.sina.cn/article_1887344341_707e96d5020009f17.html)<br>
@@ -913,9 +919,9 @@
 [广州某高校女教师刘某回铜陵老家过年，被出租车司机张飞抢劫杀害](http://ah.anhuinews.com/system/2011/02/10/003740303.shtml)<br>
 [广州某出租车公司司机谷某涛将深夜打车的法院女书记员猥亵杀害](http://news.ifeng.com/c/7slqLJGXIjX)<br>
 [广州的士司机猥亵18岁少女被刑拘](https://www.dahebao.cn/news/1410505?cid=1410505)<br>
-[安徽涡阳一出租车司机连续抢劫强奸两女孩(http://3g.365jia.cn/news/2014-06-09/F1DF98C0254B0AD0.html)<br>
+[安徽涡阳一出租车司机连续抢劫强奸两女孩](http://3g.365jia.cn/news/2014-06-09/F1DF98C0254B0AD0.html)<br>
 [甘肃武威一出租车司机杨某将女子诱骗到车上后强奸](http://www.chinanews.com/m/sh/2015/07-10/7397044.shtml)<br>
-[陕西西安一滴滴司机强吻猥亵女乘客 欲以红包封口](http://finance.china.com.cn/industry/company/20160810/3852928.shtml
+[陕西西安一滴滴司机强吻猥亵女乘客 欲以红包封口](http://finance.china.com.cn/industry/company/20160810/3852928.shtml)<br>
 [河南南阳邓州一醉酒男子胆大包天 出租车上猥亵女乘客被抓](https://xw.qq.com/cmsid/20180211A0BOU700)<br>
 [海口一网约车司机车内自慰骚扰4名女高中生](http://3g.365jia.cn/news/2016-05-04/6B179B3DFE9CC5A2.html)<br>
 [海南三亚一网约车司机猥亵乘客被警方拘留5日](http://hi.people.com.cn/n2/2019/0926/c231190-33392546.html)<br>
@@ -1020,7 +1026,6 @@
 [浙江宁波大学副教授性骚扰女生](http://news.sina.com.cn/o/2019-12-12/doc-iihnzahi7088469.shtml)<br>
 [安徽合肥巢湖学院学生处处长赵尚松，用毕业证威胁女学生](http://www.jjrmyy.com/dangjiangongzuo/270478.html)<br>
 [安徽工程大学教师郭某牛持锐器刺戳女学生，至其全身多处致左颈总静脉破裂，肺、肝、肾等多脏器破裂引起大出血死亡](https://m.sohu.com/a/389017950_116237/?pvid=000115_3w_a&dt_dapp=1)<br>
-[安徽一大学老师杀死19岁女生 曾扬言“分手让你拿不到毕业证”](http://news.ifeng.com/c/7vllisvPmmO)<br>
 [广西财经学院教师容治教室索抱女学生](https://www.tianyancha.com/lawsuit/e34069971cbb11e6b554008cfae40dc0)<br>
 [河南大学文学院教授肖开愚性侵、性骚扰学生](https://www.sohu.com/a/230490354_100117601)<br>
 [福建华侨大学副教授瞿辉性侵女大学生：骗妻子说女生是小三](https://baijiahao.baidu.com/s?id=1614098400690832940&wfr=spider&for=pc)<br>
@@ -1089,9 +1094,11 @@
 [广州一女孩坐公交遭遇“咸猪手”，车长稳控“变态男”](https://m.sohu.com/a/291987146_120046696)<br>
 [广州一少女公交上被“咸猪手”摸哭](https://m.kunming.cn/news/c/2013-01-17/3189124.shtml)<br>
 [上海女子因前男友骚扰报案 才发现他竟是逃犯](https://baijiahao.baidu.com/s?id=1608192983467606581&wfr=spider&for=pc)<br>
+[北京地铁10号线牡丹园站男子尾随猥亵女乘客](https://baijiahao.baidu.com/s?id=1664212358251517047&wfr=spider&for=pc)<br>
 [北京公交安全员性骚扰女乘客](http://baijiahao.baidu.com/s?id=1643634472390860955&wfr=spider&for=pc)<br>
 [北京公交车上老人乱摸女生 大胆性骚扰被拍好几次](http://stock.591hx.com/article/2016-05-29/0000981491s.shtml)<br>
 [北京小米副总裁猥亵，行政拘留5日](http://www.sohu.com/a/316656109_166914)<br>
+[北京朝阳区国贸地铁站B口处男子恩某涛对一名进站女子实施强行搂抱](https://baijiahao.baidu.com/s?id=1663929224686843755&wfr=spider&for=pc)<br>
 [山东中年男子在公交车上伸“咸猪手”，露出下体猥亵女乘客](https://baijiahao.baidu.com/s?id=1631956892381777652&wfr=spider&for=pc)<br>
 [山东济南一男子公交车上性骚扰](http://www.dzwww.com/shandong/sdnews/201502/t20150215_11908247.htm)<br>
 [江西抚州多名女子公交车上遭遇变态“咸猪手”](https://zj.zjol.com.cn/video.html?id=1259461)<br>
@@ -1116,6 +1123,7 @@
 [江苏镇江小伙公交上性骚扰后行凶获刑](https://baijiahao.baidu.com/s?id=1591793291533582503&wfr=spider&for=pc)<br>
 [江苏南京女医生遭男子两次摸臀猥亵，被抓时：不就摸一下，还能坐牢吗](http://baijiahao.baidu.com/s?id=1650325489184111569&wfr=spider&for=pc)<br>
 [江苏南京工业大学浦江学院学生遭校医性骚扰，当事校医涉嫌猥亵已被拘留](http://www.sohu.com/a/270982371_610793)<br>
+[江苏南京地铁3号线某车厢内，男子邱某多次女性臀部，被拘留5天](https://baijiahao.baidu.com/s?id=1664490004832396078&wfr=spider&for=pc)<br>
 [天津17岁少女打优步遭性骚扰 司机聊女生第一次](http://m.cnr.cn/news/20160706/t20160706_522598898.html)<br>
 [海南保亭嬉水节 数十名女性被扒衣袭胸性骚扰](http://hebei.sina.com.cn/news/shwx/2012-08-24/07535863.html?fr=zt&from=wap)<br>
 [四川成都地铁女乘客遭“咸猪手” 变态男偷摸其臀部](http://scnews.newssc.org/system/20160601/000678736.htm)<br>
