@@ -16,7 +16,7 @@
 ## 目录
 - [x] 男性[杀妻杀母杀女奸女杀姐案](#谁的命不是命)<br>
 - [x] 男性[将妻全家灭门案](#将妻全家灭门案)<br>
-- [x] 法律：现行婚姻法，杀妻轻判，不保护女性[判决文书举例](#判决文书举例)<br>
+- [x] 法律：现行婚姻法杀妻轻判[判决文书举例](#判决文书举例)<br>
 - [x] 男性[残害无辜女性路人案](#无辜路人)<br>
 - [x] 男性[伤害或杀死女同事案](#你敢当我的同事吗)<br>
 - [x] 男性[侵害0-17岁陌生女孩案](#0-3岁)<br>
@@ -98,7 +98,7 @@
 [湖北枣阳市姚岗十字街崔立冬杀妻灭女](https://baijiahao.baidu.com/s?id=1628763463573998240&wfr=spider&for=pc)<br>
 [湖北咸阳检察长杀妻案](http://news.ifeng.com/society/detail_2006_08/31/855361_0.shtml)<br>
 [湖北武汉男子段某当众拿菜刀砍妻子 女儿亲眼目睹](https://new.qq.com/omn/20181124/20181124B1D46I.html)<br>
-[湖南郴州男子范某持砖将正在医院包扎治疗的妻子何某杀害，提砖头当女儿面杀妻 还将尸体照片发到妻子家人群](http://www.sohu.com/a/282994065_100191052)<br>
+[湖南郴州男子范某持砖将正在医院包扎治疗的妻子何某杀害，还将尸体照片发到妻子家人群](http://www.sohu.com/a/282994065_100191052)<br>
 [湖南新化男子涉嫌杀妻](https://baijiahao.baidu.com/s?id=1619788245694646538&wfr=spider&for=pc)<br>
 [湖南常德西洞庭男子陈某持刀杀妻](http://hunan.sina.com.cn/news/2015-08-25/detail-ifxhcvsf1100701.shtml)<br>
 [湖南省宁远县女子自杀，丈夫肢解抛尸制造失踪假象](http://www.sohu.com/a/323309653_120044203)<br>
@@ -270,9 +270,9 @@
 [广东男子强奸12岁女儿 称自己的孩子想玩玩](http://legal.people.com.cn/n/2014/1223/c188502-26262369.html)<br>
 [广东广州男子王某强奸亲女儿致其多次怀孕流产，被判9年](http://www.sohu.com/a/164776898_384562?_f=index_pagerecom_8)<br>
 [广东深圳龙岗龙城街道受害少女不堪受辱报警父亲被抓时竟被搜出“迷情水”](http://bbs.tianya.cn/post-41-911959-1.shtml)<br>
-[广东佛山三岁女童遭27岁姑父性侵 梦中多次喊救命](hhttp://health.iqilu.com/html/jiankangxinwen/shehuiguanzhu/201108/29-21749.html)<br>
-[广东佛山两女孩遭继父强奸](hhttp://news.ifeng.com/a/20140829/41785020_0.shtml)<br>
-[广东佛山"兽父"强奸亲生女儿 逼死其15岁男友](hhttp://www.chinadaily.com.cn/dfpd/2014-01/08/content_17222280.htm)<br>
+[广东佛山三岁女童遭27岁姑父性侵 梦中多次喊救命](http://health.iqilu.com/html/jiankangxinwen/shehuiguanzhu/201108/29-21749.html)<br>
+[广东佛山两女孩遭继父强奸](http://news.ifeng.com/a/20140829/41785020_0.shtml)<br>
+[广东佛山"兽父"强奸亲生女儿 逼死其15岁男友](http://www.chinadaily.com.cn/dfpd/2014-01/08/content_17222280.htm)<br>
 [广东江门 一父亲3次强奸13岁亲生女儿 致其染上妇科炎症](http://t.m.china.com.cn/convert/c_vlWpI7i5.html)<br>
 [四川达州通川区某乡镇男子杨某性侵继女4年](http://www.china.com.cn/news/shehui/2013-06/14/content_29121576.htm)<br>
 [四川男子多次性侵9岁聋哑女儿 获刑11年并被撤销监护权](http://baijiahao.baidu.com/s?id=1652061782607097681&wfr=spider&for=pc)<br>
@@ -281,7 +281,7 @@
 [四川一父亲多次强奸亲女儿 男友得知后揭发](http://news.eastday.com/eastday/13news/auto/news/world/u7ai4213735_K4.html)<br>
 [四川禽兽继父在副驾驶座上强奸16岁继女不止一次，致其怀孕](https://m.sohu.com/a/121680166_349410)<br>
 [辽宁营口男子石某性侵年女儿长达四年](https://baijiahao.baidu.com/s?id=1652530710290526306&wfr=spider&for=pc)<br>
-[辽宁大连男子趁女友不在强奸女友11岁女儿 长期霸占侵犯9年致其怀孕流产 获刑13年 出狱后继续强奸](http://m.88148.com/News/20170905116099.html)<br>
+[辽宁大连男子趁女友不在强奸女友11岁女儿致其怀孕流产 获刑13年 出狱后继续强奸](http://m.88148.com/News/20170905116099.html)<br>
 [吉林舒兰市男子李某富强迫不满14岁女儿发生数百次性关系](https://www.sohu.com/a/383709405_120053745)><br>
 [上海初二女生20天内遭到生父多次性侵 生母竟帮忙捂嘴](http://news.163.com/19/0418/01/ED0QURN00001875P.html)<br>
 [安徽宿州35岁男子张某某强奸14岁女儿，多次以查作业为由](http://www.sohu.com/a/307775605_120066713)<br>
@@ -464,7 +464,7 @@
 [广东深圳一女子屡遭男友家暴：从家打到走廊，楼梯间监控拍下全程](https://www.thepaper.cn/newsDetail_forward_5185453)<br>
 [广东深圳龙华新区富联新村一甘肃籍男子田某宁掐死女友后谎称其触电身亡](http://news.youth.cn/jsxw/201412/t20141216_6264962.htm)<br>
 [广东深圳宝安男子刘某凌晨连捅18岁女友数刀 女友闺蜜与烧烤店老板目睹全程](https://baijiahao.baidu.com/s?id=1612834534657741587&wfr=spider&for=pc)<br>
-[广东广州一对情侣马路吵架，男友故意走到马路中间，男子撞击女友导致其被撞死，获刑十个月，缓刑一年](https://weibo.com/tv/v/Ij6Glt0jO?fid=1034:4445539144761358)<br>
+[广东广州情侣吵架，男友故意走到马路中间，撞击女友致其被死亡](https://weibo.com/tv/v/Ij6Glt0jO?fid=1034:4445539144761358)<br>
 [男子为了困住女友，向广州机场谎报女友确诊新冠](http://news.163.com/20/0229/11/F6I5VQLH00018AOR.html)<br>
 [广西柳州市鱼峰男子周某掐死女友后自首](http://legal.people.com.cn/n/2012/1202/c188502-19762946.html)<br>
 [山东章丘男子韩某在北京掐死女友千里运尸回家 涉故意杀人被判死缓](http://news.sohu.com/20100411/n271433591.shtml)<br>
@@ -714,7 +714,7 @@
 [陕西凤翔县柳林镇人大主席李向阳因强奸14岁未成年被逮捕](http://n.miaopai.com/media/64dm0DxGcm5TU93g6YTqrGWM~xQ2l7kL)<br>
 [陕西榆林神木15岁的少女被6名未成年人逼迫卖淫、殴打至死肢解掩埋，赔偿3.5万，主犯仅判无期](https://baijiahao.baidu.com/s?id=1652272796413027088&wfr=spider&for=pc)<br>
 [四川绵阳73路公交上男子猥亵5年级女孩，他却反驳：我俩是好朋友](http://inews.ifeng.com/yidian/60155628/news.shtml?ch=ref_zbs_ydzx_news&yidian_docid=0KWmUcLT&yidian_s=mb&yidian_appid=&miref=newsin_app_push&yidian_cp=cn-yidian-news-v2&yidian_itemtype=news)<br>
-四川广汉中学党支部书记2017级6班班主任陈家秋性骚扰女学生。原爆料博主及家人受到巨大压力,被迫删博
+四川广汉中学党支部书记2017级6班班主任陈家秋性骚扰女学生。原爆料博主及家人受到巨大压力,被迫删博<br>
 [四川63岁男子强奸14岁残疾少女](https://www.guancha.cn/politics/2019_10_28_523008.shtml)<br>
 [四川省成都市新都区13岁女孩遭多次性侵](https://edu.qq.com/a/20160920/009380.htm?pgv_ref=aio2015&ptlang=2052)<br>
 [重庆未成年少女隐私照竟被当成广告展示，影楼：不会赔偿，想告就告](http://baijiahao.baidu.com/s?id=1653070132074335866&wfr=spider&for=pc)<br>
