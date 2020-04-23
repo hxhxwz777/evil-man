@@ -42,11 +42,11 @@
 近期陆续有许多心系女性的微博博主自发宣传它，我在此表示感谢。<br>
 
 ## 最近修改
+### v1.2.4 (2020/04/23 13:40)
+新增针对中学女生的案件及男星lzx出轨事件<br>
+
 ### v1.2.3 (2020/04/21 18:40)
 新增约200条新闻投稿，新增女童亲属犯案<br>
-
-### v1.2.3 (2020/04/18 21:40)
-新增近期新闻投稿<br>
 
 ### v1.2.2 (2020/04/14 15:40)
 新增近期新闻投稿,更新女童受侵害及部分高校案件<br>
@@ -81,6 +81,7 @@
 [江苏盐城响水红旗北路一男子杀害前妻](https://www.sohu.com/a/218731814_231496)<br>
 [江苏苏州一男子张明将前妻残忍杀害](http://m.sohu.com/a/249679557_351256)<br>
 [江苏苏州太仓一男子离婚后担心前妻再找对象 在前妻屋里装上针孔摄像头](http://www.subaonet.com/2019/1214/2606622.shtml)<br>
+[江苏昆山男子不管生病的妻子只知玩手机，妻欲买农药自杀](https://baijiahao.baidu.com/s?id=1664684045781361757&wfr=spider&for=pc)<br>
 [河北保定一男子刘某拿菜刀猛砍熟睡的妻儿，砍掉妻子6颗牙齿](http://www.sohu.com/a/285275718_361554)<br>
 [河北保定安国市一男子刘某某杀妻后自杀](https://baijiahao.baidu.com/s?id=1664546617767704331&wfr=spider&for=pc)<br>
 [河北唐山市丰南区男子杀妻](http://m.sohu.com/a/207197993_684478)<br>
@@ -121,6 +122,7 @@
 [重庆一男子广场上持刀刺死前妻](http://news.163.com/19/0807/15/EM05CJP90001899O.html)<br>
 [重庆长寿区男子李攀，与妻子离异同居，杀妻抛尸](http://baijiahao.baidu.com/s?id=1652547442094250637&wfr=spider&for=pc)<br>
 [重庆九龙坡区九龙西苑小区一男子砍妻子数刀 妻子血流不止](https://xw.qq.com/c/cq/20180715019925)<br>
+[四川自贡市贡井区莲花镇沙溪村男子陈某某杀妻](http://www.kgula.com/article/2776417.html)<br>
 [四川巴中女教师在电梯被丈夫打掉牙齿后坠亡，警方不予立案](https://static.cdsb.com/micropub/Articles/201911/e66e1fa18690db3957d054ddbf20075f.html)<br>
 [四川男子当街打断妻子14根肋骨，还叫嚣“打老婆犯法吗？"](http://www.sohu.com/a/254430145_712313)<br>
 [四川泸州维多利亚小区男子杀死妻子并肢解](http://www.sohu.com/a/289289823_120046618)<br>
@@ -294,6 +296,7 @@
 [江苏省镇江市丹徒区继父性侵女儿，12岁的小姑娘怀孕五个月](http://js.xhby.net/system/2017/01/06/030390726.shtml)<br>
 [江苏南通一男子性侵亲生女儿两年 获刑11年](https://xw.qq.com/cmsid/2017122200279400?f=dfz)<br>
 [江苏南通海门13岁女孩遭继母情人性侵两年](http://js.ifeng.com/nt/news/detail_2014_11/28/3214413_0.shtml)<br>
+[江苏苏州吴中区男子李某性侵4岁女儿长达九年](https://3g.163.com/news/article/FAOH1A2F0001899O.html)<br>
 [广西梧州一父亲强奸亲生女儿及其同学 一审获刑15年](http://t.m.china.com.cn/convert/c_NKgIMU11.html)<br>
 [江西宜春万载县16岁女中学生多次被38岁表哥性侵后怀孕](http://www.chinanews.com/sh/2013/03-20/4661401.shtml)<br>
 [贵州紫云县一父亲强奸20岁亲生女儿长达6年 一审被判12年](http://gz.sina.cn/news/s/2014-12-03/detail-icczmvun0863110.d.html?from=wap)<br>
@@ -695,6 +698,7 @@
 [海南一对姐妹遭邻居性侵 15岁智障姐姐怀孕7个月](https://news.china.com/socialgd/10000169/20161109/23864677_all.html)<br>
 [海南纺织工业局副局长李庆普犯贪污、嫖宿幼女、巨额财产来源不明罪被一审判20年，写两抽屉嫖娼日记共95本](http://news.jstv.com/wap/a/20191214/1576266234642.shtml)<br>
 [海南临高县10岁女童怀孕8个月！疑被同村61岁老人性侵](http://edu.youth.cn/jyzx/jyxw/201702/t20170213_9110982.htm)<br>
+[湖南益阳一男子尾随小女孩进入小区电梯强行搂抱](https://baijiahao.baidu.com/s?id=1664726568060207408&wfr=spider&for=pc)<br>
 [湖南女孩思思被同村74岁老人性侵并产子](https://www.sohu.com/a/285428423_120078003)<br>
 [湖南祁东留守女孩被控制、威胁、性侵](https://new.qq.com/rain/a/20191125A0MWUF)<br>
 [湖南省安化县13岁女孩被性侵](http://baijiahao.baidu.com/s?id=1601166818222090544&wfr=spider&for=pc)<br>
@@ -714,6 +718,7 @@
 [陕西凤翔县柳林镇人大主席李向阳因强奸14岁未成年被逮捕](http://n.miaopai.com/media/64dm0DxGcm5TU93g6YTqrGWM~xQ2l7kL)<br>
 [陕西榆林神木15岁的少女被6名未成年人逼迫卖淫、殴打至死肢解掩埋，赔偿3.5万，主犯仅判无期](https://baijiahao.baidu.com/s?id=1652272796413027088&wfr=spider&for=pc)<br>
 [四川绵阳73路公交上男子猥亵5年级女孩，他却反驳：我俩是好朋友](http://inews.ifeng.com/yidian/60155628/news.shtml?ch=ref_zbs_ydzx_news&yidian_docid=0KWmUcLT&yidian_s=mb&yidian_appid=&miref=newsin_app_push&yidian_cp=cn-yidian-news-v2&yidian_itemtype=news)<br>
+[四川省绵阳市东辰国际学校副校长吴建峰性骚扰至少50名女学生](https://www.sohu.com/a/390361849_483408)<br>
 四川广汉中学党支部书记2017级6班班主任陈家秋性骚扰女学生。原爆料博主及家人受到巨大压力,被迫删博<br>
 [四川63岁男子强奸14岁残疾少女](https://www.guancha.cn/politics/2019_10_28_523008.shtml)<br>
 [四川省成都市新都区13岁女孩遭多次性侵](https://edu.qq.com/a/20160920/009380.htm?pgv_ref=aio2015&ptlang=2052)<br>
@@ -757,6 +762,7 @@
 [江苏常州市某小区15岁男孩性侵7岁女童 因害怕被发现将其推下25楼](http://jiangsu.sina.com.cn/news/s/2019-05-16/detail-ihvhiews2241114.shtml)<br>
 [江苏女子足球队教练陈广红对多名队员进行强制猥亵](http://jiangsu.sina.com.cn/news/2019-12-26/detail-iihnzhfz8358643.shtml)<br>
 [江苏泗阳安监局官员李晓斌强奸15岁高中女生，致少女下体被撕裂致大出血，并在事后威胁该女生称自己“是大官，不怕告”](http://m.ldnews.cn/pcarticle/202312)<br>
+[江苏盐城滨海县第一初级中学凤鸣路校区的老师许某某骚扰中学女生](https://www.shobserver.com/zaker/html/240366.html)<br>
 [安徽蚌埠9岁女童被53岁老头性侵猥亵](http://365jia.cn/news/2016-04-02/9A7CB995ED9782D2_all.html)<br>
 [安徽淮南一54岁男子诱骗猥亵10岁幼女](https://m.sohu.com/a/338322209_726018)<br>
 [安徽宣城郎溪县10岁女童被奸杀](http://legal.people.com.cn/n1/2020/0418/c42510-31678911.html)<br>
@@ -1130,6 +1136,7 @@
 
 
 ### 与金钱地位无关 
+[女友爆料罗志祥多次出轨，参与多人群p](https://weibo.com/zhouyangqing912?refer_flag=1001030103_&is_hot=1)<br>
 [央视主持人朱军被爆性侵女大学生](http://m.kdnet.net/share-12880247.html)<br>
 [陈思诚拿烟头烫佟丽娅](http://www.sohu.com/a/124849073_600636)<br>
 [蒋劲夫家暴日本女友](https://baijiahao.baidu.com/s?id=1617703128972051579&wfr=spider&for=pc)<br>
