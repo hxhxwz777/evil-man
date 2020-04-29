@@ -42,14 +42,16 @@
 近期陆续有许多心系女性的微博博主自发宣传它，我在此表示感谢。<br>
 
 ## 最近修改
+
+### v1.2.5 (2020/04/30 00:40)
+新增近期新闻投稿<br>
+
 ### v1.2.4 (2020/04/23 13:40)
 新增针对中学女生的案件及男星lzx出轨事件<br>
 
 ### v1.2.3 (2020/04/21 18:40)
 新增约200条新闻投稿，新增女童亲属犯案<br>
 
-### v1.2.2 (2020/04/14 15:40)
-新增近期新闻投稿,更新女童受侵害及部分高校案件<br>
 
 
 ## 谁的命不是命
@@ -198,6 +200,7 @@
 [江西女子订婚后反悔,男子将其杀害](http://n.miaopai.com/media/v-ou8RQm55gyWyqyXsaFeIZXl9hvZP2X)<br>
 [江西南昌进贤县前坊街汉章大道男子陈国民杀妻骗保](https://www.sohu.com/a/209304170_393071)<br>
 [江西南昌市沙井小区男子熊某深夜杀妻剁下头颅](http://news.ifeng.com/gundong/detail_2013_10/23/30576123_0.shtml)<br>
+[江西41岁无业男子张某用妻子赚的钱打赏主播上百万，还想要平台退钱](http://k.sina.com.cn/article_1451977335_v568b6a7701900swn6.html)<br>
 [吉林长春男子刘某投毒杀妻案](https://baijiahao.baidu.com/s?id=1604276054750828827&wfr=spider&for=pc)<br>
 [吉林白城洮北区男子战某持刀砍伤妻子获刑四年](https://new.qq.com/omn/20190718/20190718A0G42900.html)<br>
 [内蒙古某精神卫生中心医生景某反对妻子考上协和医院博士，追至北京将其割喉](http://news.sina.com.cn/c/2012-08-16/000024977512.shtml)<br>
@@ -226,6 +229,8 @@
 [贵州铜仁市万山区高楼坪乡男子向某拿刀追砍妻子](http://www.sohu.com/a/240192001_678231)<br>
 [贵州新婚男子连砍睡梦中妻子3刀血溅被褥](http://feng.ifeng.com/c/7sNH96SDrO7)<br>
 [贵州男子聂某在福建南安美林街道玉叶工业区一出租屋掐死妻子](https://news.qq.com/a/20100407/001093.htm)<br>
+[贵州贵阳妻子劝阻在外喝酒的丈夫，被丈夫酒友打伤](https://baijiahao.baidu.com/s?id=1665004828947997253&wfr=spider&for=pc)<br>
+[贵州贵阳男子李某伦砍杀妻子 被判死缓](https://weibo.com/tv/v/Hz1LxBVlF?fid=1034:4383449164006414)<br>
 [新疆乌鲁木齐市男子高某连砍妻子十几刀致其死亡](http://news.cntv.cn/20110919/113272.shtml)<br>
 [内蒙古自治区鄂尔多斯市伊金霍洛旗一男子怀疑妻子不忠将其杀害](https://baijiahao.baidu.com/s?id=1633851432441881138&wfr=spider&for=pc)<br>
 [内蒙古鄂尔多斯市杭锦旗女记者遭丈夫金柱家暴惨死,丈夫被判死缓](http://www.sohu.com/a/129476305_531704)<br>
@@ -489,6 +494,9 @@
 [河南信阳平桥区男子周堃隐瞒已婚事实，对未婚女性骗色索物](https://weibo.com/u/7130574901?is_all=1)<br>
 [重庆网红主播“宇芽”遭家暴 前男友被行拘20天](http://www.sohu.com/a/356966322_260616)<br>
 [贵州遵义男子纠缠前女友，砍女子头部5刀，十根手指全被砍断](http://n.miaopai.com/media/SoNZ5K4U47GlI46w1sWzHomnMPvTri8d)<br>
+[贵州贵阳女子被男友砍40多刀 女儿：不止一次被暴打了](https://baijiahao.baidu.com/s?id=1665121951182232357&wfr=spider&for=pc)<br>
+[贵州贵阳黄女士遭湖北籍前男友张某纠缠两年多 头部被砍五刀，手臂被砍伤，十个指头被砍断]
+(https://krcom.cn/1647210043/episodes/1042194:4329170793362716)<br>
 [甘肃兰州陇南男子掐死提出分手女友 一审被判死缓](http://news.cri.cn/gb/42071/2015/10/12/8371s5129182.htm)<br>
 [陕西男子连捅恋人数刀致其死亡](http://n.miaopai.com/media/xgtgi8raGYswyLj~-KaDDhiIgYsDh6dA)<br>
 [陕西咸阳鱼化寨城中村的一个出租屋男子张某掐死女友与尸体同住3日](http://legal.people.com.cn/n/2013/1230/c188502-23975750.html)<br>
@@ -547,6 +555,7 @@
 [湖南衡阳乡村女医生提醒村民汪某孝检查身体，汪某孝拿起椅子、砖头将女医生砸死](http://baijiahao.baidu.com/s?id=1653419100422713932&wfr=spider&for=pc)<br>
 [湖南新化县农机局党组书记、局长彭歆下乡期间强奸一女子，下体被烫伤](http://hunan.sina.cn/news/2015-05-19/detail-icpkqeaz4702947.d.html?from=wap)<br>
 [湖南岳阳平江县长寿镇男子方某族强行拉妇女上车，称看错人](http://hunan.ifeng.com/a/20200229/8487608_0.shtml) <br>
+[湖南岳阳华容县操军镇东港村男子曾某杀害同村女大学生](https://rg.mbd.baidu.com/r/y33rjev?f=cp&u=d8d83c72e781de86)<br>
 [河南少女失踪6年后被找到，已与一对父子生3孩并精神分裂](https://baijiahao.baidu.com/s?id=1620782852540777374&wfr=spider&for=pc)<br>
 [河南“女大学生遭性侵毁尸案”](http://www.bjnews.com.cn/news/2019/08/23/618720.html)<br>
 [河南洛阳女孩深夜约饭险遭性侵微信发出“95”求救 警方7分钟救出](https://henan.qq.com/a/20190221/004749.htm)<br>
@@ -574,6 +583,8 @@
 [浙江杭州滨江一男子当街抱摔猛踹女孩，还叫嚣：你报警好了](https://weibo.com/tv/v/ImhzIgrOq?fid=1034:4453098022699013)<br>
 [浙江温州快递小哥张勇上门取件性侵女客户](https://new.qq.com/omn/20181206/20181206A09CZV.html)<br>
 [浙江宁波江苏籍男子王某杀死过路女子并分尸 一审被判死刑](http://news.163.com/19/0626/16/EIK2SQG00001875P.html)<br>
+[四川成都棕竹街竹苑小区两男子姜某和蒋某殴打陌生女子至其头部及面部多处受伤](https://baijiahao.baidu.com/s?id=1665108713679037569&wfr=spider&for=pc)<br>
+[四川成都女摄影师疑遭商家侵犯轻生,服药自杀后被救下](http://n.miaopai.com/media/i-gS2XLCXkuAgRZQxmZktVE5cVBSHgqa)<br>
 [四川成都仨老头疑公交上袭臀女孩 小伙出言喝止反被打成脑震荡](http://n.miaopai.com/media/mLZR19jE9YkpemWvQJLNbW3vEFjoXjxz)<br>
 [四川德阳一假僧人周某某利用封建迷信多次强奸妇女、幼女](http://baijiahao.baidu.com/s?id=1653579207990363933&wfr=spider&for=pc)<br>
 [四川南江女子在下班途中遭遇两名陌生男子黄某、钟某用砖头打昏，并用胶带封口](http://n.miaopai.com/media/EqSOKFVNR4zNH0hbLbuceDoqpDPShtSv)<br>
@@ -589,6 +600,7 @@
 [广西贺州平桂区黄田镇在灵峰广场殴打女子](http://www.sohu.com/a/364525062_162522)<br>
 [江苏常州湖塘老街男子杀害一女子](https://www.yidianzixun.com/article/0KGDYdmn?s=mb&miref=newsin_app_push)<br>
 [江苏淮安市涟水县胡某车内迷奸百名女性，录下418段不雅视频。获有期徒刑六年]( http://www.sohu.com/a/156307836_372652)<br>
+[江苏淮安市淮安区男子夏某某深夜持械袭击、猥亵多名女子被抓](http://news.jstv.com/a/20200424/609816d63de443db9cc7b7d48e405e6b.shtml)<br>
 [江苏南京，几名女孩路边拒绝了一男子提合照的请求，被辱骂长达十多分钟](https://weibo.com/tv/v/ImCjOdAh8?fid=1034:4453557156642822)<br>
 [江苏泗阳官员强奸女生被批捕 拉到偏僻处“车震”](https://3g.163.com/news/article/96PQEGE700014JB5.html?clickfrom=baidu_adapt&referFrom=)<br>
 [江苏宜兴阳羡100越野比赛中村民手持刀具猥亵女选手](https://www.sohu.com/a/278900532_100048098)<br>
@@ -1362,8 +1374,8 @@
 [中国女性健康与生存”指数排名倒数第一](http://www.sohu.com/a/283028937_617289)<br>
 2019年排名继续下滑[2019年全球性别差异中国排名下滑到106名](http://web.anyv.net/index.php/article-3853459)<br>
 
-## 结语 
-
+## 结语  
+ 
 恶臭的东亚文化背景下，女性命如草芥<br>
 选择闭眼无视，那这个世界永远不会好<br>
 我们无法沉默，无法苟活<br>
