@@ -512,8 +512,7 @@
 [重庆网红主播“宇芽”遭家暴 前男友被行拘20天](http://www.sohu.com/a/356966322_260616)<br>
 [贵州遵义男子纠缠前女友，砍女子头部5刀，十根手指全被砍断](http://n.miaopai.com/media/SoNZ5K4U47GlI46w1sWzHomnMPvTri8d)<br>
 [贵州贵阳女子被男友砍40多刀 女儿：不止一次被暴打了](https://baijiahao.baidu.com/s?id=1665121951182232357&wfr=spider&for=pc)<br>
-[贵州贵阳黄女士遭湖北籍前男友张某纠缠两年多 头部被砍五刀，手臂被砍伤，十个指头被砍断]
-(https://krcom.cn/1647210043/episodes/1042194:4329170793362716)<br>
+[贵州贵阳女子头部被遭湖北籍前男友张某砍五刀，手臂被砍伤，十个指头被砍断](https://krcom.cn/1647210043/episodes/1042194:4329170793362716)<br>
 [甘肃兰州陇南男子掐死提出分手女友 一审被判死缓](http://news.cri.cn/gb/42071/2015/10/12/8371s5129182.htm)<br>
 [陕西男子连捅恋人数刀致其死亡](http://n.miaopai.com/media/xgtgi8raGYswyLj~-KaDDhiIgYsDh6dA)<br>
 [陕西咸阳鱼化寨城中村的一个出租屋男子张某掐死女友与尸体同住3日](http://legal.people.com.cn/n/2013/1230/c188502-23975750.html)<br>
@@ -555,7 +554,7 @@
 [陕西西安某男子对3名服务员实施猥亵，被行政拘留10日](https://weibo.com/tv/v/HCuNV29qJ?fid=1034:4391748403662459)<br>
 [西安市第66中学一男学生杀害老师](http://n.miaopai.com/media/nMeI28LsUycI4kIyIxvtrcdQ4Socm36R)<br>
 [陕西蓝田怀孕女护士遭劫杀案告破](https://baijiahao.baidu.com/s?id=1589254651213647411&wfr=spider&for=pc)<br>
-[陕西渭南华阴市一男子杨某某在华山多处景点伺机等待单身女性，夺走深圳女子彭某财物，实施残忍暴行抽出鞋带将其勒亡，将遗体抛在石坑](http://baijiahao.baidu.com/s?id=1653071100216605027&wfr=spider&for=pc)<br>
+[陕西渭南华阴市一男子杨某某在华山夺走女子财物，实施残忍暴行抽出鞋带将其勒亡，抛尸石坑](http://baijiahao.baidu.com/s?id=1653071100216605027&wfr=spider&for=pc)<br>
 [陕西铜川一男子陈旭先后杀害两名19岁少女，11年后被执行死刑](https://www.thepaper.cn/newsDetail_forward_5054969)<br>
 [山西太原火车站：女大学生在餐厅遭40岁男子猥亵，愤怒发声](https://baijiahao.baidu.com/s?id=1630235521094525439&wfr=spider&for=pc)<br>
 [山东济南五旬校长多次强奸女学生致1人怀孕流产](http://baijiahao.baidu.com/s?id=1650064559243708834&wfr=spider&for=pc)<br>
