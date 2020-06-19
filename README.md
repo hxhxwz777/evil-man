@@ -43,11 +43,11 @@
 
 ## 最近修改
 
+### v1.2.9 (2020/06/19 18:26)
+新增近期新闻投稿  总新闻数：1202<br>
+
 ### v1.2.8 (2020/06/01 13:29)
 新增新闻 共计：1184<br>
-
-### v1.2.7 (2020/05/29 16:56)
-新增近期新闻投稿  总新闻数：1133<br>
 
 ## 谁的命不是命
 
@@ -55,7 +55,7 @@
 ```
 我又没打别人 我打的是我老婆 
 持结婚证杀她又不一定死刑
-本小节合计：190条
+本小节合计：196条
 ```
 [江苏扬州男子因妻子劝他不要酒驾，摔碎妻子手机，其妻监控盲区落水死因不明](https://www.thepaper.cn/newsDetail_forward_4441850)<br>
 [江苏扬州仪征男子曹某用厨刀划割妻子脖颈致死](https://baijiahao.baidu.com/s?id=1634339251276127892&wfr=spider&for=pc)<br>
@@ -64,9 +64,11 @@
 [江苏东海县一男子酒驾后殴打妻子和8岁女儿，拍视频胁迫妻子](https://weibo.com/tv/v/HDjgXlDaQ?fid=1034:4393688634443134)<br>
 [江苏苏州男子王某因被妻子屏蔽朋友圈,持刀挟持妻子砍伤侄女](http://n.miaopai.com/media/fsAsun8G2~xo19nCF1XMAwT13HofI7OG)<br>
 [江苏淮安市涟水县经济开发新区男子陆士良杀害前妻和女儿](http://www.223600.com/t-59668-1-1.html)<br>
+[江苏淮安市马头镇政府农机站公职人员李某多次出轨，妻子遭折磨患抑郁症](https://toutiao.china.com/xw/toutiao1/13000098/20200610/38328584.html)<br>
 [江苏南京江宁区东山街道某小区男子刘某杀妻杀子后跳楼自杀](http://www.sohu.com/a/352648783_114988)<br>
 [江苏南京鼓楼区男子耿某成持刀杀害前妻后又捅伤5名路人](http://news.sina.com.cn/o/2018-09-24/doc-ifxeuwwr7559280.shtml)<br>
 [江苏南京男子秦某将妻子扔进门外垃圾桶，回家点燃煤气罐欲自杀](https://tv.sohu.com/v/dXMvMzQwNDA4NzkxLzE1Nzk5OTQyMS5zaHRtbA==.html)<br>
+[江苏南京一男子金某偷配钥匙深夜锤杀前妻，锯子肢解尸体，袋装好抛入废井](https://new.qq.com/omn/20200616/20200616A0D45B00.html)<br>
 [江苏南京西堤国际杀妻案，男子吉星鹏持菜刀、水果刀对妻子头部、胸背部、四肢等部位砍击和捅刺数十下](http://jiangsu.sina.com.cn/news/s/2017-12-27/detail-ifypyuvc5441494.shtml)<br>
 [江苏南京广电集团干部陈勇将其妻陈某掐捂、勒颈致窒息死亡，后将尸体分解藏匿冰柜](https://baijiahao.baidu.com/s?id=1637681689831352545&wfr=spider&for=pc)<br>
 [江苏南京某小区男子装摄像头偷拍防前妻找对象，镜头正对浴室和床](http://n.miaopai.com/media/YL327TCl6fz0FvadggcB1L-IvAl4gBz9)<br>
@@ -98,11 +100,12 @@
 [湖北黄石7旬老汉黄某杀妻跳江](https://baijiahao.baidu.com/s?id=1633422941572766680&wfr=spider&for=pc)<br>
 [湖北枣阳市姚岗十字街崔立冬杀妻灭女](https://baijiahao.baidu.com/s?id=1628763463573998240&wfr=spider&for=pc)<br>
 [湖北咸阳检察长杀妻案](http://news.ifeng.com/society/detail_2006_08/31/855361_0.shtml)<br>
+[湖北荆州市公安县男子魏某开车载坐月子的妻子冲长江企图将其溺死](https://www.sohu.com/a/401201027_260616?scm=1002.3c0039.1ca01fe.0-0&spm=smpc.home.list.5.1591931579944mSlQRsl) <br>
 [湖北武汉男子段某当众拿菜刀砍妻子 女儿亲眼目睹](https://new.qq.com/omn/20181124/20181124B1D46I.html)<br>
 [湖南郴州男子范某持砖将正在医院包扎治疗的妻子何某杀害，还将尸体照片发到妻子家人群](http://www.sohu.com/a/282994065_100191052)<br>
 [湖南新化男子涉嫌杀妻](https://baijiahao.baidu.com/s?id=1619788245694646538&wfr=spider&for=pc)<br>
 [湖南常德西洞庭男子陈某持刀杀妻](http://hunan.sina.com.cn/news/2015-08-25/detail-ifxhcvsf1100701.shtml)<br>
-[湖南省宁远县女子自杀，丈夫肢解抛尸制造失踪假象](http://www.sohu.com/a/323309653_120044203)<br>
+[湖南宁远县女子自杀，丈夫肢解抛尸制造失踪假象](http://www.sohu.com/a/323309653_120044203)<br>
 [湖南汉寿县一男子网上赌博欠百万，持刀砍全家2死3伤：妻子和3岁女儿身亡](http://3g.163.com/v/video/VMVTOH996.html)<br>
 [湖南长沙男子曹某连砍妻子20多刀](https://hn.qq.com/a/20120912/000077.htm)<br>
 [湖南男子曹智砍断妻子双手，他说“想照顾她”](http://epaper.voc.com.cn/sxdsb/html/2012-09/12/content_558932.htm?div=-1)<br>
@@ -143,6 +146,7 @@
 [上海浦东新区男子狠心杀妻和儿女后割脖子自刎](https://baijiahao.baidu.com/s?id=1637228154853199642&wfr=spider&for=pc)<br>
 [上海浦东新区一男子严某因欠债杀妻纵火](http://k.sina.com.cn/article_6066193547_m16992c48b03300lnad.html)<br>
 [陕西女子分娩大出血瘫痪,丈夫携卖房款消失](https://view.inews.qq.com/a/XAC2019031300855008?uid=)<br>
+[陕西清涧男子景某男子捂死8月孕妻伪造成交通事故](http://news.163.com/20/0610/11/FEOP0ABQ00019K82.html)<br>
 [陕西榆林老汉娶智障妻子配阴婚 除夕夜纵火杀妻](http://news.163.com/19/0218/14/E8A7F00900018AOR.html)<br>
 [陕西男子张某非法拘禁并强奸已再婚怀孕的前妻，一审获刑三年半](http://www.sohu.com/a/348425890_260616)<br>
 [陕西杀妻检察长陈平犯罪之路](http://www.huaxia.com/qqla/lbyl/cf/2006/08/186399.html)<br>
@@ -219,6 +223,7 @@
 [浙江杭州建德男子掐死妻子抛尸山里，之后还照常带孩子回丈母娘家吃饭](http://www.sohu.com/a/233350808_226668)<br>
 [浙江杭州的台州籍男子小叶殴打妻子致其多处软组织挫伤，被行政拘留12天](http://www.sohu.com/a/197324821_752034)<br>
 [浙江杭州临安男子家暴致妻子和女儿出走](http://n.miaopai.com/media/K-f7Rix386UQj17CJowpoy1-OpbC8aGR)<br>
+[浙江杭州滨江男子离婚时藏匿儿子索要妻子婚前房产](https://xw.qq.com/cmsid/20200602A089GK00)<br>
 [浙江湖州男子彭某用菜刀怒砍妻子和丈母娘](http://zj.sina.com.cn/news/s/2017-04-07/detail-ifyeceza1436006.shtml?from=zj_ydph)<br>
 [浙江台州男子叶某与妻子吵架，把怀孕妻子打的满脸是血被拘留12日](http://www.sohu.com/a/197127202_420076)<br>
 [浙江余姚市张某杀妻抛尸](http://news.cri.cn/gb/42071/2015/11/11/5311s5163164.htm)<br>
@@ -249,9 +254,8 @@
 [美国纽约州威彻斯特郡46岁的华裔男子刘传凯杀死妻子和俩孩子后自杀身亡](https://new.qq.com/omn/20191208/20191208A08K2I00.html?pgv_ref=aio2015)<br>
 ```
 我又没杀别人 我杀的是我亲妈
-本小节合计：22条
+本小节合计：23条
 ```
-
 [湖南益阳沅江市泗湖山镇人12岁少年吴某康弑母：我又没杀别人](https://baijiahao.baidu.com/s?id=1619519385281916749&wfr=spider&for=pc)<br>
 [湖南涟源男子在家中持刀杀死母亲杀伤父亲](https://www.thepaper.cn/newsDetail_forward_2228139)<br>
 [安徽省安庆市宿松县男子刘迭文杀母后畏罪逃跑](https://baijiahao.baidu.com/s?id=1626154260937267107&wfr=spider&for=pc)<br>
@@ -272,18 +276,20 @@
 [海南省东方市东河镇亚要村男子符李民持棍棒和石头追打母亲致死](http://www.sohu.com/a/362036130_391294)<br>
 [河南安阳男子宋某昌丧心病狂弑杀亲母](https://www.henan100.com/news/2017/683302.shtml)<br>
 [上海杨浦区鞍山四村一男子和母亲吵架后，点酒瓶放火](http://news.southcn.com/community/content/2014-07/29/content_105444722.htm)<br>
+[上海宝山区某男子吴某骗领养老金将病逝母亲藏于冰柜数月](https://news.china.com/socialgd/10000169/20200615/38351511.html)<br>
 [福建福州25岁待业男子殴打母亲，多次逼迫其卖房](https://baijiahao.baidu.com/s?id=1658593423498533929&wfr=spider&for=pc)<br>
 [福建福州平潭县岚城待业男子陈某恩殴打母亲逼要生活费](https://society.dbw.cn/system/2008/09/25/051518231.shtml)<br>
 
 ```
-我又没玩别人 我玩的是我女儿/继女/侄女/外甥女/孙媳/女性亲属
-本小节合计：47条
+我又没玩别人 我玩的是我女儿/继女/侄女/外甥女/孙女/孙媳/女性亲属
+本小节合计：49条
 ```
 [山东烟台，高管鲍毓明性侵未成年女儿三年，女儿多次报警无人回应](http://news.sina.com.cn/s/2020-04-09/doc-iircuyvh6857974.shtml)<br>
 [山东一男子强奸亲生女儿获刑七年六个月，被撤销监护人资格](https://www.thepaper.cn/newsDetail_forward_2917243)<br>
 [山东滨州阳信县翟家村男子杨爱静殴打女儿致死](https://weibo.com/ttarticle/p/show?id=2309404386972234867489)<br>
 [山东青岛一11岁女孩直喊肚子疼，竟是被51岁亲戚强奸](https://m.baidu.com/sf_baijiahao/s?id=1647445786313999158&wfr=spider&for=pc&sa=vs_ob_realtime)<br>
 [浙江绍兴一四川男子性侵养女案](https://baike.baidu.com/item/%E5%85%BB%E7%88%B6%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%84%BF%E6%A1%88/6345246)<br>
+[河南洛阳市洛宁县男子雷某某性侵15岁孙女至怀孕](https://baby.163.com/20/0603/16/FE78CUGS00367V0V.html)<br>
 [广东男子强奸12岁女儿 称自己的孩子想玩玩](http://legal.people.com.cn/n/2014/1223/c188502-26262369.html)<br>
 [广东广州男子王某强奸亲女儿致其多次怀孕流产，被判9年](http://www.sohu.com/a/164776898_384562?_f=index_pagerecom_8)<br>
 [广东深圳龙岗龙城街道受害少女不堪受辱报警父亲被抓时竟被搜出“迷情水”](http://bbs.tianya.cn/post-41-911959-1.shtml)<br>
@@ -311,6 +317,7 @@
 [陕西扶风县女童3岁被收养 遭养父性侵致2次怀孕：两个女婴共卖5万多元](http://sd.china.com.cn/a/2015/fzzx_1126/431729.html)<br>
 [山西沁水县少女遭养父养兄性侵，养父：又不是亲生的](https://baijiahao.baidu.com/s?id=1620346394132786478&wfr=spider&for=pc)<br>
 [广西梧州一父亲强奸亲生女儿及其同学 一审获刑15年](http://t.m.china.com.cn/convert/c_NKgIMU11.html)<br>
+[广西柳州男子韦某因赌博欠债杀害俩幼女 ](https://www.sohu.com/a/400226998_120630579)<br>
 [江西宜春万载县16岁女中学生多次被38岁表哥性侵后怀孕](http://www.chinanews.com/sh/2013/03-20/4661401.shtml)<br>
 [云南曲靖罗平一男子强奸亲外甥女致7岁女孩感染性病](http://yn.people.com.cn/n/2015/0525/c361322-24997747.html)<br>
 [内蒙古15岁少女遭姑父强奸 被寄养在姑姑家5年来多次遭遇性侵](http://m.jiangsu.china.com.cn/mobile/law/case/6366965_1.html)<br>
@@ -461,7 +468,7 @@
 
 ### 甜甜的恋爱轮到你了
 ```
-本小节合计：110条
+本小节合计：112条
 ```
 [安徽合肥女钢琴师被相亲对象杀害](http://www.sohu.com/a/304549647_120067027)<br>
 [安徽宿松男子余艳煌杀害同居女子郑某](http://www.ahwang.cn/anhui/20191120/1953315.html)<br>
@@ -486,7 +493,9 @@
 [福建厦门市湖里区塘边社一出租屋两女惨遭杀害，凶手为一名女性的前男友](http://www.mnw.cn/xiamen/news/1158616.html)<br>
 [福建华侨大学回应江歌案：陈世峰是本校毕业生在校曾殴打女友](http://www.sohu.com/a/204320401_313745)<br>
 [福建厦门打工妙龄女出租屋遇害，疑前男友下毒手](https://fj.qq.com/a/20150123/010320.htm)<br>
-[四川省资阳市雁江区21岁女护士失联 警方通报：前男友将其杀害](https://baijiahao.baidu.com/s?id=1603110709624502339&wfr=spider&for=pc)<br>
+[上海闵行已婚男周某酒后将情人车辆撞下二楼](https://www.sohu.com/a/399983604_658496)<br>
+[四川绵阳翠花街光明华都楼下男子与女友争吵，将女友锁车内离去，女友几近窒息](http://news.ifeng.com/c/7x8hB5Kc267)<br>
+[四川资阳市雁江区21岁女护士失联 警方通报：前男友将其杀害](https://baijiahao.baidu.com/s?id=1603110709624502339&wfr=spider&for=pc)<br>
 [四川夹江男子表白遭拒，持酒瓶袭击女子至头破血流](https://baijiahao.baidu.com/s?id=1631871290212535611&wfr=spider&for=pc)<br>
 [四川广安市政协常委、广安市广安区人民政府副区长的黎某被男友林某袭击后死亡](http://opinion.people.com.cn/n1/2018/0914/c1003-30294018.html)<br>
 [四川江油市永胜镇男子邵某某放火烧女友房致其全身多处烧伤](http://sc.sina.com.cn/news/m/2020-04-16/detail-iircuyvh7996249.shtml)<br>
@@ -575,7 +584,7 @@
 
 ### 无辜路人
 ```
-本小节合计：143条
+本小节合计：147条
 ```
 [广东梅州少女遭老汉当街猥亵路人拍照无人救](http://www.sohu.com/a/221213486_115376)<br>
 [广东梅州一中学内20岁男子捅死18岁女生](https://baijiahao.baidu.com/s?id=1622425316899387037&wfr=spider&for=pc)<br>
@@ -602,6 +611,7 @@
 [陕西渭南华阴市一男子杨某某在华山夺走女子财物，实施残忍暴行抽出鞋带将其勒亡，抛尸石坑](http://baijiahao.baidu.com/s?id=1653071100216605027&wfr=spider&for=pc)<br>
 [陕西铜川一男子陈旭先后杀害两名19岁少女，11年后被执行死刑](https://www.thepaper.cn/newsDetail_forward_5054969)<br>
 [山西太原火车站：女大学生在餐厅遭40岁男子猥亵，愤怒发声](https://baijiahao.baidu.com/s?id=1630235521094525439&wfr=spider&for=pc)<br>
+[山西省科技厅副厅长董某军疑于北京一高校公寓套间内殴打女性，至女性当事人死亡](https://baijiahao.baidu.com/s?id=1669614235902739872&wfr=spider&for=pc)<br>
 [山东济南五旬校长多次强奸女学生致1人怀孕流产](http://baijiahao.baidu.com/s?id=1650064559243708834&wfr=spider&for=pc)<br>
 [山东济南历城区唐冶南村一男子贾某用铡刀杀死村民宋某一家四口](http://dy.163.com/v2/article/detail/ELT04M2F0511CPG9.html)<br>
 [湖北鄂州梁子湖区一男子章某凌晨杀害一女子](http://news.xmnn.cn/xmnn/2019/06/28/100558053.shtml)<br>
@@ -627,6 +637,7 @@
 [湖南岳阳华容县操军镇东港村男子曾某杀害同村女大学生](https://rg.mbd.baidu.com/r/y33rjev?f=cp&u=d8d83c72e781de86)<br>
 [河南少女失踪6年后被找到，已与一对父子生3孩并精神分裂](https://baijiahao.baidu.com/s?id=1620782852540777374&wfr=spider&for=pc)<br>
 [河南“女大学生遭性侵毁尸案”](http://www.bjnews.com.cn/news/2019/08/23/618720.html)<br>
+[河南郑州龙子湖高校区，一男子锁喉袭击女子，拖进树丛猥亵](https://weibo.com/u/1744028627?is_hot=1#_rnd1592552811856)<br>
 [河南洛阳女孩深夜约饭险遭性侵微信发出“95”求救 警方7分钟救出](https://henan.qq.com/a/20190221/004749.htm)<br>
 [河南洛阳洛龙某工程安装公司职员男子柳某役利用暖气检修的机会，登门入室猥亵女子](http://www.sohu.com/a/364179766_114988)<br>
 [河南叶县7旬老人杨某恩多次猥亵女子](http://baijiahao.baidu.com/s?id=1651793830375275800&wfr=spider&for=pc)<br>
@@ -672,6 +683,7 @@
 [四川泸州市龙马潭区男子尹家辉酒后误认女子为前女友 欲掐死并脱其内裤强奸](https://c.m.163.com/news/a/EN95NMUT0001875P.html?spss=adap_pc&referFrom=)<br>
 [四川汉中汉台区男子男子余某强奸女子](http://finance.sina.com.cn/sf/news/2015-09-17/11324111.html?from=wap)<br>
 [四川眉山市白马镇男子冯学华强奸5女性杀害其中三人](http://news.sina.com.cn/s/2019-02-17/doc-ihqfskcp5991935.shtml)<br>
+[四川眉山市东坡区一男子王义平假冒法官、法院院长、建筑工程老板骗取女性钱财](https://www.thepaper.cn/newsDetail_forward_7759157)<br>
 [四川资阳市雁江区保和镇男子尹某闯入小学同学女生房中用剪刀将其杀害](http://www.chinanews.com/df/2014/08-01/6449082.shtml)<br>
 [四川岳池县男子彭毓峰将北京邮天宇招待所的三位女性工作人员杀害](http://news.cri.cn/gb/27824/2010/12/14/3365s3089427.htm)<br>
 [江西两名干部乡镇办公楼内强奸女性](https://rmh.pdnews.cn/Pc/ArtInfoApi/article?id=7421098)<br>
@@ -679,6 +691,7 @@
 [江西南昌铁路五村智障女子裸身遭铁链囚禁](http://jx.sina.com.cn/news/s/2013-07-10/081937554.html?from=jx_ydph)<br>
 [江西南昌女子深夜遭陌生男子强吻](https://baijiahao.baidu.com/s?id=1606852535754078216&wfr=spider&for=pc)<br>
 [江西南昌红谷滩伤人案，男子万某弟砍死无辜路人女子](https://baike.baidu.com/item/5%C2%B724%E5%8D%97%E6%98%8C%E7%BA%A2%E8%B0%B7%E6%BB%A9%E4%BC%A4%E4%BA%BA%E6%A1%88/23520161)<br>
+[广西南宁市公安局南湖分局民警韦某闯入一女子房屋内，辱骂、殴打、强制猥亵女性](http://news.sina.com.cn/s/2020-06-16/doc-iircuyvi8678931.shtml)<br>
 [广西东兴一男子蒋某某起歹念欲强奸女邻居](https://sifa.sina.cn/2019-05-08/detail-ihvhiews0575146.d.html?from=wap)<br>
 [广西柳州市融安县4名男子持刀胁迫2名女子卖淫并带往酒店实施性侵](https://news.sina.com.cn/s/2020-04-16/doc-iircuyvh8120524.shtml)<br>
 [广西一男子熊志城欠赌债来杭州自尽想找人陪死，强制猥亵并刺死浙大海归23岁女孩](http://www.sohu.com/a/329529776_398039)<br>
@@ -806,7 +819,7 @@
 
 ### 7-17岁
 ```
-本小节合计：119条
+本小节合计：120条
 ```
 [山西长治市城区某小学8岁女孩遭体育老师杨某性侵](http://edu.cnr.cn/list/20161021/t20161021_523210932.shtml)<br>
 [山西柳林县创新双语学校男教师白某某涉嫌性侵学生](http://www.liulin.gov.cn/zmhd/gqhy/201912/t20191226_1350867.shtml)<br>
@@ -851,6 +864,7 @@
 [广西桂林全州县安河镇青龙山村男子蒋某某入室盗窃被发现，残忍杀害10岁女童埋尸耕地](https://m.thepaper.cn/newsDetail_forward_7395206?ivk_sa=1023197a)<br>
 [广西钦州市灵山县伯劳镇平心村男子杨某强奸10岁女童致死，仅判死缓](https://news.sina.cn/sh/2020-05-08/detail-iirczymk0534290.d.html)<br>
 [广西柳州一副校长被指猥亵女生](https://baijiahao.baidu.com/s?id=1664194229581703979&wfr=spider&for=pc)<br>
+[陕西蓝田县某小学四名男学生在男厕性侵13岁女生](https://baijiahao.baidu.com/s?id=1668906078536277144&wfr=spider&for=pc)<br>
 [陕西西安铁一中高三河北雄县籍男子赵大伟强奸杀害女同学](http://news.sina.com.cn/s/l/2006-11-16/070711530499.shtml)<br>
 [陕西安康男子徐某长期猥亵13岁侄女](https://news.sina.com.cn/s/2020-04-16/doc-iirczymi6720737.shtml)<br>
 [陕西凤翔县柳林镇人大主席李向阳因强奸14岁未成年被逮捕](http://n.miaopai.com/media/64dm0DxGcm5TU93g6YTqrGWM~xQ2l7kL)<br>
@@ -1155,7 +1169,7 @@
 
 ### 被结婚
 ```
-本小节合计：6条
+本小节合计：7条
 ```
 [河南驻马店的尚女士，在领结婚证时发现自己被结婚5次，都是陌生人](https://weibo.com/tv/v/IlECak0Lq?fid=1034:4451607149215750)<br>
 [贵州代女士身份证丢失“被结婚”，无法撤销只能打官司](https://www.thepaper.cn/newsDetail_forward_5301690)<br>
@@ -1163,12 +1177,15 @@
 [浙江杭州一女子买房时发现“被结婚”三年 征信报告上学历职业都不对](https://xw.qq.com/cmsid/20180710A07UKN00)<br>
 [湖北武汉女子与男友去登记领证，却发现自己在四川已“被结婚”](https://baijiahao.baidu.com/s?id=1601616089965261168&wfr=spider&for=pc&sa=vs_ob_realtime)<br>
 [山东德州平原县女子补办结婚证意外发现多次“被结婚被离婚”](https://m.baidu.com/sf_baijiahao/s?id=1562844360540924&wfr=spider&for=pc&sa=vs_ob_realtime)<br>
+[河北邯郸永年区女子一个月内两次“被结婚”，申诉、起诉过，始终离不了婚](https://mini.eastday.com/a/200605161922759.html)<br>
 
 ### 离婚难
 ```
-本小节合计：1条
+本小节合计：3条
 ```
+[宁夏银川市一盲人女子练签名一年才被允许离婚](https://www.sohu.com/a/400850376_120117631)<br>
 [江苏苏州女子要离婚丈夫不同意，女子在派出所门口跳河轻生](https://baijiahao.baidu.com/s?id=1633928001218490681&wfr=spider&for=pc)<br>
+[四川内江市东兴区兴盛路一男子唐某在办离婚手续时持刀将妻子杀死](https://xw.qq.com/cd/20200615008866/CDC2020061500886600)<br>
 
 ### 与职业头衔无关-高校教授
 ```
