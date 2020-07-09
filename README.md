@@ -148,8 +148,7 @@
 [四川资阳乐至县男子侯某杀妻潜逃落网](https://www.sohu.com/a/75895688_119703)<br>
 [四川成都双流温哥华花园四期一简阳籍男子赵某持刀杀妻掏肠](http://www.330476.com/chengdusharentaochang/2887.html)<br>
 [四川成都首创国际城一雅安籍男子殷某某在前妻家中纵火](https://www.thepaper.cn/newsDetail_forward_8068424)<br>
-[上海浦东新区彭平公路一男子严某因债务矛盾将妻子杀害并纵火]
-(https://new.qq.com/omn/20200321/20200321A0EXHO00.html)<br>
+[上海浦东新区彭平公路一男子严某因债务矛盾将妻子杀害并纵火](https://new.qq.com/omn/20200321/20200321A0EXHO00.html)<br>
 [上海闵行男子齐某多次骚扰侮辱前妻，并找锁匠开前妻房门](http://n.miaopai.com/media/wDEVBd-zIvhUyLzLygHEKbp~-FdZUMDT)<br>
 [上海某外地籍男子陈某砍断妻子手掌判刑四年](http://www.kankanews.com/a/2016-03-21/0037431540.shtml)<br>
 [上海丈夫俞峒将妻子徐冰推下楼后冷眼旁观 威胁路人别多管闲事](https://www.yidianzixun.com/article/0KEmKnys?s=mb&miref=newsin_app_push)<br>
