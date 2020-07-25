@@ -44,7 +44,7 @@
 ## 最近修改
 
 ### v1.2.13 (2020/07/24 17:46)
-新增近期新闻投稿，主要类型为杀死女友/妻等  总新闻数：1305 <br>
+新增近期新闻投稿，主要类型为杀死女友/妻等  总新闻数：1312 <br>
 
 ### v1.2.12 (2020/07/09 22:29)
 新增"中山大学王晓玮"“四川师范邓前程”及其他新闻 共计：1266 <br>
@@ -55,7 +55,7 @@
 ```
 我又没打别人 我打的是我老婆 
 持结婚证杀她又不一定死刑
-本小节合计：223条
+本小节合计：225条
 ```
 [江苏扬州男子因妻子劝他不要酒驾，摔碎妻子手机，其妻监控盲区落水死因不明](https://www.thepaper.cn/newsDetail_forward_4441850)<br>
 [江苏扬州仪征男子曹某用厨刀划割妻子脖颈致死](https://baijiahao.baidu.com/s?id=1634339251276127892&wfr=spider&for=pc)<br>
@@ -220,7 +220,8 @@
 [山东济南济阳回河街道桑皮赵村一男子郑某杀妻后自杀，6岁女儿目睹全程](https://baijiahao.baidu.com/s?id=1605242047812105081&wfr=spider&for=pc)<br>
 [山东淄博一男子被轿车撞飞当场身亡，司机逃逸让妻子来顶包。而死者是名杀人犯，事故发生前刚用水果刀杀死了儿媳，路上闲逛时遭遇车祸](http://n.miaopai.com/media/v--kOsHhX3-m~NwwFelj7ea1hAWc6C2N)<br>
 [山东德州一男子李某捅伤妻子后在送医途中掐死妻子并抛尸](https://news.sina.cn/sh/2020-07-14/detail-iivhvpwx5257316.d.html?from=wap)<br>
-[山西朔州市朔城区下团堡乡刘占金杀妻灭子后报复全村，致39人死亡](https://baijiahao.baidu.com/s?id=1627158649797939439&wfr=spider&for=pc)<br>
+[山西朔州朔城区下团堡乡刘占金杀妻灭子后报复全村，致39人死亡](https://baijiahao.baidu.com/s?id=1627158649797939439&wfr=spider&for=pc)<br>
+[山西朔州一男子伙同另一人当街拖拽殴打妻子，警方回应：家庭矛盾，已立案](http://news.sina.com.cn/s/2020-07-24/doc-iivhuipn4867467.shtml?hdspider)<br>
 [山西太原小店区一小学校长苗某杀妻烧车焚尸灭迹](https://baijiahao.baidu.com/s?id=1619808801494349653&wfr=spider&for=pc)<br>
 [山西晋城兰亭书院案凶手砍妻头部超30刀 被判死刑](https://baijiahao.baidu.com/s?id=1635947033411473401&wfr=spider&for=pc)<br>
 [山西闻喜县男子孙某安索钱还高利贷不成竟杀妻弑子](http://mini.eastday.com/a/181215104226549.html)<br>
@@ -246,6 +247,7 @@
 [福建厦门一男子狂砍妻子50多刀](https://fj.qq.com/a/20140111/003801.htm)<br>
 [浙江舟山市公安局普陀平阳浦男子贺某某杀妻](https://baijiahao.baidu.com/s?id=1635401928319573961&wfr=spider&for=pc)<br>
 [浙江天台县男子张某雇凶杀妻未遂](https://baijiahao.baidu.com/s?id=1609388714616848095&wfr=spider&for=pc)<br>
+[浙江杭州男子许某某趁妻子来女士熟睡之际将其杀死，分尸后分散抛弃](https://view.inews.qq.com/a/TWF2020072300526100?tbkt=E&uid=)<br>
 [浙江杭州建德男子掐死妻子抛尸山里，之后还照常带孩子回丈母娘家吃饭](http://www.sohu.com/a/233350808_226668)<br>
 [浙江杭州的台州籍男子小叶殴打妻子致其多处软组织挫伤，被行政拘留12天](http://www.sohu.com/a/197324821_752034)<br>
 [浙江杭州临安男子家暴致妻子和女儿出走](http://n.miaopai.com/media/K-f7Rix386UQj17CJowpoy1-OpbC8aGR)<br>
@@ -316,7 +318,7 @@
 
 ```
 我又没玩别人 我玩的是我女儿/继女/侄女/外甥女/孙女/孙媳/女性亲属
-本小节合计：51条
+本小节合计：52条
 ```
 [山东烟台，高管鲍毓明性侵未成年女儿三年，女儿多次报警无人回应](http://news.sina.com.cn/s/2020-04-09/doc-iircuyvh6857974.shtml)<br>
 [山东一男子强奸亲生女儿获刑七年六个月，被撤销监护人资格](https://www.thepaper.cn/newsDetail_forward_2917243)<br>
@@ -351,6 +353,7 @@
 [安徽合肥蜀山区男子张某某多次强奸14岁继女被检察机关批捕](http://www.yangtse.com/content/693478.html)<br>
 [陕西咸阳一女儿被亲生父亲多次奸淫 出嫁后仍然屡遭其性骚扰](http://world.hebnews.cn/2014-07/01/content_4014697.htm)<br>
 [陕西扶风县女童3岁被收养 遭养父性侵致2次怀孕：两个女婴共卖5万多元](http://sd.china.com.cn/a/2015/fzzx_1126/431729.html)<br>
+[陕西安康紫阳县某镇街道田坝安置点一男子彪某甲多次强奸8岁女儿]被判七年半](https://www.sohu.com/a/408123200_363784?_trans_=000014_bdss_dkmwzacjP3p:CP=)<br>
 [山西沁水县少女遭养父养兄性侵，养父：又不是亲生的](https://baijiahao.baidu.com/s?id=1620346394132786478&wfr=spider&for=pc)<br>
 [广西梧州一父亲强奸亲生女儿及其同学 一审获刑15年](http://t.m.china.com.cn/convert/c_NKgIMU11.html)<br>
 [广西柳州男子韦某因赌博欠债杀害俩幼女 ](https://www.sohu.com/a/400226998_120630579)<br>
@@ -877,7 +880,7 @@
 
 ### 4-6岁
 ```
-本小节合计：31条
+本小节合计：33条
 ```
 [上海青浦区某幼儿园男教师猥亵女童被捕](https://baijiahao.baidu.com/s?id=1663102648832468939&wfr=spider&for=pc)<br>
 [上海七宝万科西西弗里书店十岁男孩在监控死角怼陌生五岁女孩性骚扰，脱衣裤乱摸猥亵](https://m.weibo.cn/5369995011/4507147666834489)<br>
@@ -888,6 +891,7 @@
 [广东深圳龙岗区龙城街道，4岁被拐女童一句话提醒司机及时报警](https://weibo.com/tv/v/IktqraMX6?fid=1034:4448795015184388)<br>
 [广西横县云表镇某乡村小学教师邓某性侵一年级女童4年](https://www.sohu.com/a/382783696_120054099)<br>
 [广西南宁六旬男子在电梯内猥亵6岁女童，因高血压未被收押](http://k.sina.com.cn/article_5044281310_12ca99fde02000wz72.html?from=cul)<br>
+[广西南宁火车站一男子将4岁陌生女孩从二楼候车室抛下楼](https://www.sohu.com/na/409528405_260616)<br>
 [陕西咸阳兴平5岁小女孩儿疑遭13岁男孩性侵，下身粘膜充血水肿](http://news.hsw.cn/system/2016/0811/438722.shtml?rand=urtfvrnp)<br>
 [甘肃6岁女孩遭13岁男孩侵犯，不予立案](http://dy.163.com/v2/article/detail/EBEJ878605490OID.html)<br>
 [山东济南一大四男生在培训学校实习 趁机猥亵6岁女童](https://3g.china.com/act/news/10000169/20170518/30540501.html)<br>
@@ -910,6 +914,7 @@
 [辽宁辽阳市公安局原副局长富龙奸淫多名处女并致怀孕](https://m.sohu.com/n/224239855/)<br>
 [辽宁辽阳市辽阳县刘二堡某银行信贷员刘某车上强奸猥亵幼女，作案29起，受害幼女中最小的只有6岁](https://m.sohu.com/n/242341605/?page=2)<br>
 [辽宁葫芦岛高台镇水口小学校长涉嫌性侵多名小学女生被刑拘](http://www.mnw.cn/edu/news/2174844.html)<br>
+[网曝视频一男子用衣架暴打3名女童，女孩跪倒在地尖叫求饶仍惨遭毒手](https://xw.qq.com/cmsid/20200724A0X27900)<br>
 
 ### 7-17岁
 ```
@@ -1357,7 +1362,7 @@
 
 ### 与学历无关
 ```
-本小节合计：23条
+本小节合计：24条
 ```
 [中国传媒大学河南新乡籍男子李斯达将同校女生诱骗至一出租房内，强奸未遂后杀害](https://baike.baidu.com/item/%E6%9D%8E%E6%96%AF%E8%BE%BE/18351138?fr=aladdin)<br>
 [哈工大男生在网上用污言秽语辱骂师大女生](https://baijiahao.baidu.com/s?id=1654312917536888460&wfr=spider&for=pc)<br>
@@ -1382,11 +1387,11 @@
 [上海师范大学信息与机电工程学院2014级汽车服务工程专业本科1班学生胡晨龙，在学校东门公交站偷拍女性，已被开除学籍](https://tieba.baidu.com/p/5672333776?red_tag=3333559299&traceid=)<br>
 [江苏苏州一在读男硕士研究生多次强奸卖淫女并抢走嫖资](https://new.qq.com/omn/20200707/20200707A0LMHH00.html)<br> 
 [南京邮电大学毕业生、北美留学辩论圈男子赵南溪在深圳某日料火锅店水杯中给同伴女子下药](https://kuaibao.qq.com/s/20200713A0W80K00?refer=spider)<br>
-
+[浙大央美性搔扰惯犯崔青洲](https://www.douban.com/group/topic/186067447/)<br>
 
 ### 性骚扰
 ```
-本小节合计：48条
+本小节合计：49条
 ```
 [广西男子公交性骚扰被发现，掏刀恐吓被行拘15日](http://n.miaopai.com/media/LxKJlAiiw6k19G7RwVsuOiTnJ~XVCT-f)<br>
 [广西南宁一男子在餐厅两次袭胸陌生女子，罚款500](https://weibo.com/tv/v/In30FzQWb?fid=1034:4454920485535761)<br>
@@ -1398,6 +1403,7 @@
 [广州一女孩坐公交遭遇“咸猪手”，车长稳控“变态男”](https://m.sohu.com/a/291987146_120046696)<br>
 [广州一少女公交上被“咸猪手”摸哭](https://m.kunming.cn/news/c/2013-01-17/3189124.shtml)<br>
 [上海女子因前男友骚扰报案 才发现他竟是逃犯](https://baijiahao.baidu.com/s?id=1608192983467606581&wfr=spider&for=pc)<br>
+[北京地铁5号线一男子猥亵女乘客](http://video.sina.com.cn/p/news/2020-07-24/detail-iivhvpwx7221445.d.html)<br>
 [北京地铁10号线牡丹园站男子尾随猥亵女乘客](https://baijiahao.baidu.com/s?id=1664212358251517047&wfr=spider&for=pc)<br>
 [北京公交安全员性骚扰女乘客](http://baijiahao.baidu.com/s?id=1643634472390860955&wfr=spider&for=pc)<br>
 [北京公交车上老人乱摸女生 大胆性骚扰被拍好几次](http://stock.591hx.com/article/2016-05-29/0000981491s.shtml)<br>
