@@ -613,7 +613,7 @@
 [安徽太湖县弥陀镇男子张某在从弥陀法庭回家路上当街残忍杀害妻子，妻子两日前正提出离婚](https://www.thepaper.cn/newsDetail_forward_5336796)<br>
 [安徽肥东一男子因离婚起纠纷带走幼子威胁前妻](http://m.ahwang.cn/www.ahwang.cn/hefei/20190302/1879704.html)<br>
 [安徽淮南一男子程某因妻子要求离婚咬掉妻子嘴唇](www.ahwang.cn/content/2018-09/25/content_1839465.html)<br>
-[安徽合肥一男子因妻子提出离婚，在除夕夜捅死妻子哥哥](http:// www.ahwang.cn/content/2018-08/02/content_1825918.html)<br>
+[安徽合肥一男子因妻子提出离婚，在除夕夜捅死妻子哥哥](http://www.ahwang.cn/content/2018-08/02/content_1825918.html)<br>
 [安徽安庆桐城一男子唐某办离婚手续时杀妻](http://www.ahwang.cn/content/2014-11/27/content_1400297.html)<br>
 [河南项城男子办完离婚手续后捅死妻子及其娘家人](http://www.ahwang.cn/content/2013-03/12/content_1255609.html)<br>
 [四川德阳中江县仓山镇男子蔡某不愿离婚当街杀妻](http://news.sina.com.cn/s/2020-08-22/doc-iivhvpwy2435195.shtml)<br>
@@ -1070,7 +1070,7 @@
 [广东阳江一幼儿园园长苏某某猥亵儿童并向知情的女性伴侣泼硫酸](https://baijiahao.baidu.com/s?id=1671087364036841356&wfr=spider&for=pc)<br>
 [广东茂名多名幼童遭外派体能老师猥亵](https://weibo.com/tv/v/IgWcP70H5?fid=1034:4440364853986991)<br>
 [广东深圳龙岗区龙城街道，4岁被拐女童一句话提醒司机及时报警](https://weibo.com/tv/v/IktqraMX6?fid=1034:4448795015184388)<br>
-{广东清远英德男子刘某两次性侵邻村3岁女童 被判刑7年}(http://www.jiankangnews.cn/m/view.php?aid=10978)<br>
+[广东清远英德男子刘某两次性侵邻村3岁女童 被判刑7年](http://www.jiankangnews.cn/m/view.php?aid=10978)<br>
 [广西横县云表镇某乡村小学教师邓某性侵一年级女童4年](https://www.sohu.com/a/382783696_120054099)<br>
 [广西南宁六旬男子在电梯内猥亵6岁女童，因高血压未被收押](http://k.sina.com.cn/article_5044281310_12ca99fde02000wz72.html?from=cul)<br>
 [广西南宁火车站一男子将4岁陌生女孩从二楼候车室抛下楼](https://www.sohu.com/na/409528405_260616)<br>
@@ -1481,9 +1481,9 @@
 [沈阳长春出租车男司机张某、庞某猥亵女乘客称开玩笑](http://news.ifeng.com/society/1/200904/0423_343_1121236.shtml)<br>
 [辽宁大连现连环强奸色魔 多名女乘客在偏僻处遭强暴](http://ln.sina.com.cn/news/b/2012-11-23/084019363.html?from=ln_ydph&from=wap)<br>
 [辽宁大连女子深夜搭“顺风车”，遭两男子强奸抢劫！](https://m.sohu.com/a/32704235_129155)<br>
-[辽宁大连一黑龙江讷河籍男子王某某猥亵未满14岁女乘客](https://m.sohu.com/a/231525054_450302]<br>
+[辽宁大连一黑龙江讷河籍男子王某某猥亵未满14岁女乘客](https://m.sohu.com/a/231525054_450302)<br>
 [辽宁大连一男司机猥亵16岁高二女孩 被拘10日罚200元](https://m.sohu.com/a/145013261_450302)<br>
-[辽宁大连现连环强奸色魔 多名女乘客在偏僻处遭强暴(http://ln.sina.com.cn/news/b/2012-11-23/084019363.html?from=ln_ydph&from=wap
+[辽宁大连现连环强奸色魔 多名女乘客在偏僻处遭强暴](http://ln.sina.com.cn/news/b/2012-11-23/084019363.html?from=ln_ydph&from=wap)<br>
 [云南昆明盘龙区一男司机雷某某猥亵女乘客被批捕](https://m.baidu.com/sf_baijiahao/s?id=1600757223181377430&wfr=spider&for=pc&sa=vs_ob_realtime)<br>
 [云南祥鹏航空公司21岁空姐深夜遭滴滴司机杀害](https://www.sohu.com/a/231232259_426551)<br>
 [贵州惠水一滴滴司机猥亵女乘客](https://m.baidu.com/sf_baijiahao/s?id=1650885842483391301&wfr=spider&for=pc&sa=vs_ob_realtime)<br>
