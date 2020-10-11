@@ -778,6 +778,10 @@
 [陕西男子连捅恋人数刀致其死亡](http://n.miaopai.com/media/xgtgi8raGYswyLj~-KaDDhiIgYsDh6dA)<br>
 [陕西咸阳鱼化寨城中村的一个出租屋男子张某掐死女友与尸体同住3日](http://legal.people.com.cn/n/2013/1230/c188502-23975750.html)<br>
 [陕西西安凤城二路东段非机动车车道上男子殴打女友并将其强塞入女子宝马车的后备箱](http://culture.ifeng.com/c/7wPVbLgsys7?ivk_sa=1023197a)<br>
+[陕西咸阳市渭城区男子黄升博强奸前女友获刑三年](https://www.chinacourt.org/article/detail/2015/03/id/1560115.shtml)<br>
+[陕西渭南华阴市男子焦某某凌晨翻窗进入前女友家强行与其发生关系](http://news.163.com/20/0528/15/FDNOFQS600019K82.html)<br>
+[陕西渭南市高新区男子王某强奸女友后弃之不顾致其死亡](http://365jia.cn/news/2012-10-12/858426074219F804.html)<br>
+[陕西咸阳渭城区男子黄升博强奸前女友获刑三年](https://www.chinacourt.org/article/detail/2015/03/id/1560115.shtml)<br>
 [河北邯郸邱县梁二庄镇张何村男子王某仲砍死女子的父母并砍伤女子](https://www.guancha.cn/politics/2019_12_28_529832.shtml)<br>
 [河北邯郸成安县城南台路边一男子陈某杀害前女友](http://m.fengfeng.cc/news/newsview.php?id=20234)<br>
 [河北邯郸一男子杨某分手后被频繁骚扰前女友，并驾车碾压](https://www.sohu.com/a/421636596_162758)<br>
@@ -787,10 +791,6 @@
 [湖北襄阳高新区安徽籍男子李某掐死同居女友装箱沉尸水底](http://news.ifeng.com/c/7nmAymnHaWe)<br>
 [湖北荆门男子聂某某杀女友又对其4岁女下毒手](https://weibo.com/ttarticle/p/show?id=2309351002454292955446849202&u=2189704752&m=4292955290847560&cu=2189704752)<br>
 [吉林长春九台区男子唐某持菜刀将女友和女友母亲当街砍死](http://n.miaopai.com/media/9mNdssQ42H6ZcAumkAWGFuXI-0Jan7rf)<br>
-[陕西咸阳市渭城区男子黄升博强奸前女友获刑三年](https://www.chinacourt.org/article/detail/2015/03/id/1560115.shtml)<br>
-[陕西渭南华阴市男子焦某某凌晨翻窗进入前女友家强行与其发生关系](http://news.163.com/20/0528/15/FDNOFQS600019K82.html)<br>
-[陕西渭南市高新区男子王某强奸女友后弃之不顾致其死亡] (http://365jia.cn/news/2012-10-12/858426074219F804.html)<br>
-[陕西咸阳渭城区男子黄升博强奸前女友获刑三年](https://www.chinacourt.org/article/detail/2015/03/id/1560115.shtml)<br>
 [江西上饶男子俞健杀死情人照常出门打麻将 还陪死者儿子一起报案](https://news.sina.com.cn/s/2020-07-27/doc-iivhvpwx7741641.shtml )<br>
 [江西27岁女子拒绝相亲男子后遇害身亡](https://new.qq.com/rain/a/20190505A09B9I)<br>
 [江西男子徐某杀害订婚仅40天的未婚妻](https://weibo.com/tv/v/IlZIdzl9P?fid=1034:4452413982310406)<br>
@@ -941,8 +941,7 @@
 [河南少女失踪6年后被找到，已与一对父子生3孩并精神分裂](https://baijiahao.baidu.com/s?id=1620782852540777374&wfr=spider&for=pc)<br>
 [河南“女大学生遭性侵毁尸案”](http://www.bjnews.com.cn/news/2019/08/23/618720.html)<br>
 [河南南阳方城县一张家口蔚县籍男子魏海伙同三人强奸女性](http://m.jiangsu.china.com.cn/mobile/law/case/2556331_3.html)<br>
-[河南信阳淮滨县赵集镇男子杨志才、王夫伟将女子骗至安徽界首市砖集镇乡下杀害]
-(https://www.sohu.com/a/421568905_260616)<br>
+[河南信阳淮滨县赵集镇男子杨志才、王夫伟将女子骗至安徽界首市砖集镇乡下杀害](https://www.sohu.com/a/421568905_260616)<br>
 [河南郑州文化北路陈寨村南一街62号院五楼一男子强奸女子致其变为植物人](https://henan.qq.com/a/20150707/017025.htm?ADUIN=502265395&ADSESSION=1436233179&ADTAG=CLIENT.QQ.5407_.0&ADPUBNO=26471)<br>
 [河南郑州龙子湖高校区，一男子锁喉袭击女子，拖进树丛猥亵](https://weibo.com/u/1744028627?is_hot=1#_rnd1592552811856)<br>
 [河南郑州郑东新区农业南路某小区男子肖某噪音问题杀害邻居3女孩](https://kuaibao.qq.com/s/20191123A0K95300?refer=spider)<br>
